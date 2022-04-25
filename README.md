@@ -1,0 +1,2 @@
+# ppa
+ppa install repository
