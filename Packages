@@ -1,0 +1,180 @@
+Package: gambas3-gb-scripter
+Version: 3.16.90-0ubuntu1
+Architecture: all
+Maintainer: Gambas Team <g4mba5@gmail.com>
+Installed-Size: 317
+Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.15), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-xml (>= 3.15), gambas3-gb-xml (<< 3.99.0), gambas3-gb-util (>= 3.15), gambas3-gb-util (<< 3.99.0)
+Filename: ./gambas3-gb-scripter_3.16.90-0ubuntu1_all.deb
+Size: 72440
+MD5sum: b2c2db55355f128c82b81d5ce956ab6f
+SHA1: 95cdb972214acf4726566a24950cb8a5abaf1f81
+SHA256: 7f3cdf74c0b4fb31cbfb3137a0c75da95d13235314224825b2e7ff729dc095ed
+Section: contrib/libs
+Priority: optional
+Description: Scripter Component, execute scripts and load script based plugins
+ Scripter Component, execute scripts and load script based plugins
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-gb-scripter
+Version: 3.16.90-1
+Architecture: all
+Maintainer: Gambas Team <g4mba5@gmail.com>
+Installed-Size: 317
+Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.15), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-xml (>= 3.15), gambas3-gb-xml (<< 3.99.0), gambas3-gb-util (>= 3.15), gambas3-gb-util (<< 3.99.0)
+Filename: ./gambas3-gb-scripter_3.16.90-1_all.deb
+Size: 72436
+MD5sum: 52bae0cc82e900a616459671f969d3d9
+SHA1: 26b1a98d7f11f9e4b6640e882e19be6b5ef3886c
+SHA256: 018a603cf9f35371a8238aaea1f7e8b319834b35158edfdf8d9a3532ba98f0c4
+Section: contrib/devel
+Priority: optional
+Description: Scripter Component, execute scripts and load script based plugins
+ Scripter Component, execute scripts and load script based plugins
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-gb-scripter
+Version: 3.17.0-0ubuntu1
+Architecture: all
+Maintainer: Gambas Team <g4mba5@gmail.com>
+Installed-Size: 350
+Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.15), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-xml (>= 3.15), gambas3-gb-xml (<< 3.99.0), gambas3-gb-util (>= 3.15), gambas3-gb-util (<< 3.99.0)
+Filename: ./gambas3-gb-scripter_3.17.0-0ubuntu1_all.deb
+Size: 82928
+MD5sum: 8adf018c984b98332f88d6e5164aa5be
+SHA1: 49c70a7ed5588a06ff9d55bf85f4454c982316d9
+SHA256: 5be6a8b58f6afe2a1d9a7576929047dd89f099a80739d402c16ebb2546927f66
+Section: contrib/libs
+Priority: optional
+Description: Scripter Component, execute scripts and load script based plugins
+ Scripter Component, execute scripts and load script based plugins
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-gb-scripter
+Version: 3.17.0-1
+Architecture: all
+Maintainer: Gambas Team <g4mba5@gmail.com>
+Installed-Size: 350
+Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.15), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-xml (>= 3.15), gambas3-gb-xml (<< 3.99.0), gambas3-gb-util (>= 3.15), gambas3-gb-util (<< 3.99.0)
+Filename: ./gambas3-gb-scripter_3.17.0-1_all.deb
+Size: 82920
+MD5sum: 0799e05ca9ae41166f064abf16543d5e
+SHA1: 94702014f3322ed4ec140635649274871e151408
+SHA256: a12b6a6cb95aad596b6b4fb2993c8c221861e00d53e305b775aa18a8bc93f080
+Section: contrib/devel
+Priority: optional
+Description: Scripter Component, execute scripts and load script based plugins
+ Scripter Component, execute scripts and load script based plugins
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-westwood-sharedmem
+Version: 3.15.3-0ubuntu38
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 334
+Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0)
+Filename: ./gambas3-westwood-sharedmem_3.15.3-0ubuntu38_all.deb
+Size: 76572
+MD5sum: 99d01888709e8ef816d21c74ba338df0
+SHA1: 25cd05d1f1d26ac3395bd85d6bb76c4efc279e25
+SHA256: 5f2224c651d0195e5b24ea102f8b09a9e1968ae36f1eedf87a7100a5affc4178
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-westwood-sharedmem
+Version: 3.15.3-38
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 334
+Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0)
+Filename: ./gambas3-westwood-sharedmem_3.15.3-38_all.deb
+Size: 76552
+MD5sum: 96cd3ded2ae661be187ffe1668fab724
+SHA1: 4323f0bf2b42dc2740c9d6e0d9aed7e99de977ec
+SHA256: 34427908e92b97f3864586d1f36279652ce56ecc9a175391c4aeb592a80dac80
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-westwood-sharedmem
+Version: 3.17.0-0ubuntu39
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 499
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0)
+Filename: ./gambas3-westwood-sharedmem_3.17.0-0ubuntu39_all.deb
+Size: 118572
+MD5sum: 38377aead55414c2bc7c5f2ea67c6164
+SHA1: b8f19148f35adcbccc293dcfdb645153e46797a5
+SHA256: b7e0b72e968e1bd48724024f02d27f1c9c7ab4203add016323d39b710e99ece1
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-westwood-sharedmem
+Version: 3.17.0-39
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 499
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0)
+Filename: ./gambas3-westwood-sharedmem_3.17.0-39_all.deb
+Size: 118580
+MD5sum: 909e616dc5f6008efb2661b3611d33a6
+SHA1: 8d4e80197da00b876f1b2d59d6b472e7d177ed13
+SHA256: 0ce60cc3a02ae326d4d62815f8125b58169f3d4ef9cc8adb89df97b63ae80e46
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ This is a Gambas component written in Gambas.
+
+Package: gsh
+Version: 1.3.107-0ubuntu1
+Architecture: all
+Maintainer: Brian G <justlostintime@gmail.com>
+Installed-Size: 792
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.17), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.17), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.17), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.17), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.17), gambas3-gb-util (<< 3.99.0), gambas3-gb-term (>= 3.17), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.17), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.17), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.17), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-pcre (>= 3.17), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-xml (>= 3.17), gambas3-gb-xml (<< 3.99.0), gambas3-gb-scripter (>= 3.17), gambas3-gb-scripter (<< 3.99.0), gambas3-gb-signal (>= 3.17), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.17), gambas3-gb-util-web (<< 3.99.0), gambas3-westwood-sharedmem (>= 3.17), gambas3-westwood-sharedmem (<< 3.99.0)
+Filename: ./gsh_1.3.107-0ubuntu1_all.deb
+Size: 357616
+MD5sum: f24f79a54273f46912f74e237459a089
+SHA1: 28627b6d26d5a337bfabf1aac7a256f401dc11ee
+SHA256: 291605f563a204ebbd1e7fb427969d66447357ff83d91a65189ae83627eed4a3
+Section: contrib/shells
+Priority: optional
+Description: Gambas interactive shell
+ Gambas interactive shell
+ This program is written in Gambas.
+
+Package: gsh
+Version: 1.3.107-1
+Architecture: all
+Maintainer: Brian G <justlostintime@gmail.com>
+Installed-Size: 792
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.17), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.17), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.17), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.17), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.17), gambas3-gb-util (<< 3.99.0), gambas3-gb-term (>= 3.17), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.17), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.17), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.17), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-pcre (>= 3.17), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-xml (>= 3.17), gambas3-gb-xml (<< 3.99.0), gambas3-gb-scripter (>= 3.17), gambas3-gb-scripter (<< 3.99.0), gambas3-gb-signal (>= 3.17), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.17), gambas3-gb-util-web (<< 3.99.0), gambas3-westwood-sharedmem (>= 3.17), gambas3-westwood-sharedmem (<< 3.99.0)
+Filename: ./gsh_1.3.107-1_all.deb
+Size: 357600
+MD5sum: 6e3df5ee56cf62cd901e35f368dac4dc
+SHA1: cdf2a0022d0d67e192e08de4b6723dff31056220
+SHA256: 782c14fb5352ef28c31fdb0c5aec1fb2301996f45c8e1c0c15901a69fe27524f
+Section: contrib/shells
+Priority: optional
+Description: Gambas interactive shell
+ Gambas interactive shell
+ This program is written in Gambas.
+
