@@ -49,23 +49,6 @@ Description: Scripter Component, execute scripts and load script based plugins
  Scripter Component, execute scripts and load script based plugins
  This is a Gambas component written in Gambas.
 
-Package: gambas3-gb-scripter
-Version: 3.17.0-1
-Architecture: all
-Maintainer: Gambas Team <g4mba5@gmail.com>
-Installed-Size: 350
-Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.15), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-xml (>= 3.15), gambas3-gb-xml (<< 3.99.0), gambas3-gb-util (>= 3.15), gambas3-gb-util (<< 3.99.0)
-Filename: ./gambas3-gb-scripter_3.17.0-1_all.deb
-Size: 82920
-MD5sum: 0799e05ca9ae41166f064abf16543d5e
-SHA1: 94702014f3322ed4ec140635649274871e151408
-SHA256: a12b6a6cb95aad596b6b4fb2993c8c221861e00d53e305b775aa18a8bc93f080
-Section: contrib/devel
-Priority: optional
-Description: Scripter Component, execute scripts and load script based plugins
- Scripter Component, execute scripts and load script based plugins
- This is a Gambas component written in Gambas.
-
 Package: gambas3-westwood-sharedmem
 Version: 3.15.3-0ubuntu38
 Architecture: all
@@ -135,6 +118,46 @@ Size: 118580
 MD5sum: 909e616dc5f6008efb2661b3611d33a6
 SHA1: 8d4e80197da00b876f1b2d59d6b472e7d177ed13
 SHA256: 0ce60cc3a02ae326d4d62815f8125b58169f3d4ef9cc8adb89df97b63ae80e46
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-westwood-sharedmem
+Version: 3.17.1-0ubuntu40
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 499
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0)
+Filename: ./gambas3-westwood-sharedmem_3.17.1-0ubuntu40_all.deb
+Size: 118512
+MD5sum: 3138238621a914a173f54305b1e34839
+SHA1: b6803c7b0e55d49e4dc178afa0735ecb1b0ac539
+SHA256: 5b6a97a2ed194b928400c98520cf9f643a7e776fb83c0e602b5a94539586dae1
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ This is a Gambas component written in Gambas.
+
+Package: gambas3-westwood-sharedmem
+Version: 3.17.1-40
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 499
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0)
+Filename: ./gambas3-westwood-sharedmem_3.17.1-40_all.deb
+Size: 118504
+MD5sum: 13fac1469033a0bea6fbb90d3c50347e
+SHA1: 6ac29d321053e1335741984b05b11823ce43995c
+SHA256: 05b0c4451976ebd20d74e9fd15e65be3e645d226c0844f70b8f0b4d86bee6b1d
 Section: contrib/libs
 Priority: optional
 Description: SharedMem is a library to enable shared memory between tasks and...
