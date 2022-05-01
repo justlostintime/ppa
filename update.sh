@@ -1,3 +1,5 @@
+#run makeppa
+
 #!/bin/bash
 
 set -e
