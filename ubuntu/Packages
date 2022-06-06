@@ -82,6 +82,66 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  Updated to better handle device, and user NMI,IRQ,RESET requests
  This program is written in Gambas.
 
+Package: em6502
+Version: 1.1.1-2
+Architecture: all
+Maintainer: Justlostintime <justlostintime@gmail.com>
+Installed-Size: 5200
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0)
+Filename: ./em6502_1.1.1-2_all.deb
+Size: 1645672
+MD5sum: fca585859aaf0d63fdcdc84af937689c
+SHA1: 53908107f7f814c9608a0938789d7711b6e338cd
+SHA256: d9537a5f5df2fa5e6ad68d8dc88ab181d963bd00c250c5311755c34e5b246676
+Section: contrib/interpreters
+Priority: optional
+Description: A fairly complete 6502/65C02 development environment with some s...
+ A fairly complete 6502/65C02 development environment with some sample computer
+ configurations. Written entirely in Gambas.
+ Using the JIT it runs at about simulated 4mhz. Not too bad!
+ Update Such that new devices and Computer Defs are created upon new releae
+ without having to do a -d to update everything.
+ Added New Device:  MMU Memory Management unit.
+ Added more help/ better error messages.
+ Update to work with new Wait implementation.
+ Update to include 65C02 instructions,xa assembler into ~/asm directory
+ Updated fo fix exit in fmain, when stoping or stepping from debugger screen.
+ Updated name to em6502, to Match github source
+ I am continually amazed by the power and flexibility of Gambas3 Created by
+ Benoît Minisini.
+ Updated Device set with MMU memory management unit implementation
+ Updated use the -d option to replace  your ~/6502 root directory content with
+ latest information.
+ Updated to provide cli interface example  '6502 -c Default' will start the
+ default computer configuration.
+ Updated to provide instruction level profiling, look under debug menu.
+ Updated to improve device halt and cpu halt, added big reset button device.
+ Improved the Basic device example.
+ This was a little hobby project, and a lot of fun writing 6502 programs and
+ getting some of the old tiny basic... yes more basic, running again. quite a
+ few are included are part of the project.
+ Have fun exploring the nostalgia of the  70's again...
+ This requires the latest development copy of gambas, or 3.17 which ever comes
+ first!
+ Updated to better handle device, and user NMI,IRQ,RESET requests
+ This program is written in Gambas.
+
+Package: em6502-gtk
+Version: 1.1.1-0ubuntu2
+Architecture: all
+Maintainer: Justlostintime <justlostintime@gmail.com>
+Installed-Size: 8
+Depends: em6502 (>= 1.1.1-0ubuntu2), em6502 (<= 1.1.1-0ubuntu2), gambas3-gb-gtk (>= 3.16), gambas3-gb-gtk (<< 3.99.0)
+Filename: ./em6502-gtk_1.1.1-0ubuntu2_all.deb
+Size: 1644
+MD5sum: 0f98619acbefa24c9c6135d9af47963c
+SHA1: 2fe24e7c8f0b7c8ab4fc849f915cf8c6d67efdb5
+SHA256: fc87452b94be9eb991836bea20fd4587e1d9d602ad7dee119612d63ae1bc1699
+Section: contrib/interpreters
+Priority: optional
+Description: gtk package for 6502/65C02 CPU Emulation
+ This is the dummy gtk package for 6502/65C02 CPU Emulation
+
 Package: gambas3-gb-scripter
 Version: 3.16.90-0ubuntu1
 Architecture: all
