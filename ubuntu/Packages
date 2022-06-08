@@ -1,46 +1,4 @@
 Package: em6502
-Version: 1.1.0-0ubuntu2
-Architecture: all
-Maintainer: Justlostintime <justlostintime@gmail.com>
-Installed-Size: 5200
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0)
-Filename: ./em6502_1.1.0-0ubuntu2_all.deb
-Size: 1645104
-MD5sum: b7143909c9c1ac56da26792c90c8600b
-SHA1: ee342dd490143dc93456d5be66c71d0bdda50c5f
-SHA256: 5173690da85a8cd3b0fa65121efd1b96662be3707d46f5a22c2f4a58f30ab7b7
-Section: contrib/interpreters
-Priority: optional
-Description: A fairly complete 6502/65C02 development environment with some s...
- A fairly complete 6502/65C02 development environment with some sample computer
- configurations. Written entirely in Gambas.
- Using the JIT it runs at about simulated 4mhz. Not too bad!
- Added New Device:  MMU Memory Management unit.
- Added more help/ better error messages.
- Update to work with new Wait implementation.
- Update to include 65C02 instructions,xa assembler into ~/asm directory
- Updated fo fix exit in fmain, when stoping or stepping from debugger screen.
- Updated name to em6502, to Match github source
- I am continually amazed by the power and flexibility of Gambas3 Created by
- Benoît Minisini.
- Updated Device set with MMU memory management unit implementation
- Updated use the -d option to replace  your ~/6502 root directory content with
- latest information.
- Updated to provide cli interface example  '6502 -c Default' will start the
- default computer configuration.
- Updated to provide instruction level profiling, look under debug menu.
- Updated to improve device halt and cpu halt, added big reset button device.
- Improved the Basic device example.
- This was a little hobby project, and a lot of fun writing 6502 programs and
- getting some of the old tiny basic... yes more basic, running again. quite a
- few are included are part of the project.
- Have fun exploring the nostalgia of the  70's again...
- This requires the latest development copy of gambas, or 3.17 which ever comes
- first!
- Updated to better handle device, and user NMI,IRQ,RESET requests
- This program is written in Gambas.
-
-Package: em6502
 Version: 1.1.0-2
 Architecture: all
 Maintainer: Justlostintime <justlostintime@gmail.com>
@@ -65,51 +23,6 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  Updated name to em6502, to Match github source
  I am continually amazed by the power and flexibility of Gambas3 Created by
  Benoît Minisini.
- Updated Device set with MMU memory management unit implementation
- Updated use the -d option to replace  your ~/6502 root directory content with
- latest information.
- Updated to provide cli interface example  '6502 -c Default' will start the
- default computer configuration.
- Updated to provide instruction level profiling, look under debug menu.
- Updated to improve device halt and cpu halt, added big reset button device.
- Improved the Basic device example.
- This was a little hobby project, and a lot of fun writing 6502 programs and
- getting some of the old tiny basic... yes more basic, running again. quite a
- few are included are part of the project.
- Have fun exploring the nostalgia of the  70's again...
- This requires the latest development copy of gambas, or 3.17 which ever comes
- first!
- Updated to better handle device, and user NMI,IRQ,RESET requests
- This program is written in Gambas.
-
-Package: em6502
-Version: 1.1.1-0ubuntu3
-Architecture: all
-Maintainer: Justlostintime <justlostintime@gmail.com>
-Installed-Size: 5204
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0)
-Filename: ./em6502_1.1.1-0ubuntu3_all.deb
-Size: 1646664
-MD5sum: bc758704eddfd61a7a943089efd03dd7
-SHA1: 0f044d00e23f1bd4c1090f9ce17614521dacea1f
-SHA256: ca0c6e6a7451a9c4f385f315d7981c359073fde7f6f3f943e3c384d4109a6f6b
-Section: contrib/interpreters
-Priority: optional
-Description: A fairly complete 6502/65C02 development environment with some s...
- A fairly complete 6502/65C02 development environment with some sample computer
- configurations. Written entirely in Gambas.
- Using the JIT it runs at about simulated 4mhz. Not too bad!
- Update Such that new devices and Computer Defs are created upon new releae
- without having to do a -d to update everything.
- Added New Device:  MMU Memory Management unit.
- Added more help/ better error messages.
- Update to work with new Wait implementation.
- Update to include 65C02 instructions,xa assembler into ~/asm directory
- Updated fo fix exit in fmain, when stoping or stepping from debugger screen.
- Updated name to em6502, to Match github source
- I am continually amazed by the power and flexibility of Gambas3 Created by
- Benoît Minisini.
- Updated the Update process, More automatic
  Updated Device set with MMU memory management unit implementation
  Updated use the -d option to replace  your ~/6502 root directory content with
  latest information.
@@ -172,16 +85,16 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  This program is written in Gambas.
 
 Package: em6502
-Version: 1.1.1-3
+Version: 1.1.2-1
 Architecture: all
 Maintainer: Justlostintime <justlostintime@gmail.com>
 Installed-Size: 5204
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0)
-Filename: ./em6502_1.1.1-3_all.deb
-Size: 1646656
-MD5sum: 987d0d4a7c7f1c4bc91e497ac75ac8ab
-SHA1: cf8e815e39b2d06d70e55fa4694addf4845c7196
-SHA256: 53afcc4f301c8b50b470b8470e26bf85d7b8ad0d5be754f73160fb6bac85ce71
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0)
+Filename: ./em6502_1.1.2-1_all.deb
+Size: 1646780
+MD5sum: 20d3426f75d3c3c5e165c8be2587ea9d
+SHA1: bb23fcabef80afb77c4c72c44eed1914d66ccb4c
+SHA256: fef755eca579d16016e6cbab09b071174ce4bbee5ce8a6da70f3c5e797557b32
 Section: contrib/interpreters
 Priority: optional
 Description: A fairly complete 6502/65C02 development environment with some s...
