@@ -187,6 +187,22 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  Updated to better handle device, and user NMI,IRQ,RESET requests
  This program is written in Gambas.
 
+Package: em6502-gtk
+Version: 1.1.6-1
+Architecture: all
+Maintainer: Justlostintime <justlostintime@gmail.com>
+Installed-Size: 8
+Depends: em6502 (>= 1.1.6-1), em6502 (<= 1.1.6-1), gambas3-gb-gtk (>= 3.16), gambas3-gb-gtk (<< 3.99.0)
+Filename: ./em6502-gtk_1.1.6-1_all.deb
+Size: 1772
+MD5sum: ae81c6d3b7f9c9905b1c77d0ebd6850f
+SHA1: 600e781d607664e3ebe348227ae7ce98aaebf10e
+SHA256: a9d5ce3f29a884e21352d0fcbfa5e2f66bf32bf3e56c1a255e9267c2270abcd1
+Section: contrib/interpreters
+Priority: optional
+Description: gtk package for 6502/65C02 CPU Emulation
+ This is the dummy gtk package for 6502/65C02 CPU Emulation
+
 Package: gambas3-gb-scripter
 Version: 3.16.90-0ubuntu1
 Architecture: all
