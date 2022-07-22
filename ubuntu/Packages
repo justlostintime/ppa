@@ -240,6 +240,60 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  Updated to better handle device, and user NMI,IRQ,RESET requests
  This program is written in Gambas.
 
+Package: em6502
+Version: 1.1.7-1
+Architecture: all
+Maintainer: Justlostintime <justlostintime@gmail.com>
+Installed-Size: 5249
+Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0)
+Filename: ./em6502_1.1.7-1_all.deb
+Size: 1658156
+MD5sum: e6922fe7020759a8ac8ab3623872b14b
+SHA1: c01be2738e21ef05524649d62280505b687017da
+SHA256: a88be3992411a1355eb84a7a0c14baa4e22da86ade7786a428d38ed299384b40
+Section: contrib/interpreters
+Priority: optional
+Description: A fairly complete 6502/65C02 development environment with some s...
+ A fairly complete 6502/65C02 development environment with some sample computer
+ configurations. Written entirely in Gambas.
+ Using the JIT it runs at about simulated 4mhz. Not too bad!
+ Fix 6502 test and set bit instruction, added a tunnels and traps game
+ Add function to tiny basic, multi line : , read text char to Variable
+ Cleanup Error handling and create verbosity switch to command line
+ Fixed SEi instruction
+ updated tiny basic to support IRQ handlers written in basic
+ updated PIA device to support realtime clock and irq timer
+ added sample programs for clock and irq handler implementation
+ Fixed update/create of intial files... was failing on first time create of
+ root(6502) directory
+ Update Such that new devices and Computer Defs are created upon new release
+ without having to do a -d to update everything.
+ Added New Device:  MMU Memory Management unit.
+ Added more help/ better error messages.
+ Update to work with new Wait implementation.
+ Update to include 65C02 instructions,xa assembler into ~/asm directory
+ Updated fo fix exit in fmain, when stoping or stepping from debugger screen.
+ Updated name to em6502, to Match github source
+ I am continually amazed by the power and flexibility of Gambas3 Created by
+ Benoît Minisini.
+ Updated the Update process, More automatic
+ Updated Device set with MMU memory management unit implementation
+ Updated use the -d option to replace  your ~/6502 root directory content with
+ latest information.
+ Updated to provide cli interface example  '6502 -c Default' will start the
+ default computer configuration.
+ Updated to provide instruction level profiling, look under debug menu.
+ Updated to improve device halt and cpu halt, added big reset button device.
+ Improved the Basic device example.
+ This was a little hobby project, and a lot of fun writing 6502 programs and
+ getting some of the old tiny basic... yes more basic, running again. quite a
+ few are included are part of the project.
+ Have fun exploring the nostalgia of the  70's again...
+ This requires the latest development copy of gambas, or 3.17 which ever comes
+ first!
+ Updated to better handle device, and user NMI,IRQ,RESET requests
+ This program is written in Gambas.
+
 Package: gambas3-gb-scripter
 Version: 3.16.90-0ubuntu1
 Architecture: all
