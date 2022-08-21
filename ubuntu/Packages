@@ -431,16 +431,16 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  This program is written in Gambas.
 
 Package: em6502
-Version: 1.1.17-1
+Version: 1.1.19-1
 Architecture: all
 Maintainer: Justlostintime <justlostintime@gmail.com>
-Installed-Size: 10940
+Installed-Size: 10954
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0)
-Filename: ./em6502_1.1.17-1_all.deb
-Size: 5666252
-MD5sum: fdf07f0206f4b66d12522b7c3be00b93
-SHA1: 4412ade7f83b11981717b0ef8fd66604ac7cc275
-SHA256: 4117eb1e14a391903046ec9bee6637b44964f7159b5b7d29e5aa53506d8a77c1
+Filename: ./em6502_1.1.19-1_all.deb
+Size: 5668796
+MD5sum: 5f1fe87701337aa10ce79bab57fabcb4
+SHA1: 6244b95448e4d671da2002c7435751fb6f3cb3c4
+SHA256: b900ed259b422bf2419203d0f8566b5138513190c23b38f5794bd75d58832a4c
 Section: contrib/interpreters
 Priority: optional
 Description: A fairly complete 6502/65C02 development environment with some s...
@@ -451,7 +451,7 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  supports, IRQ handlers written in Basic. It allows mutiple Tasks to be spawned
  in your basic program. More fun.
  V1.1.16
- Many bug fixes and fun stuff
+ Many bug fixes and fun stuff see em6502 wiki
  V1.1.14
  Many bug fixes, spedd improvements, added Watch window
  TinyBasic is now Concurrent Basic, full ipc/task management
