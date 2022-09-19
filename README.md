@@ -1,5 +1,5 @@
 # ppa
-ppa install repository
+ppa install repository, Gambas Shell gsh, em6502
 
 # Add Additional application source
 ```
@@ -11,4 +11,6 @@ sudo apt update
 # Install software
 ```
 sudo apt install gsh
+or
+sudo apt install em6502
 ```
