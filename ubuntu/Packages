@@ -520,10 +520,10 @@ Maintainer: Justlostintime <justlostintime@gmail.com>
 Installed-Size: 11876
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0)
 Filename: ./em6502_1.1.20-0ubuntu1_all.deb
-Size: 5851292
-MD5sum: fa0d3f165653d0e15d23dbbdea50695a
-SHA1: 17393da9da275cf1a79685d9b5c37ca483ea74b4
-SHA256: da1c0e4eb254e905c74f4b035055f4b4c97533a64a2b18243308352f49c6b9ee
+Size: 5851324
+MD5sum: 91079d43e4b8fa6c2938e07fd45deb04
+SHA1: 8bc0af74025449a4d137f6c6c9babf473a1fa18e
+SHA256: 09ac83a6a4fe9fbdd3f01b66328659777ec9c2c2208df559a983567dc547dcb1
 Section: contrib/interpreters
 Priority: optional
 Description: A fairly complete 6502/65C02 development environment with some s...
@@ -607,10 +607,10 @@ Maintainer: Justlostintime <justlostintime@gmail.com>
 Installed-Size: 11876
 Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0)
 Filename: ./em6502_1.1.20-1_all.deb
-Size: 5851304
-MD5sum: 163a8056eb0b1f8fc962fa3a628344a7
-SHA1: b987d9754874b1657ff73c9fdd78cb6b3d0c15bf
-SHA256: 3f5177236a6c52f7695b261dbab16824edaa531964f521e2548f3e4ab1cb0712
+Size: 5851324
+MD5sum: cb825d6dfa7cc4aa0ac0987ad36dc98c
+SHA1: b9b1868a218109ff912546e2f3a126ca7d938025
+SHA256: 01c71ed60702404a6b9c9bc9b107f77d451d7bdfa35acdc560af035976f6d7e0
 Section: contrib/interpreters
 Priority: optional
 Description: A fairly complete 6502/65C02 development environment with some s...
