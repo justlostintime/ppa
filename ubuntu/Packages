@@ -1014,6 +1014,105 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  Updated to better handle device, and user NMI,IRQ,RESET requests
  This program is written in Gambas.
 
+Package: em6502
+Version: 1.2.2-1
+Architecture: all
+Maintainer: Justlostintime <justlostintime@gmail.com>
+Installed-Size: 16295
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.18), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.18), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.18), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.18), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-form-terminal (>= 3.18), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.18), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0)
+Filename: ./em6502_1.2.2-1_all.deb
+Size: 7116348
+MD5sum: c8577e02aa886c1f4ef6c7ca03f43556
+SHA1: 2692c4c912352a781daf7c7be8f6f964bd8e21bf
+SHA256: 58003a36f2137726448d7d72097b66afad5c72744790f94c53dc7b336056caff
+Section: contrib/interpreters
+Priority: optional
+Description: A fairly complete 6502/65C02 development environment with some s...
+ A fairly complete 6502/65C02 development environment with some sample computer
+ configurations. Written entirely in Gambas.
+ Using the JIT it runs at about simulated 3-4mhz. Not too bad!
+ v1.2.2
+ many emulator fixes, some speed ups
+ Added cc65 compliler interrface and libraries for ctmon65
+ Added example c programs
+ The tiny basic included in this project will run on the kim1 or ct65, it
+ supports, IRQ handlers written in Basic. It allows mutiple Tasks to be spawned
+ in your basic program. More fun.
+ v1.2.1
+ LT release.
+ v1.1.22
+  Bug fixes
+ V1.1.20
+  Updated MYTB to tokenize and compile  line addresses... startrek, and
+ adventure now work  great, have fun!
+  mytb is 60% faster
+ Added ability to debug 6502 apps using source code debugger, uses .lst file as
+ the source file. May open as many files as binary apps loaded. Just double
+ click the .sym entry on the screen.
+ Added ability to debug using souce code listing, with multiple binary sources.
+ V1.1.16
+ Many bug fixes and fun stuff see em6502 wiki
+ V1.1.14
+ Many bug fixes, spedd improvements, added Watch window
+ TinyBasic is now Concurrent Basic, full ipc/task management
+ V1.1.12
+ Updated to multi task Basic language OS
+ Improved em IDE to handle Upper lower case symbols correctly
+ Numerous bug fixes
+ V1.1.11
+ Updated Memory mapping improves speed by 20%
+ Update Tinybasic IL manages Tasks natively.
+  Updated documentation for supported computer emulations
+     and devices.
+ V1.1.9
+ Fixed issues with lda abs,X instruction
+ updated Tiny Basic to be fully able to run up to 10 tasks at a time, return
+ stack limited to 16 levels
+ V1.1.8
+ Actually include 100doors
+ updated Tiny Basic to support 1) array of variables, 2) added task management
+ and support
+ Fix 6502 ROL instruction
+ V1.1.7
+ Fix 6502 test and set bit instruction, added a tunnels and traps game
+ Add function to tiny basic, multi line : , read text char to Variable
+ Cleanup Error handling and create verbosity switch to command line
+ Fixed SEi instruction
+ v1.1.6
+ updated tiny basic to support IRQ handlers written in basic
+ updated PIA device to support realtime clock and irq timer
+ added sample programs for clock and irq handler implementation
+ Fixed update/create of intial files... was failing on first time create of
+ root(6502) directory
+ Update Such that new devices and Computer Defs are created upon new release
+ without having to do a -d to update everything.
+ Added New Device:  MMU Memory Management unit.
+ Added more help/ better error messages.
+ Update to work with new Wait implementation.
+ Update to include 65C02 instructions,xa assembler into ~/asm directory
+ Updated fo fix exit in fmain, when stoping or stepping from debugger screen.
+ Updated name to em6502, to Match github source
+ I am continually amazed by the power and flexibility of Gambas3 Created by
+ Benoît Minisini.
+ Updated the Update process, More automatic
+ Updated Device set with MMU memory management unit implementation
+ Updated use the -d option to replace  your ~/6502 root directory content with
+ latest information.
+ Updated to provide cli interface example  '6502 -c Default' will start the
+ default computer configuration.
+ Updated to provide instruction level profiling, look under debug menu.
+ Updated to improve device halt and cpu halt, added big reset button device.
+ Improved the Basic device example.
+ This was a little hobby project, and a lot of fun writing 6502 programs and
+ getting some of the old tiny basic... yes more basic, running again. quite a
+ few are included are part of the project.
+ Have fun exploring the nostalgia of the  70's again...
+ This requires the latest development copy of gambas, or 3.17 which ever comes
+ first!
+ V1.1.8
+ Updated to better handle device, and user NMI,IRQ,RESET requests
+ This program is written in Gambas.
+
 Package: gambas3-gb-scripter
 Version: 3.16.90-0ubuntu1
 Architecture: all
@@ -1569,6 +1668,23 @@ Description: Gambas interactive shell
  Gambas interactive shell
  This program is written in Gambas.
 
+Package: gsh
+Version: 1.4.1-1
+Architecture: all
+Maintainer: Brian G <justlostintime@gmail.com>
+Installed-Size: 815
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.17), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.17), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.17), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.17), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-net (>= 3.17), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.17), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.17), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-pcre (>= 3.17), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-scripter (>= 3.17), gambas3-gb-scripter (<< 3.99.0), gambas3-gb-signal (>= 3.17), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.17), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.17), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.17), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.17), gambas3-gb-xml (<< 3.99.0), gambas3-westwood-sharedmem (>= 3.17), gambas3-westwood-sharedmem (<< 3.99.0)
+Filename: ./gsh_1.4.1-1_all.deb
+Size: 355096
+MD5sum: 3d895e343694a2c35b20e44e8665fbbe
+SHA1: 26594d5ee1e3315e72d5c01d7c55948480b56fd7
+SHA256: c587d8ecf0e686fc0f7711b51c6d6c77bbfdea114de750e930886fe9fb011d65
+Section: contrib/shells
+Priority: optional
+Description: Gambas interactive shell
+ Gambas interactive shell
+ This program is written in Gambas.
+
 Package: scriptbuilder
 Version: 2.0.3-1
 Architecture: all
@@ -1586,6 +1702,60 @@ Description: Script Builder A simple editor to produce as output executable G...
  Script Builder
  A simple editor to produce as output executable Gambas3 scripts - .gbs
  Requires Gambas >= 3.12 .. Tested with version 12,13,14,15.16
+ Bugfix Detection when script is executable as #!/usr/bin/env gbs3
+ Updated to use /usr/bin/env gbs3
+ Japanese Translation
+ Add Itialian Translation ... Sorry if it's not to good!
+ Removed wget and replaced with httpClient.download
+ Insert #! as required
+ Warn When saved file is not executable.
+ Add French Translation
+ Add German Translation
+ FIX  Updated to always keep an editor page open when exiting Playground or
+ Nibble pages
+ NEW change wget call to no longer produce log files in user directory
+ NEW Added double click on Playground and network Nibble examples to open in
+ editor
+          for execution.
+ NEW Add menu New sub menu for Simple and Graphic scripts
+ NEW Tool button now creates new simple script, no longer graphic script.
+ NEW Add tool bar, printing, fixed fonts, f5 for go
+ FIX   Updated to fix issues with transfer to Editor, added Nibble online library
+ FIX   Corrected Wget startup when app not started from terminal or gui
+ FIX   Corrected Documentation content
+ FIX   Updated to correctly Identify Charlie Ogier as Playground Example Authour
+ FIX   Updated so running examples  without first saving to a  file  works
+ correctly
+ NEW Added Gambas playground example access from gambas one
+ FIX   Updated New to put correct time and date in comment, gb.gui used now.
+ FIX   Updated Shell defaulted to csh, now tests if installed , if not resorts
+ to bash
+ FIX   Updated to fix screen issues and include DEBUG
+ FIX   Updated so that names with spaces work correctly and parameters are passed
+         correctly from the command line.
+ This program is written in Gambas.
+
+Package: scriptbuilder
+Version: 2.0.4-1
+Architecture: all
+Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Installed-Size: 190
+Depends: gambas3-runtime (>= 3.15), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.15), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.15), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.15), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.15), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.15), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.15), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.15), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-settings (>= 3.15), gambas3-gb-settings (<< 3.99.0), gambas3-gb-form-mdi (>= 3.15), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-term (>= 3.15), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.15), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-net (>= 3.15), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.15), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-markdown (>= 3.15), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-pcre (>= 3.15), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-report2 (>= 3.15), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-signal (>= 3.15), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.15), gambas3-gb-util-web (<< 3.99.0)
+Filename: ./scriptbuilder_2.0.4-1_all.deb
+Size: 40144
+MD5sum: 7b0e8e8e08fb6779474d6a3b32b970a7
+SHA1: 174293b485a7141cb51fb9d8c2925f57e551b386
+SHA256: a7267939064107c8ba95796c8c715c4d4d682d0a3dbc696c9ff90892528ea6d9
+Section: contrib/devel
+Priority: optional
+Description: Script Builder A simple editor to produce as output executable G...
+ Script Builder
+ A simple editor to produce as output executable Gambas3 scripts - .gbs
+ Requires Gambas >= 3.12 .. Tested with version 12,13,14,15.16
+ FIX Spanish translations
+ Add HINDI translation
+ Git support comming soon
+ Updated Execution templates
  Bugfix Detection when script is executable as #!/usr/bin/env gbs3
  Updated to use /usr/bin/env gbs3
  Japanese Translation
