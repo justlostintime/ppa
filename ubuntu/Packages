@@ -514,97 +514,6 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  This program is written in Gambas.
 
 Package: em6502
-Version: 1.1.22-0ubuntu1
-Architecture: all
-Maintainer: Justlostintime <justlostintime@gmail.com>
-Installed-Size: 11880
-Depends: gambas3-runtime (>= 3.16), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.16), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.16), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.16), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.16), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.16), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.16), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.16), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.16), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.16), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.16), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.16), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-pcre (>= 3.16), gambas3-gb-pcre (<< 3.99.0)
-Filename: ./em6502_1.1.22-0ubuntu1_all.deb
-Size: 5850132
-MD5sum: 8aefd6d5bf6684f88d598d0b006a649a
-SHA1: 91c41931e742002732e1ae014c374f7e767a0285
-SHA256: 91a792d6c7f52457ff2d93a7386e536d407a6d02f7741fd93e3bb5566575fe99
-Section: contrib/interpreters
-Priority: optional
-Description: A fairly complete 6502/65C02 development environment with some s...
- A fairly complete 6502/65C02 development environment with some sample computer
- configurations. Written entirely in Gambas.
- Using the JIT it runs at about simulated 4mhz. Not too bad!
- The tiny basic included in this project will run on the kim1 or ct65, it
- supports, IRQ handlers written in Basic. It allows mutiple Tasks to be spawned
- in your basic program. More fun.
- V1.1.20
-  Updated MYTB to tokenize and compile  line addresses... startrek, and
- adventure now work  great, have fun!
-  mytb is 60% faster
- Added ability to debug 6502 apps using source code debugger, uses .lst file as
- the source file. May open as many files as binary apps loaded. Just double
- click the .sym entry on the screen.
- Added ability to debug using souce code listing, with multiple binary sources.
- V1.1.16
- Many bug fixes and fun stuff see em6502 wiki
- V1.1.14
- Many bug fixes, spedd improvements, added Watch window
- TinyBasic is now Concurrent Basic, full ipc/task management
- V1.1.12
- Updated to multi task Basic language OS
- Improved em IDE to handle Upper lower case symbols correctly
- Numerous bug fixes
- V1.1.11
- Updated Memory mapping improves speed by 20%
- Update Tinybasic IL manages Tasks natively.
-  Updated documentation for supported computer emulations
-     and devices.
- V1.1.9
- Fixed issues with lda abs,X instruction
- updated Tiny Basic to be fully able to run up to 10 tasks at a time, return
- stack limited to 16 levels
- V1.1.8
- Actually include 100doors
- updated Tiny Basic to support 1) array of variables, 2) added task management
- and support
- Fix 6502 ROL instruction
- V1.1.7
- Fix 6502 test and set bit instruction, added a tunnels and traps game
- Add function to tiny basic, multi line : , read text char to Variable
- Cleanup Error handling and create verbosity switch to command line
- Fixed SEi instruction
- v1.1.6
- updated tiny basic to support IRQ handlers written in basic
- updated PIA device to support realtime clock and irq timer
- added sample programs for clock and irq handler implementation
- Fixed update/create of intial files... was failing on first time create of
- root(6502) directory
- Update Such that new devices and Computer Defs are created upon new release
- without having to do a -d to update everything.
- Added New Device:  MMU Memory Management unit.
- Added more help/ better error messages.
- Update to work with new Wait implementation.
- Update to include 65C02 instructions,xa assembler into ~/asm directory
- Updated fo fix exit in fmain, when stoping or stepping from debugger screen.
- Updated name to em6502, to Match github source
- I am continually amazed by the power and flexibility of Gambas3 Created by
- Benoît Minisini.
- Updated the Update process, More automatic
- Updated Device set with MMU memory management unit implementation
- Updated use the -d option to replace  your ~/6502 root directory content with
- latest information.
- Updated to provide cli interface example  '6502 -c Default' will start the
- default computer configuration.
- Updated to provide instruction level profiling, look under debug menu.
- Updated to improve device halt and cpu halt, added big reset button device.
- Improved the Basic device example.
- This was a little hobby project, and a lot of fun writing 6502 programs and
- getting some of the old tiny basic... yes more basic, running again. quite a
- few are included are part of the project.
- Have fun exploring the nostalgia of the  70's again...
- This requires the latest development copy of gambas, or 3.17 which ever comes
- first!
- V1.1.8
- Updated to better handle device, and user NMI,IRQ,RESET requests
- This program is written in Gambas.
-
-Package: em6502
 Version: 1.1.22-1
 Architecture: all
 Maintainer: Justlostintime <justlostintime@gmail.com>
@@ -1114,22 +1023,24 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  This program is written in Gambas.
 
 Package: em6502
-Version: 1.2.4-1
+Version: 1.2.4-2
 Architecture: all
 Maintainer: Justlostintime <justlostintime@gmail.com>
-Installed-Size: 17094
-Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.18), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.18), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.18), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.18), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-form-terminal (>= 3.18), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.18), gambas3-gb-settings (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0)
-Filename: ./em6502_1.2.4-1_all.deb
-Size: 7259612
-MD5sum: 873bbd69fd47db74c6f47df0eba74df1
-SHA1: 9c1f467c47a116ecdc511247ebfbbc01af4964f2
-SHA256: 08ad9913983e744681f1db07940fb6e50ecaedb695db5037b13e8aa2df54cc0c
+Installed-Size: 53757
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.18), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.18), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.18), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.18), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.18), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.18), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0)
+Filename: ./em6502_1.2.4-2_all.deb
+Size: 40194804
+MD5sum: aa1bc9fca52c60235dc454c544214f51
+SHA1: bbf0444165f40e7fa43a3727223a6d7672c0d8a3
+SHA256: a3912cfe0db9bcd276f7eefa144e3b3de9c16d96b9e5237af15c2de1546b5a16
 Section: contrib/interpreters
 Priority: optional
 Description: A fairly complete 6502/65C02 development environment with some s...
  A fairly complete 6502/65C02 development environment with some sample computer
  configurations. Written entirely in Gambas.
  Using the JIT it runs at about simulated 3-4mhz. Not too bad!
+ SEE https://github.com/justlostintime/em6502/wiki
+ For Documentation/Help
  v1.2.4
  Many bug fixes and enhancement see git repository for details
  Added console computer definition runs in any terminal
