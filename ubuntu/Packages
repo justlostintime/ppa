@@ -2090,3 +2090,57 @@ Description: Script Builder A simple editor to produce as output executable G...
          correctly from the command line.
  This program is written in Gambas.
 
+Package: scriptbuilder
+Version: 2.0.4-2
+Architecture: all
+Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Installed-Size: 190
+Depends: gambas3-runtime (>= 3.12), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.12), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.12), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.12), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.12), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.12), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-mdi (>= 3.12), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-form-terminal (>= 3.12), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.12), gambas3-gb-image (<< 3.99.0), gambas3-gb-markdown (>= 3.12), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-net (>= 3.12), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.12), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-pcre (>= 3.12), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-report2 (>= 3.12), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-settings (>= 3.12), gambas3-gb-settings (<< 3.99.0), gambas3-gb-signal (>= 3.12), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.12), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.12), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.12), gambas3-gb-util-web (<< 3.99.0)
+Filename: ./scriptbuilder_2.0.4-2_all.deb
+Size: 40156
+MD5sum: ececaa6ee4dbde1a3d424bd47a943c93
+SHA1: 1930508304f90266ae48f310d787100a6e486a24
+SHA256: 89b070e9dd283567e2784808978f938c8f38e4a2530e085c53f956803842f27e
+Section: contrib/devel
+Priority: optional
+Description: Script Builder A simple editor to produce as output executable G...
+ Script Builder
+ A simple editor to produce as output executable Gambas3 scripts - .gbs
+ Requires Gambas >= 3.12 .. Tested with version 12,13,14,15.16
+ FIX Spanish translations
+ Add HINDI translation
+ Git support comming soon
+ Updated Execution templates
+ Bugfix Detection when script is executable as #!/usr/bin/env gbs3
+ Updated to use /usr/bin/env gbs3
+ Japanese Translation
+ Add Itialian Translation ... Sorry if it's not to good!
+ Removed wget and replaced with httpClient.download
+ Insert #! as required
+ Warn When saved file is not executable.
+ Add French Translation
+ Add German Translation
+ FIX  Updated to always keep an editor page open when exiting Playground or
+ Nibble pages
+ NEW change wget call to no longer produce log files in user directory
+ NEW Added double click on Playground and network Nibble examples to open in
+ editor
+          for execution.
+ NEW Add menu New sub menu for Simple and Graphic scripts
+ NEW Tool button now creates new simple script, no longer graphic script.
+ NEW Add tool bar, printing, fixed fonts, f5 for go
+ FIX   Updated to fix issues with transfer to Editor, added Nibble online library
+ FIX   Corrected Wget startup when app not started from terminal or gui
+ FIX   Corrected Documentation content
+ FIX   Updated to correctly Identify Charlie Ogier as Playground Example Authour
+ FIX   Updated so running examples  without first saving to a  file  works
+ correctly
+ NEW Added Gambas playground example access from gambas one
+ FIX   Updated New to put correct time and date in comment, gb.gui used now.
+ FIX   Updated Shell defaulted to csh, now tests if installed , if not resorts
+ to bash
+ FIX   Updated to fix screen issues and include DEBUG
+ FIX   Updated so that names with spaces work correctly and parameters are passed
+         correctly from the command line.
+ This program is written in Gambas.
+
