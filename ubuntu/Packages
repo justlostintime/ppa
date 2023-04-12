@@ -2145,16 +2145,16 @@ Description: Script Builder A simple editor to produce as output executable G...
  This program is written in Gambas.
 
 Package: scriptbuilder
-Version: 2.0.4-2
+Version: 2.0.4-3
 Architecture: all
 Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
 Installed-Size: 190
-Depends: gambas3-runtime (>= 3.12), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.12), gambas3-gb-args (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.12), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form (>= 3.12), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.12), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.12), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-mdi (>= 3.12), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-form-terminal (>= 3.12), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-image (>= 3.12), gambas3-gb-image (<< 3.99.0), gambas3-gb-markdown (>= 3.12), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-net (>= 3.12), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.12), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-pcre (>= 3.12), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-report2 (>= 3.12), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-settings (>= 3.12), gambas3-gb-settings (<< 3.99.0), gambas3-gb-signal (>= 3.12), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.12), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.12), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.12), gambas3-gb-util-web (<< 3.99.0)
-Filename: ./scriptbuilder_2.0.4-2_all.deb
-Size: 40156
-MD5sum: ececaa6ee4dbde1a3d424bd47a943c93
-SHA1: 1930508304f90266ae48f310d787100a6e486a24
-SHA256: 89b070e9dd283567e2784808978f938c8f38e4a2530e085c53f956803842f27e
+Depends: gambas3-runtime (>= 3.12), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.12), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.12), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.12), gambas3-gb-form (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.12), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-form-dialog (>= 3.12), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.12), gambas3-gb-util (<< 3.99.0), gambas3-gb-form-editor (>= 3.12), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-settings (>= 3.12), gambas3-gb-settings (<< 3.99.0), gambas3-gb-form-mdi (>= 3.12), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-term (>= 3.12), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.12), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-net (>= 3.12), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.12), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-markdown (>= 3.12), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-pcre (>= 3.12), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-report2 (>= 3.12), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-signal (>= 3.12), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.12), gambas3-gb-util-web (<< 3.99.0)
+Filename: ./scriptbuilder_2.0.4-3_all.deb
+Size: 40172
+MD5sum: c4062391d5c85c964c1e590743b0ffea
+SHA1: a44a764fccb7b87c25c0450c6d77909ce68bbf14
+SHA256: f05ccbdd9b2ac30c6c4b66e83a9db719d54e9223627bdf92a854fb482221962c
 Section: contrib/devel
 Priority: optional
 Description: Script Builder A simple editor to produce as output executable G...
