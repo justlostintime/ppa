@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 04 Sep 2023 12:00:00 +0000
+Source: scriptbuilder-qt5
+Binary: scriptbuilder-qt5
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 2.0.5-3
+Distribution: unstable
+Urgency: low
+Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Changed-By: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Description:
+ scriptbuilder-qt5 - qt5 package for ScriptBuilder
+Changes:
+ scriptbuilder-qt5 (2.0.5-3) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 0bc1fcc849afa169fe551bc1e82e67e8f9a31dcd 582 scriptbuilder-qt5_2.0.5-3.dsc
+ 2a18b6bbaacface59b23aef098dc54ec3c6784c2 1531 scriptbuilder-qt5_2.0.5-3.tar.gz
+ e68f55c8f35caa338071d4f9dbdd6f5a30302a97 1622 scriptbuilder-qt5_2.0.5-3_all.deb
+ e7bd5173d7ee7df45a40764ded5422e46456b21f 17605 scriptbuilder-qt5_2.0.5-3_amd64.buildinfo
+Checksums-Sha256:
+ 86ee5d7b6728a4d67fa8f334f556192eda6acea3491634cc92d305bd55ba97ff 582 scriptbuilder-qt5_2.0.5-3.dsc
+ 203e97578fdba62ccc2d7e0cba19d99d91d976ccadb53f69b33fcbca863df1e5 1531 scriptbuilder-qt5_2.0.5-3.tar.gz
+ a79f08592dbf75e400421b7a6e0d7a7c59283407bb05c6ac1a4b25abe9f2eac8 1622 scriptbuilder-qt5_2.0.5-3_all.deb
+ 288fa4621fd049c72248c3000c206a966973d5fd17bd0c31c1007c35527b61ce 17605 scriptbuilder-qt5_2.0.5-3_amd64.buildinfo
+Files:
+ b925d02bd6218340022828aa8dc128cf 582 contrib/devel optional scriptbuilder-qt5_2.0.5-3.dsc
+ 43b7857dc98317fd233fea4656fdcc43 1531 contrib/devel optional scriptbuilder-qt5_2.0.5-3.tar.gz
+ ba8551782269031b3a4a3ecdbb9a8c99 1622 contrib/devel optional scriptbuilder-qt5_2.0.5-3_all.deb
+ b7071a4397e83931b817e271b6f07593 17605 contrib/devel optional scriptbuilder-qt5_2.0.5-3_amd64.buildinfo

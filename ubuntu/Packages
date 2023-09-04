@@ -2215,3 +2215,19 @@ Description: Script Builder A simple editor to produce as output executable G...
          correctly from the command line.
  This program is written in Gambas.
 
+Package: scriptbuilder-qt5
+Version: 2.0.5-3
+Architecture: all
+Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Installed-Size: 8
+Depends: scriptbuilder (>= 2.0.5-3), scriptbuilder (<= 2.0.5-3), gambas3-gb-qt5 (>= 3.12), gambas3-gb-qt5 (<< 3.99.0)
+Filename: ./scriptbuilder-qt5_2.0.5-3_all.deb
+Size: 1622
+MD5sum: ba8551782269031b3a4a3ecdbb9a8c99
+SHA1: e68f55c8f35caa338071d4f9dbdd6f5a30302a97
+SHA256: a79f08592dbf75e400421b7a6e0d7a7c59283407bb05c6ac1a4b25abe9f2eac8
+Section: contrib/devel
+Priority: optional
+Description: qt5 package for ScriptBuilder
+ This is the dummy qt5 package for ScriptBuilder
+
