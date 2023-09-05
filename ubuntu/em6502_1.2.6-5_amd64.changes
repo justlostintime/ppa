@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 05 Sep 2023 12:00:00 +0000
+Source: em6502
+Binary: em6502
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.2.6-5
+Distribution: unstable
+Urgency: low
+Maintainer: Justlostintime <justlostintime@gmail.com>
+Changed-By: Justlostintime <justlostintime@gmail.com>
+Description:
+ em6502     - A fairly complete 6502/65C02 development environment with some s.
+Changes:
+ em6502 (1.2.6-5) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 9652d7b2fa5e898a6c3aff5a02ce5bb7eed0b599 1701 em6502_1.2.6-5.dsc
+ 750585ac458c9d15efaef59234ae2695da0caa4a 4715 em6502_1.2.6-5.diff.gz
+ 8fd6aab1e78c2b04709860a39c04976240e5763e 8732412 em6502_1.2.6-5_all.deb
+ 80dfdcc4f3a08a963069fda853fda6b51218c75f 21747 em6502_1.2.6-5_amd64.buildinfo
+Checksums-Sha256:
+ 34d01dced125cc21f0e53dcd5ad8a465c15116bcd267fe79cdb4f4578471edc3 1701 em6502_1.2.6-5.dsc
+ e208aa2a85268bb4f512d25379157cc88597c067b5f058cdff469fe851f26065 4715 em6502_1.2.6-5.diff.gz
+ ca732a6dcf09e4cde61274262f4ae84c1fd3efd88026f5d005162d0c94f189e0 8732412 em6502_1.2.6-5_all.deb
+ a287a36c7a536e369262a3d8e4af6fc88639c00ba63582e07d543c7b2db381bc 21747 em6502_1.2.6-5_amd64.buildinfo
+Files:
+ 792487819f1f02a917f19516014a0e09 1701 contrib/interpreters optional em6502_1.2.6-5.dsc
+ 318fc137a5adcddfc43c9c3c371ded66 4715 contrib/interpreters optional em6502_1.2.6-5.diff.gz
+ 4a1451c7e0d06a4cd1feddf38bd7b4fc 8732412 contrib/interpreters optional em6502_1.2.6-5_all.deb
+ 4edc6692ddca368b628ecc8613a627ac 21747 contrib/interpreters optional em6502_1.2.6-5_amd64.buildinfo
