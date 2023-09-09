@@ -1813,16 +1813,16 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  This is a Gambas component written in Gambas.
 
 Package: gambas3-westwood-sharedmem
-Version: 3.19.1-1
+Version: 3.19.1-2
 Architecture: all
 Maintainer: brian <brian@westwoodsvcs.com>
 Installed-Size: 588
 Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0)
-Filename: ./gambas3-westwood-sharedmem_3.19.1-1_all.deb
-Size: 150392
-MD5sum: b2c00e744585cf8214f7ff1c33b6d407
-SHA1: 45730719832a3948291ba02ae9665cfa9f654502
-SHA256: 1c39081c70c0242c48be85442a52dac393b8820cc0dd49b12ffe2d818b6e1452
+Filename: ./gambas3-westwood-sharedmem_3.19.1-2_all.deb
+Size: 150608
+MD5sum: 843f759375ac83f124ef1aa848729969
+SHA1: cd12fd47118bc539418a2f2580b90cdea70bf5fc
+SHA256: e1fe611ef0392440b98e3b59e38dc362186df38ea1653e721cc17a6a3ec61402
 Section: contrib/libs
 Priority: optional
 Description: SharedMem is a library to enable shared memory between tasks and...
