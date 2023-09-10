@@ -1816,13 +1816,13 @@ Package: gambas3-westwood-sharedmem
 Version: 3.19.1-3
 Architecture: all
 Maintainer: brian <brian@westwoodsvcs.com>
-Installed-Size: 593
+Installed-Size: 594
 Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0)
 Filename: ./gambas3-westwood-sharedmem_3.19.1-3_all.deb
-Size: 151356
-MD5sum: 6613cceddc99ad5a94239654b56863c0
-SHA1: b2c6c54c49139cb6ad016142eedc32a4bb58a5cf
-SHA256: 6723fec3f1aed2e9119eae0f98e7b206f6c257baa1bfb8c379ffdcf257414669
+Size: 151522
+MD5sum: 774b9900c6d3f35c7654f4453a438801
+SHA1: 2b8774b8c1c570a1280e11f15908831afe529d5b
+SHA256: df6597fd713ad7af4ab894260045c4dc6ea4415979629ccc3f7f7d9c58442e35
 Section: contrib/libs
 Priority: optional
 Description: SharedMem is a library to enable shared memory between tasks and...
@@ -1911,10 +1911,10 @@ Maintainer: Brian G <justlostintime@gmail.com>
 Installed-Size: 1452
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0), gambas3-westwood-gb-scripter (>= 3.18), gambas3-westwood-gb-scripter (<< 3.99.0), gambas3-westwood-sharedmem (>= 3.18), gambas3-westwood-sharedmem (<< 3.99.0)
 Filename: ./gsh_1.5.1-4_all.deb
-Size: 743748
-MD5sum: 4a57e68748bc36bada9d449c029002f7
-SHA1: 58a6301e8157b6dafeb5aee342d8f161dc7307db
-SHA256: bbf8ad8c47bedd1db3e827c795cb606a5a344f0b6715affcbdbe23262747e394
+Size: 743912
+MD5sum: b4816c5829a1f7d3ed180a68f0f763a3
+SHA1: 33776ff4fcd378daa5aa3a9fa05678a07c76bc81
+SHA256: 8650ea6e12a5e2e9036315f2b29e94242b81ff00175db05456d35e7804e0aa88
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell

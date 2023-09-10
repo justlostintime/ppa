@@ -14,22 +14,19 @@ Description:
 Changes:
  gsh (1.5.1-4) unstable; urgency=low
  .
-   * Added Version file for more detailed version id
-   * Updated all Internal variabled to drop the $
-   * Added automatic update process for all database variabes containing a leading
-     $
+   * New release version
 Checksums-Sha1:
- 135a72291a24c915433bfbb2e17aab2666ef72ac 1710 gsh_1.5.1-4.dsc
- 6e62f21a100ed4af1f1eb73cd603ccc53b1fae4d 5554 gsh_1.5.1-4.diff.gz
- 58a6301e8157b6dafeb5aee342d8f161dc7307db 743748 gsh_1.5.1-4_all.deb
- d08f017bf3d9ef01da8bf2500932797e9e48d7cc 18706 gsh_1.5.1-4_amd64.buildinfo
+ 8222d337f81acf2dd8892de0a247fbbd9a78c07c 1710 gsh_1.5.1-4.dsc
+ ee7e8dd45d0ea5414330418f1e884611a5c0c4f1 5558 gsh_1.5.1-4.diff.gz
+ 33776ff4fcd378daa5aa3a9fa05678a07c76bc81 743912 gsh_1.5.1-4_all.deb
+ cb4c3c639f7cbea3eaa8dc1052005d57e5f4a9d5 18706 gsh_1.5.1-4_amd64.buildinfo
 Checksums-Sha256:
- d95529fa50bfa618cf0063e64a66ffd743a96bd043f1dfcf0dc2fe7f2beb3213 1710 gsh_1.5.1-4.dsc
- 39c2489e5508b2d8934a20e9f3425ca1d558236f919670a9055a8325e7bab0be 5554 gsh_1.5.1-4.diff.gz
- bbf8ad8c47bedd1db3e827c795cb606a5a344f0b6715affcbdbe23262747e394 743748 gsh_1.5.1-4_all.deb
- 91259dc812a47b974425300c87913431be0b6ac715f41657888a5fc50e149ff7 18706 gsh_1.5.1-4_amd64.buildinfo
+ 1fcafc8186df4c068a9cfc7c37dcf631a5ce22d3732a9bb10b4cce2cf2034866 1710 gsh_1.5.1-4.dsc
+ 195421ff94acc317e8708b37dc0351802d7cfd865c830e70af389fb6ba1c78b5 5558 gsh_1.5.1-4.diff.gz
+ 8650ea6e12a5e2e9036315f2b29e94242b81ff00175db05456d35e7804e0aa88 743912 gsh_1.5.1-4_all.deb
+ 0288ca6e757ae9b01e6a9b95b504481e93c03e0838d4c73120b619c361d2d16d 18706 gsh_1.5.1-4_amd64.buildinfo
 Files:
- 97dc0df6e276e36a7281677b3d8ceed3 1710 contrib/shells optional gsh_1.5.1-4.dsc
- 15bc2b7c3c5b6be7088b1cce1fb0c955 5554 contrib/shells optional gsh_1.5.1-4.diff.gz
- 4a57e68748bc36bada9d449c029002f7 743748 contrib/shells optional gsh_1.5.1-4_all.deb
- 2303189fb7a8d3251148c216ba47a5f4 18706 contrib/shells optional gsh_1.5.1-4_amd64.buildinfo
+ 8437bd58f576b68961a605a2133eee9e 1710 contrib/shells optional gsh_1.5.1-4.dsc
+ 8120aa58d4f835bc1e330ad09d25ac78 5558 contrib/shells optional gsh_1.5.1-4.diff.gz
+ b4816c5829a1f7d3ed180a68f0f763a3 743912 contrib/shells optional gsh_1.5.1-4_all.deb
+ 344473e469808479a66a650cb3ab96dc 18706 contrib/shells optional gsh_1.5.1-4_amd64.buildinfo

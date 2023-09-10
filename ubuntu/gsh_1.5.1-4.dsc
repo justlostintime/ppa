@@ -9,11 +9,11 @@ Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.18), gambas3-dev (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- 8f4660c31a070d4b7c0e23562a5723267395511d 1135940 gsh_1.5.1.orig.tar.gz
- 6e62f21a100ed4af1f1eb73cd603ccc53b1fae4d 5554 gsh_1.5.1-4.diff.gz
+ a7ae09533492a90e2f216bc14ae7cd0fc3cc7ab6 1136097 gsh_1.5.1.orig.tar.gz
+ ee7e8dd45d0ea5414330418f1e884611a5c0c4f1 5558 gsh_1.5.1-4.diff.gz
 Checksums-Sha256:
- ebba013ea4bb5099743641cb95c4b81f7b6df4089dfe27e0ec042d57dd76f924 1135940 gsh_1.5.1.orig.tar.gz
- 39c2489e5508b2d8934a20e9f3425ca1d558236f919670a9055a8325e7bab0be 5554 gsh_1.5.1-4.diff.gz
+ 43bcb3b72373a3fae9ee1233eb10772a198cf52c4da8759725d234c44bbe975d 1136097 gsh_1.5.1.orig.tar.gz
+ 195421ff94acc317e8708b37dc0351802d7cfd865c830e70af389fb6ba1c78b5 5558 gsh_1.5.1-4.diff.gz
 Files:
- e0969f0a69f7fa65921827159b8c339f 1135940 gsh_1.5.1.orig.tar.gz
- 15bc2b7c3c5b6be7088b1cce1fb0c955 5554 gsh_1.5.1-4.diff.gz
+ c945b6018ff81d3f41dad37d6fb46e7f 1136097 gsh_1.5.1.orig.tar.gz
+ 8120aa58d4f835bc1e330ad09d25ac78 5558 gsh_1.5.1-4.diff.gz
