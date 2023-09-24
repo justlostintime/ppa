@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 24 Sep 2023 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.5.3-2
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell
+Changes:
+ gsh (1.5.3-2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 82abb740574b3a7cbb3aacb80c186aa8a7b67a2c 1710 gsh_1.5.3-2.dsc
+ db95a0cc6938bbfa9612ae814514ef7ebec72991 5596 gsh_1.5.3-2.diff.gz
+ f2d3688d348facbb529b992ea0b5fb94f6e7cbad 746500 gsh_1.5.3-2_all.deb
+ c3513e08a1dbb12e2edc5755aba0ce7c1946db82 18741 gsh_1.5.3-2_amd64.buildinfo
+Checksums-Sha256:
+ 537240512bfdd5dfe095e7a579c21e9d22657045663e2845d8895d1aaf550a7c 1710 gsh_1.5.3-2.dsc
+ 3a9e160903c335117a2a9121712161ddd9d2939e9b43e25a107f2e85e7d6b815 5596 gsh_1.5.3-2.diff.gz
+ 2ae96fd89cc0923d821c1a31cdba24234e83d549a627394343a65125f1a21f65 746500 gsh_1.5.3-2_all.deb
+ c89920b7b97bd02e8261d83e27c028e7659ad439c1bad7a33230f711dec37d48 18741 gsh_1.5.3-2_amd64.buildinfo
+Files:
+ abe5a5b7c0a8e5decf65d29356714a6c 1710 contrib/shells optional gsh_1.5.3-2.dsc
+ 8d57e9f36e9a52bc4589ae9f590a18f3 5596 contrib/shells optional gsh_1.5.3-2.diff.gz
+ c934ff07ff12fbb9f96b23e65d693857 746500 contrib/shells optional gsh_1.5.3-2_all.deb
+ bfc62924e5def92f3d5df6b77cebfa21 18741 contrib/shells optional gsh_1.5.3-2_amd64.buildinfo
