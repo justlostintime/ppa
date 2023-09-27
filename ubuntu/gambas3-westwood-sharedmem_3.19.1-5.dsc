@@ -9,11 +9,11 @@ Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.17), gambas3-dev (<< 3.99.0)
 Package-List:
  gambas3-westwood-sharedmem deb contrib/libs optional arch=all
 Checksums-Sha1:
- dedaa72fae67d874905bb407c01698752d625d95 156137 gambas3-westwood-sharedmem_3.19.1.orig.tar.gz
- 5dd4e50ed44175d6c0ab568bb61c1beaf87c1017 3531 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
+ 8cdcb07b38164c0a20b867bc767db3c92640383c 156280 gambas3-westwood-sharedmem_3.19.1.orig.tar.gz
+ b722ff29a50d9f46baef58b824cad35b0ed77c2e 3552 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
 Checksums-Sha256:
- 231f300a1a8c0e8b58cfdeec58e9134f8d2864cfe1f8490dd5f092482e07278a 156137 gambas3-westwood-sharedmem_3.19.1.orig.tar.gz
- 9dd828a615a40aa3edd630ba8716b3698a384da75fd57b8ff8051f3dfcba5843 3531 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
+ 9de8e1da36c6c5cea21974574e8b9e386ade65c67f88af8705a1ced0db4cf71b 156280 gambas3-westwood-sharedmem_3.19.1.orig.tar.gz
+ a20384294fed012f93e6d1b4bb1982b64fbdab6595dd73113bd0a5814232b9f6 3552 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
 Files:
- 0284901b04cdb1756c481100c76a4df0 156137 gambas3-westwood-sharedmem_3.19.1.orig.tar.gz
- 09d6957dce3f5458d318b75b097bf474 3531 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
+ bec9dd5cd029e9d14416e5269d88311e 156280 gambas3-westwood-sharedmem_3.19.1.orig.tar.gz
+ f5cfda555f11f6320bab307ce4d9dc34 3552 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
