@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 27 Sep 2023 12:00:00 +0000
+Source: gambas3-westwood-sharedmem
+Binary: gambas3-westwood-sharedmem
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 3.19.1-5
+Distribution: unstable
+Urgency: low
+Maintainer: brian <brian@westwoodsvcs.com>
+Changed-By: brian <brian@westwoodsvcs.com>
+Description:
+ gambas3-westwood-sharedmem - SharedMem is a library to enable shared memory between tasks and.
+Changes:
+ gambas3-westwood-sharedmem (3.19.1-5) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ ab4817d62512b7d050eff6a5797983bc60c84c15 975 gambas3-westwood-sharedmem_3.19.1-5.dsc
+ 5dd4e50ed44175d6c0ab568bb61c1beaf87c1017 3531 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
+ 87a347097c409ac79c9d5643c76a49558096a3e0 153940 gambas3-westwood-sharedmem_3.19.1-5_all.deb
+ daeb2332f8c0f9107b34331297399b4191acaa2d 17725 gambas3-westwood-sharedmem_3.19.1-5_amd64.buildinfo
+Checksums-Sha256:
+ b42e712047a92779f2e0218818f8e2b047b527d747125b8acb96e816077defd5 975 gambas3-westwood-sharedmem_3.19.1-5.dsc
+ 9dd828a615a40aa3edd630ba8716b3698a384da75fd57b8ff8051f3dfcba5843 3531 gambas3-westwood-sharedmem_3.19.1-5.diff.gz
+ dcd2b07103cbfcfa8b402ad5540b3d4e1a5898abc1f001c4b51fd799aa95552c 153940 gambas3-westwood-sharedmem_3.19.1-5_all.deb
+ dc9cd30800b3772cfaa5ff73fe20356c9e085c4e24541fde7714f60c9c03e158 17725 gambas3-westwood-sharedmem_3.19.1-5_amd64.buildinfo
+Files:
+ 0fd7f08f309c4af769a446a7127ce156 975 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-5.dsc
+ 09d6957dce3f5458d318b75b097bf474 3531 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-5.diff.gz
+ 60a6261751b371c8ccac761fd3c66105 153940 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-5_all.deb
+ 97eb7843116259f93cff2825e91d2a2f 17725 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-5_amd64.buildinfo
