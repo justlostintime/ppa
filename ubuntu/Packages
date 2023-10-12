@@ -1820,10 +1820,10 @@ Maintainer: brian <brian@westwoodsvcs.com>
 Installed-Size: 607
 Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0)
 Filename: ./gambas3-westwood-sharedmem_3.19.1-6_all.deb
-Size: 154990
-MD5sum: 678659d3d438f11dad0a4ff586f4e795
-SHA1: 0efb1ea2af128d1549298b9c1365610e725cc2b4
-SHA256: ad71deba6209ba8fa57c6ec22822c58667728ca4b448f9c3dbab386c361dd542
+Size: 155170
+MD5sum: f82ed1b44774bb383e0871dc713e910e
+SHA1: 9f6293d315293ea98d6468a79ff5086745d89a02
+SHA256: 11b064cc4af15ef5813f276aa8369b5b59f3a5fec618533ffd20e954a8a9763f
 Section: contrib/libs
 Priority: optional
 Description: SharedMem is a library to enable shared memory between tasks and...

@@ -4,17 +4,17 @@ Binary: gambas3-westwood-sharedmem
 Architecture: all source
 Version: 3.19.1-6
 Checksums-Md5:
- 57883577e99b616c55f47221d172fe6b 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- 678659d3d438f11dad0a4ff586f4e795 154990 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ a6033a88c70205ca06d04167c9ed34c8 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ f82ed1b44774bb383e0871dc713e910e 155170 gambas3-westwood-sharedmem_3.19.1-6_all.deb
 Checksums-Sha1:
- a383f0936addad759e3f58bc41543acc4a7f927e 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- 0efb1ea2af128d1549298b9c1365610e725cc2b4 154990 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ 693c07eefecf8101ac512c8a87db12427f07f788 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ 9f6293d315293ea98d6468a79ff5086745d89a02 155170 gambas3-westwood-sharedmem_3.19.1-6_all.deb
 Checksums-Sha256:
- bca962202a2cb34c17485b89e79bb194180809eca2607be5e5938b46e3febd31 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- ad71deba6209ba8fa57c6ec22822c58667728ca4b448f9c3dbab386c361dd542 154990 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ 17a9dd62ffb9c1b8d44adb5cc60ce1579afb3ae7a574e740d69a432518960569 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ 11b064cc4af15ef5813f276aa8369b5b59f3a5fec618533ffd20e954a8a9763f 155170 gambas3-westwood-sharedmem_3.19.1-6_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 12 Oct 2023 13:16:22 -0700
+Build-Date: Thu, 12 Oct 2023 14:49:28 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
