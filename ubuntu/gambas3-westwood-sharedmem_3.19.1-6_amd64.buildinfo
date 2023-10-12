@@ -2,19 +2,19 @@ Format: 1.0
 Source: gambas3-westwood-sharedmem
 Binary: gambas3-westwood-sharedmem
 Architecture: all source
-Version: 3.19.1-5
+Version: 3.19.1-6
 Checksums-Md5:
- ff07a1d16f58cff5a6e6d6abb672d0bd 975 gambas3-westwood-sharedmem_3.19.1-5.dsc
- f31db779e1e60b7bd8d7cb0a0877b6f5 153936 gambas3-westwood-sharedmem_3.19.1-5_all.deb
+ 57883577e99b616c55f47221d172fe6b 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ 678659d3d438f11dad0a4ff586f4e795 154990 gambas3-westwood-sharedmem_3.19.1-6_all.deb
 Checksums-Sha1:
- fcad8a32c42f47c9e7dc4444ca2237b44fe6e439 975 gambas3-westwood-sharedmem_3.19.1-5.dsc
- 008a9a187ea780373cec943f09c64877784c5fd7 153936 gambas3-westwood-sharedmem_3.19.1-5_all.deb
+ a383f0936addad759e3f58bc41543acc4a7f927e 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ 0efb1ea2af128d1549298b9c1365610e725cc2b4 154990 gambas3-westwood-sharedmem_3.19.1-6_all.deb
 Checksums-Sha256:
- d831c8b4ea99ab2485d47f35b78891f5b9e38881bba795902dc5fc3039b67f92 975 gambas3-westwood-sharedmem_3.19.1-5.dsc
- 51f3abc817c5edad79053327e697c8a5a2813fbfdd0fc9e5dcd8e19a54833dee 153936 gambas3-westwood-sharedmem_3.19.1-5_all.deb
+ bca962202a2cb34c17485b89e79bb194180809eca2607be5e5938b46e3febd31 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ ad71deba6209ba8fa57c6ec22822c58667728ca4b448f9c3dbab386c361dd542 154990 gambas3-westwood-sharedmem_3.19.1-6_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 27 Sep 2023 10:14:04 -0700
+Build-Date: Thu, 12 Oct 2023 13:16:22 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -148,11 +148,11 @@ Installed-Build-Depends:
  libbrotli1 (= 1.0.9-2build6),
  libbsd0 (= 0.11.5-1),
  libbz2-1.0 (= 1.0.8-5build1),
- libc-bin (= 2.35-0ubuntu3.3),
- libc-dev-bin (= 2.35-0ubuntu3.3),
- libc6 (= 2.35-0ubuntu3.3),
- libc6-dev (= 2.35-0ubuntu3.3),
- libc6-i386 (= 2.35-0ubuntu3.3),
+ libc-bin (= 2.35-0ubuntu3.4),
+ libc-dev-bin (= 2.35-0ubuntu3.4),
+ libc6 (= 2.35-0ubuntu3.4),
+ libc6-dev (= 2.35-0ubuntu3.4),
+ libc6-i386 (= 2.35-0ubuntu3.4),
  libcairo-gobject-perl (= 1.005-3build1),
  libcairo-gobject2 (= 1.16.0-5ubuntu2),
  libcairo-perl (= 1.109-2build1),
@@ -177,7 +177,7 @@ Installed-Build-Depends:
  libctf-nobfd0 (= 2.38-4ubuntu2.3),
  libctf0 (= 2.38-4ubuntu2.3),
  libcups2 (= 2.4.1op1-1ubuntu4.7),
- libcurl3-gnutls (= 7.81.0-1ubuntu1.13),
+ libcurl3-gnutls (= 7.81.0-1ubuntu1.14),
  libdatrie1 (= 0.2.13-2),
  libdb5.3 (= 5.3.28+dfsg1-0.8ubuntu3),
  libdbus-1-3 (= 1.12.20-2ubuntu4.1),
@@ -350,9 +350,9 @@ Installed-Build-Depends:
  libtasn1-6 (= 4.18.0-4build1),
  libthai-data (= 0.1.29-1build1),
  libthai0 (= 0.1.29-1build1),
- libtiff-dev (= 4.3.0-6ubuntu0.5),
- libtiff5 (= 4.3.0-6ubuntu0.5),
- libtiffxx5 (= 4.3.0-6ubuntu0.5),
+ libtiff-dev (= 4.3.0-6ubuntu0.6),
+ libtiff5 (= 4.3.0-6ubuntu0.6),
+ libtiffxx5 (= 4.3.0-6ubuntu0.6),
  libtinfo6 (= 6.3-2ubuntu0.1),
  libtirpc-common (= 1.3.2-2ubuntu0.1),
  libtirpc-dev (= 1.3.2-2ubuntu0.1),
@@ -371,9 +371,9 @@ Installed-Build-Depends:
  libwayland-cursor0 (= 1.20.0-1ubuntu0.1),
  libwayland-egl1 (= 1.20.0-1ubuntu0.1),
  libwebp7 (= 1.2.2-2ubuntu0.22.04.2),
- libx11-6 (= 2:1.7.5-1ubuntu0.2),
- libx11-data (= 2:1.7.5-1ubuntu0.2),
- libx11-dev (= 2:1.7.5-1ubuntu0.2),
+ libx11-6 (= 2:1.7.5-1ubuntu0.3),
+ libx11-data (= 2:1.7.5-1ubuntu0.3),
+ libx11-dev (= 2:1.7.5-1ubuntu0.3),
  libxapp1 (= 2.6.1+victoria),
  libxau-dev (= 1:1.0.9-1build5),
  libxau6 (= 1:1.0.9-1build5),
@@ -397,14 +397,14 @@ Installed-Build-Depends:
  libxklavier16 (= 5.4-4build2),
  libxml2 (= 2.9.13+dfsg-1ubuntu0.3),
  libxmu6 (= 2:1.1.3-3),
- libxpm4 (= 1:3.5.12-1ubuntu0.22.04.1),
+ libxpm4 (= 1:3.5.12-1ubuntu0.22.04.2),
  libxrandr2 (= 2:1.5.2-1build1),
  libxrender1 (= 1:0.9.10-1build4),
  libxt6 (= 1:1.2.1-1),
  libxxhash0 (= 0.8.1-1),
  libyaml-0-2 (= 0.2.2-1build2),
  libzstd1 (= 1.4.8+dfsg-3build1),
- linux-libc-dev (= 5.15.0-84.93),
+ linux-libc-dev (= 5.15.0-86.96),
  llvm-13-linker-tools (= 1:13.0.1-2ubuntu2.2),
  llvm-14-linker-tools (= 1:14.0.0-1ubuntu1.1),
  login (= 1:4.8.1-2ubuntu2.1),
@@ -505,4 +505,4 @@ Environment:
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
  LD_LIBRARY_PATH=":/usr/local/easysoft/access:/usr/local/easysoft/lib"
- SOURCE_DATE_EPOCH="1695816000"
+ SOURCE_DATE_EPOCH="1697112000"
