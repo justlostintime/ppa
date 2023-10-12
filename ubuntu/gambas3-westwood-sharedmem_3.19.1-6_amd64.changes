@@ -16,17 +16,17 @@ Changes:
  .
    * New release version
 Checksums-Sha1:
- 693c07eefecf8101ac512c8a87db12427f07f788 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- f814c82dc7fec8abfb7af5ca04033e937ce7b67c 3566 gambas3-westwood-sharedmem_3.19.1-6.diff.gz
- 9f6293d315293ea98d6468a79ff5086745d89a02 155170 gambas3-westwood-sharedmem_3.19.1-6_all.deb
- 9a38f4e16795eee1d08f9b25307945adff291921 17725 gambas3-westwood-sharedmem_3.19.1-6_amd64.buildinfo
+ 10cb07ed28fb891bd94ccfa007b56afc581c59dd 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ 7eb4ce4bbeda5a397d3119eb507e4ef5a2c7dacd 3566 gambas3-westwood-sharedmem_3.19.1-6.diff.gz
+ 1fdc04d3dfde67c4c6aba2b92293c6c6d32cad3c 155050 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ 60fac96f9ed161040872284526309633e6cd6689 17725 gambas3-westwood-sharedmem_3.19.1-6_amd64.buildinfo
 Checksums-Sha256:
- 17a9dd62ffb9c1b8d44adb5cc60ce1579afb3ae7a574e740d69a432518960569 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- b44a5c0f9936b41b53c2a0ee3e7c1ef4b5259b9a42b6c29e5913a7cc78514a1f 3566 gambas3-westwood-sharedmem_3.19.1-6.diff.gz
- 11b064cc4af15ef5813f276aa8369b5b59f3a5fec618533ffd20e954a8a9763f 155170 gambas3-westwood-sharedmem_3.19.1-6_all.deb
- 90d0739173f670ce7933a3bda315d39cb2135ac6a8fc79671fb4b1a8670c7e9d 17725 gambas3-westwood-sharedmem_3.19.1-6_amd64.buildinfo
+ 699b6888b3be093432e9e884bd68071f38c1b3368cf74ee760da1f79dd0b4d72 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
+ 17c2b259e38dec98817b53d8dc4eed3ef7f35fe304d58a548bfd0a86a7e8ce1b 3566 gambas3-westwood-sharedmem_3.19.1-6.diff.gz
+ 04cb42aba813e52f4ccb748af8724179c3a4317db25de3d77e959741ec88a923 155050 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ 4c6f1ac175084f25f3f906c64e95b1f32de705c2d9daf8a3e3b3b48951795ae7 17725 gambas3-westwood-sharedmem_3.19.1-6_amd64.buildinfo
 Files:
- a6033a88c70205ca06d04167c9ed34c8 975 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6.dsc
- 1bccc497dac11bc2fff31a8a5867886f 3566 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6.diff.gz
- f82ed1b44774bb383e0871dc713e910e 155170 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6_all.deb
- 7ee09d03a93dce272984ce6e0502fafb 17725 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6_amd64.buildinfo
+ 2f4dafec97f6def4663b53acd552097e 975 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6.dsc
+ b95478e9e353cc672d78bb79858c0de5 3566 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6.diff.gz
+ 003c08eadbde255db3fb22fb0b17e5d3 155050 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ e7956bc20a4f82574c5dfe24ba2a79df 17725 contrib/libs optional gambas3-westwood-sharedmem_3.19.1-6_amd64.buildinfo
