@@ -1912,10 +1912,10 @@ Maintainer: Brian G <justlostintime@gmail.com>
 Installed-Size: 1493
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0), gambas3-westwood-gb-scripter (>= 3.18), gambas3-westwood-gb-scripter (<< 3.99.0), gambas3-westwood-sharedmem (>= 3.18), gambas3-westwood-sharedmem (<< 3.99.0)
 Filename: ./gsh_1.5.3-12_all.deb
-Size: 755220
-MD5sum: 8d81f4c8d3eefdf5cb2310566edc403a
-SHA1: ccb5a290f748bf39093decb85e07ff29b147c080
-SHA256: db4da158f1741d1669f4f2fd915201407f3c511e470fd97e448f058d25c44aca
+Size: 755226
+MD5sum: 0a9b41dd69835af6d77723e976d95384
+SHA1: 7f6450f66cfb0a33577a7d35c6cc96277263f9d0
+SHA256: b1f1903b7d7d3b06daa7725b5c3b4a24bc9ff8a72e025726eb97f9022d29e9a9
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell
