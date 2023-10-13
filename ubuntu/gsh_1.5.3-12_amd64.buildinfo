@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.5.3-11
+Version: 1.5.3-12
 Checksums-Md5:
- 99da71550dfa0e55d07d1d18f705d94f 1714 gsh_1.5.3-11.dsc
- 5ff4b56b3c5b75e338f46082fe085317 751584 gsh_1.5.3-11_all.deb
+ eb1dc742dec9f17f5acfe1ac99625d2f 1714 gsh_1.5.3-12.dsc
+ 8d81f4c8d3eefdf5cb2310566edc403a 755220 gsh_1.5.3-12_all.deb
 Checksums-Sha1:
- bb5f660b0971a2ef1a5cc215fcac349262e4d8ee 1714 gsh_1.5.3-11.dsc
- 7233e1d09a60a915fe04a9fbcc9303fbdf830ba7 751584 gsh_1.5.3-11_all.deb
+ ab80757e3e36eb2c3856fb572f31aca0987bc359 1714 gsh_1.5.3-12.dsc
+ ccb5a290f748bf39093decb85e07ff29b147c080 755220 gsh_1.5.3-12_all.deb
 Checksums-Sha256:
- 1992fd93c99a68c1a51402cc418ec26a305879b167575778fcab09d75eb07792 1714 gsh_1.5.3-11.dsc
- fe4c1cc06e0b844e8cecdcf48cc76d95a5a9d028769ec6ae0ea060d02fcc5bf5 751584 gsh_1.5.3-11_all.deb
+ 1977ab48881a7c2337626e489e93bbd371bb7cb0a291e4487b8c0c6a973ad892 1714 gsh_1.5.3-12.dsc
+ db4da158f1741d1669f4f2fd915201407f3c511e470fd97e448f058d25c44aca 755220 gsh_1.5.3-12_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 12 Oct 2023 15:05:06 -0700
+Build-Date: Fri, 13 Oct 2023 11:31:49 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -79,20 +79,20 @@ Installed-Build-Depends:
  fonts-urw-base35 (= 20200910-1),
  g++ (= 4:11.2.0-1ubuntu1),
  g++-11 (= 11.4.0-1ubuntu1~22.04),
- gambas3-gb-args (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-compress (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-dbus (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-eval-highlight (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-net (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-net-curl (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-net-smtp (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-pcre (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-signal (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-term (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-util (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-util-web (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-gb-xml (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
- gambas3-runtime (= 3.18.90+git202310100902.e44956d02+build28~ubuntu22.04.1),
+ gambas3-gb-args (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-compress (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-dbus (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-eval-highlight (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-net (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-net-curl (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-net-smtp (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-pcre (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-signal (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-term (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-util (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-util-web (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-gb-xml (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
+ gambas3-runtime (= 3.18.90+git202310131003.9b15ce56f+build28~ubuntu22.04.1),
  gambas3-westwood-gb-scripter (= 3.18.1-4),
  gambas3-westwood-sharedmem (= 3.19.1-6),
  gawk (= 1:5.1.0-1ubuntu0.1),
@@ -521,4 +521,4 @@ Environment:
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
  LD_LIBRARY_PATH=":/usr/local/easysoft/access:/usr/local/easysoft/lib"
- SOURCE_DATE_EPOCH="1697112000"
+ SOURCE_DATE_EPOCH="1697198400"
