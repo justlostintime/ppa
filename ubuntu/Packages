@@ -1474,16 +1474,16 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  This program is written in Gambas.
 
 Package: em6502
-Version: 1.2.7-8
+Version: 1.2.7-9
 Architecture: all
 Maintainer: Justlostintime <justlostintime@gmail.com>
 Installed-Size: 18838
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.18), gambas3-gb-form (<< 3.99.0), gambas3-gb-desktop (>= 3.18), gambas3-gb-desktop (<< 3.99.0), gambas3-gb-form-dialog (>= 3.18), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-form-editor (>= 3.18), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.18), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.18), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.18), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0)
-Filename: ./em6502_1.2.7-8_all.deb
-Size: 8735140
-MD5sum: d865d1ca5290e3cc6d6179d5c1b52fdc
-SHA1: 9d359ad0dea55ca9fa59f582232c81abdf6c6fa5
-SHA256: 3c65c8599d5a705b1c95136d7aad9ee8b5d15aba22054889f3b7e7b3d241ecbc
+Filename: ./em6502_1.2.7-9_all.deb
+Size: 8735142
+MD5sum: bf2d807cc0fda8ee3758248d01d5b477
+SHA1: 87367b1bd07bb4675d542eaa1934cb2d947b62d0
+SHA256: 6da7ed259ddf4da0c60b81b4659352cd26ac948ed4b1275b202fd9b090316e65
 Section: contrib/interpreters
 Priority: optional
 Description: A fairly complete 6502/65C02 development environment with some s...
