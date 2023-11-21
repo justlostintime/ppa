@@ -1477,13 +1477,13 @@ Package: em6502
 Version: 1.2.7-8
 Architecture: all
 Maintainer: Justlostintime <justlostintime@gmail.com>
-Installed-Size: 18837
-Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-desktop (>= 3.18), gambas3-gb-desktop (<< 3.99.0), gambas3-gb-form (>= 3.18), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.18), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.18), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.18), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-form-terminal (>= 3.18), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.18), gambas3-gb-settings (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0)
+Installed-Size: 18838
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.18), gambas3-gb-form (<< 3.99.0), gambas3-gb-desktop (>= 3.18), gambas3-gb-desktop (<< 3.99.0), gambas3-gb-form-dialog (>= 3.18), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-form-editor (>= 3.18), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-htmlview (>= 3.18), gambas3-gb-form-htmlview (<< 3.99.0), gambas3-gb-settings (>= 3.18), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.18), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0)
 Filename: ./em6502_1.2.7-8_all.deb
-Size: 8734246
-MD5sum: 611c5974d764b3e09e0593aa1fa1dba7
-SHA1: 4896d85ee732253d9605e3c641cbb577f14e72b0
-SHA256: 75ba037b6fd98866d2ab7b1293f4017206e3943b11cc22f8872fd22550118411
+Size: 8735140
+MD5sum: d865d1ca5290e3cc6d6179d5c1b52fdc
+SHA1: 9d359ad0dea55ca9fa59f582232c81abdf6c6fa5
+SHA256: 3c65c8599d5a705b1c95136d7aad9ee8b5d15aba22054889f3b7e7b3d241ecbc
 Section: contrib/interpreters
 Priority: optional
 Description: A fairly complete 6502/65C02 development environment with some s...
@@ -1492,6 +1492,9 @@ Description: A fairly complete 6502/65C02 development environment with some s...
  Using the JIT it runs at about simulated 3-4mhz. Not too bad!
  SEE https://github.com/justlostintime/em6502/wiki
  For Documentation/Help
+ V1.2.7
+ Many Speed improvement in emulator
+ Many fixes in the concurrent tiny basic included with the project
  v1.2.5
  New Added description field to Computer definitions
  New allow to edit memory values from WATCH window

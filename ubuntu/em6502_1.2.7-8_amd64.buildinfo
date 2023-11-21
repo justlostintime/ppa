@@ -4,17 +4,17 @@ Binary: em6502
 Architecture: all source
 Version: 1.2.7-8
 Checksums-Md5:
- cee3a6e447384d763edfc464baec9885 1691 em6502_1.2.7-8.dsc
- 611c5974d764b3e09e0593aa1fa1dba7 8734246 em6502_1.2.7-8_all.deb
+ 6ad30a0eff9dcdc6312789475e081e33 1691 em6502_1.2.7-8.dsc
+ d865d1ca5290e3cc6d6179d5c1b52fdc 8735140 em6502_1.2.7-8_all.deb
 Checksums-Sha1:
- 9b4fab5c0a4200f008c744d20f3635d71bb67ca6 1691 em6502_1.2.7-8.dsc
- 4896d85ee732253d9605e3c641cbb577f14e72b0 8734246 em6502_1.2.7-8_all.deb
+ cba5726a6913a95e01d91a818c46c68f9410e2cf 1691 em6502_1.2.7-8.dsc
+ 9d359ad0dea55ca9fa59f582232c81abdf6c6fa5 8735140 em6502_1.2.7-8_all.deb
 Checksums-Sha256:
- a8321ffc32eb46cfc4c80ad08c242d078f808067ef927c4d6a0bf84d9a060dfa 1691 em6502_1.2.7-8.dsc
- 75ba037b6fd98866d2ab7b1293f4017206e3943b11cc22f8872fd22550118411 8734246 em6502_1.2.7-8_all.deb
+ 8a9d5e3083814e1300bc95101e837a3c178773aa234b4b28e67952f49f21649f 1691 em6502_1.2.7-8.dsc
+ 3c65c8599d5a705b1c95136d7aad9ee8b5d15aba22054889f3b7e7b3d241ecbc 8735140 em6502_1.2.7-8_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 20 Nov 2023 15:03:19 -0800
+Build-Date: Mon, 20 Nov 2023 22:48:25 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -166,9 +166,9 @@ Installed-Build-Depends:
  libattr1 (= 1:2.5.1-1build1),
  libaudit-common (= 1:3.0.7-1build1),
  libaudit1 (= 1:3.0.7-1build1),
- libavahi-client3 (= 0.8-5ubuntu5.1),
- libavahi-common-data (= 0.8-5ubuntu5.1),
- libavahi-common3 (= 0.8-5ubuntu5.1),
+ libavahi-client3 (= 0.8-5ubuntu5.2),
+ libavahi-common-data (= 0.8-5ubuntu5.2),
+ libavahi-common3 (= 0.8-5ubuntu5.2),
  libbinutils (= 2.38-4ubuntu2.3),
  libblkid-dev (= 2.37.2-4ubuntu3),
  libblkid1 (= 2.37.2-4ubuntu3),
