@@ -16,17 +16,17 @@ Changes:
  .
    * New release version
 Checksums-Sha1:
- 8fcf0e3ca515897696747f2163879f1b06a6514c 1742 gsh_1.5.3-0ubuntu19.dsc
- 6810e146cd2ee0014294af84acc13ffdc1e11db7 4919 gsh_1.5.3-0ubuntu19.diff.gz
- df4e60de48445c08313618f115479fcf679c9704 756184 gsh_1.5.3-0ubuntu19_all.deb
- bb574bf67d2e589bb539964a75efd31605f98428 18813 gsh_1.5.3-0ubuntu19_amd64.buildinfo
+ 11214fb536c1783c38aa7089cd70a6a1e1895ea6 1742 gsh_1.5.3-0ubuntu19.dsc
+ 294926cba5658d9bea0db7900b86d33366587a40 4920 gsh_1.5.3-0ubuntu19.diff.gz
+ b8b8e3e9b7bc424de6b6ad27dc3c7674efb4b7c9 756218 gsh_1.5.3-0ubuntu19_all.deb
+ 24a111a9f321388b3c4f76ad2c0c7683231fe06c 18813 gsh_1.5.3-0ubuntu19_amd64.buildinfo
 Checksums-Sha256:
- cf88503a81b6c1ffc2bd99d45e7db9a43633d969473093003c5fbbe0a3f813f6 1742 gsh_1.5.3-0ubuntu19.dsc
- 19f9d1abe4c629bbe491af474246f77f3a1c92f1cc2fa5a66abeba8006abf0e2 4919 gsh_1.5.3-0ubuntu19.diff.gz
- e1ca4e9b655dbf96a3d5fc82b1651b0792452cca1d9c02c0acb0cac368a6a2a6 756184 gsh_1.5.3-0ubuntu19_all.deb
- 04f5ce63f266a351669accc06cb87f55390c7e2eaae72d0577b11c7ec58272d1 18813 gsh_1.5.3-0ubuntu19_amd64.buildinfo
+ d02416aa7080d1b1d5702851f26d1dbb4a1f99ac62a7b89090ed79098699ca08 1742 gsh_1.5.3-0ubuntu19.dsc
+ a8c1bb50cef0829af107812510261e4c345996ba2c31368d4ccaa5b70f03d7d5 4920 gsh_1.5.3-0ubuntu19.diff.gz
+ 6a5859d1c446e88298c3a5173aab614d61faacdb45166097d5190e0e269fc354 756218 gsh_1.5.3-0ubuntu19_all.deb
+ 4d5cde1fc2cc190e764eec869283adcb405b9b88b6aed98143eed832b2f68d84 18813 gsh_1.5.3-0ubuntu19_amd64.buildinfo
 Files:
- b14480ab1378a0738da8d03c5744cb4b 1742 contrib/shells optional gsh_1.5.3-0ubuntu19.dsc
- bcf69b9ab1d193a3430772d3d28635b7 4919 contrib/shells optional gsh_1.5.3-0ubuntu19.diff.gz
- 8d2fa72d8e38d63decb3e17759b7567e 756184 contrib/shells optional gsh_1.5.3-0ubuntu19_all.deb
- be3f3e57cca1dbbdb891917c8a1fbf88 18813 contrib/shells optional gsh_1.5.3-0ubuntu19_amd64.buildinfo
+ 365bee3c9cbdebde06e744a493cfc1bd 1742 contrib/shells optional gsh_1.5.3-0ubuntu19.dsc
+ 9fd4470ce8c6bd338c4a4cf60a20637f 4920 contrib/shells optional gsh_1.5.3-0ubuntu19.diff.gz
+ 0d721f7f3c5f6a271e84c69d4b58fa12 756218 contrib/shells optional gsh_1.5.3-0ubuntu19_all.deb
+ 94c0ec24f7586068bc39eeddac5296e5 18813 contrib/shells optional gsh_1.5.3-0ubuntu19_amd64.buildinfo

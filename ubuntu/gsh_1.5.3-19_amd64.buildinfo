@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.5.3-19
 Checksums-Md5:
- 46b24252d82339894dff4eb02fa888f9 1714 gsh_1.5.3-19.dsc
- a821f7b617994393ec84822efef926e0 756158 gsh_1.5.3-19_all.deb
+ eb44b10e450c912502710cabf875e035 1714 gsh_1.5.3-19.dsc
+ 210608485349d8421f020c5a41016976 756174 gsh_1.5.3-19_all.deb
 Checksums-Sha1:
- e17fcc889168fead89b83308088b8217e8c5b97c 1714 gsh_1.5.3-19.dsc
- 0b637c9874aaa945a9b0ca90b64835a3b9474400 756158 gsh_1.5.3-19_all.deb
+ 7f6eac47a2d30ffaad604f5008de6bb48b3ca135 1714 gsh_1.5.3-19.dsc
+ a900061faeed7498e3655648d056b6ff3897858d 756174 gsh_1.5.3-19_all.deb
 Checksums-Sha256:
- d99647b6a9d14f1491a3860e2275ea5de2a4152dd2ddaf8526504aabe1cb8f65 1714 gsh_1.5.3-19.dsc
- 99786623d8db9677997786a678b01227da076a4cf6eb10962257a7f9b870379d 756158 gsh_1.5.3-19_all.deb
+ a03c1477d5a202299182ed22f3559892968f9f3937104345e52d988caf3a20a1 1714 gsh_1.5.3-19.dsc
+ 4002289876ef214f95a3758bdf0af25a75b0b08290256de4aa2afc23dd6e1910 756174 gsh_1.5.3-19_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 30 Nov 2023 15:05:58 -0800
+Build-Date: Thu, 30 Nov 2023 15:11:54 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
