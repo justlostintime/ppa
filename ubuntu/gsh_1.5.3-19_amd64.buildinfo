@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.5.3-0ubuntu18
+Version: 1.5.3-19
 Checksums-Md5:
- 009d9ed76c75f9c131ba3deb1ca6952c 1742 gsh_1.5.3-0ubuntu18.dsc
- 6b18a850e11f2be4593620808c2c09cd 756192 gsh_1.5.3-0ubuntu18_all.deb
+ 46b24252d82339894dff4eb02fa888f9 1714 gsh_1.5.3-19.dsc
+ a821f7b617994393ec84822efef926e0 756158 gsh_1.5.3-19_all.deb
 Checksums-Sha1:
- f36f0f90c0d191dffde975c016e3d9fa5c8efcfc 1742 gsh_1.5.3-0ubuntu18.dsc
- 6aed3d65c4c469c1df93afb024019da6a3eb12e2 756192 gsh_1.5.3-0ubuntu18_all.deb
+ e17fcc889168fead89b83308088b8217e8c5b97c 1714 gsh_1.5.3-19.dsc
+ 0b637c9874aaa945a9b0ca90b64835a3b9474400 756158 gsh_1.5.3-19_all.deb
 Checksums-Sha256:
- b67730538543684c2f48c90d68eda51af0ea21482b73941ba41e9709d1a29950 1742 gsh_1.5.3-0ubuntu18.dsc
- a4f8ecc13899853a071616215a27da1d10ebbfed17340e0c43702deec1bb8a62 756192 gsh_1.5.3-0ubuntu18_all.deb
+ d99647b6a9d14f1491a3860e2275ea5de2a4152dd2ddaf8526504aabe1cb8f65 1714 gsh_1.5.3-19.dsc
+ 99786623d8db9677997786a678b01227da076a4cf6eb10962257a7f9b870379d 756158 gsh_1.5.3-19_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 30 Nov 2023 12:06:33 -0800
+Build-Date: Thu, 30 Nov 2023 15:05:58 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -79,20 +79,20 @@ Installed-Build-Depends:
  fonts-urw-base35 (= 20200910-1),
  g++ (= 4:11.2.0-1ubuntu1),
  g++-11 (= 11.4.0-1ubuntu1~22.04),
- gambas3-gb-args (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-compress (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-dbus (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-eval-highlight (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-net (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-net-curl (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-net-smtp (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-pcre (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-signal (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-term (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-util (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-util-web (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-gb-xml (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
- gambas3-runtime (= 3.18.90+git202311291649.a190b60ba+build30~ubuntu22.04.1),
+ gambas3-gb-args (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-compress (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-dbus (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-eval-highlight (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-net (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-net-curl (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-net-smtp (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-pcre (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-signal (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-term (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-util (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-util-web (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-xml (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-runtime (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
  gambas3-westwood-gb-scripter (= 3.18.1-4),
  gambas3-westwood-sharedmem (= 3.19.1-6),
  gawk (= 1:5.1.0-1ubuntu0.1),
