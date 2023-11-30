@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.5.3-0ubuntu17
+Version: 1.5.3-0ubuntu18
 Checksums-Md5:
- a1140c1303ab4b7ec0a76ae6566df97e 1742 gsh_1.5.3-0ubuntu17.dsc
- 34480cccead6eb3b2744dea52f691702 756070 gsh_1.5.3-0ubuntu17_all.deb
+ 009d9ed76c75f9c131ba3deb1ca6952c 1742 gsh_1.5.3-0ubuntu18.dsc
+ 6b18a850e11f2be4593620808c2c09cd 756192 gsh_1.5.3-0ubuntu18_all.deb
 Checksums-Sha1:
- dcd0a83e2cb2e5a94960f51b0e2ef4f87964ff7d 1742 gsh_1.5.3-0ubuntu17.dsc
- 5570341a24048fa1e7d71da7baa27701630d82d5 756070 gsh_1.5.3-0ubuntu17_all.deb
+ f36f0f90c0d191dffde975c016e3d9fa5c8efcfc 1742 gsh_1.5.3-0ubuntu18.dsc
+ 6aed3d65c4c469c1df93afb024019da6a3eb12e2 756192 gsh_1.5.3-0ubuntu18_all.deb
 Checksums-Sha256:
- 72249733bdae38d411614a166ed1fcf82ea7054d25b747b2467814c79aae9913 1742 gsh_1.5.3-0ubuntu17.dsc
- 04e6b39bd183ac0a56ad5ca852e0cf87e5758b8c378754027ffe56d4edc650d1 756070 gsh_1.5.3-0ubuntu17_all.deb
+ b67730538543684c2f48c90d68eda51af0ea21482b73941ba41e9709d1a29950 1742 gsh_1.5.3-0ubuntu18.dsc
+ a4f8ecc13899853a071616215a27da1d10ebbfed17340e0c43702deec1bb8a62 756192 gsh_1.5.3-0ubuntu18_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 30 Nov 2023 11:31:30 -0800
+Build-Date: Thu, 30 Nov 2023 12:06:33 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
