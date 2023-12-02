@@ -2,18 +2,18 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all
-Version: 1.5.3-19
+Version: 1.5.3-21
 Maintainer: Brian G <justlostintime@gmail.com>
 Standards-Version: 3.9.6
 Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.18), gambas3-dev (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0), gambas3-westwood-gb-scripter (>= 3.18), gambas3-westwood-gb-scripter (<< 3.99.0), gambas3-westwood-sharedmem (>= 3.18), gambas3-westwood-sharedmem (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- 2f53c7f04d1e0716df08d5931ec30dc426213dcb 1078351 gsh_1.5.3.orig.tar.gz
- a005e90cecb6f5cf03b604aa44a009f5635e74f8 4908 gsh_1.5.3-19.diff.gz
+ e3fc63f0bd2ea2bd6a087d5834286e1ed6db8895 1079370 gsh_1.5.3.orig.tar.gz
+ 1a203593fd96e4a631440926a353aa066116e499 4964 gsh_1.5.3-21.diff.gz
 Checksums-Sha256:
- af2ce49f63b3a5080e8f8ae21848f7d2fea14563b1d384876c4a26fcc2d48859 1078351 gsh_1.5.3.orig.tar.gz
- bde0c21afd552d454e1058bd82b616d868304f46e770e2ad229961e3994530e6 4908 gsh_1.5.3-19.diff.gz
+ 4c1af84ea1c9b250d9d5e2a8398dd706075a07d8954c8096344532b44b35e8af 1079370 gsh_1.5.3.orig.tar.gz
+ 82a31f19ec76290141cf3356cb4a6cba8efa58b9443be2f7f183298c079b3103 4964 gsh_1.5.3-21.diff.gz
 Files:
- 8c33bd9a1ac6abaa99c534bfe0702a46 1078351 gsh_1.5.3.orig.tar.gz
- 923834826101bcd03aaacb911b6bde84 4908 gsh_1.5.3-19.diff.gz
+ ef64849758b405499e31235f1d191b21 1079370 gsh_1.5.3.orig.tar.gz
+ 2734fe90ff0b4b537f8beea25492d43a 4964 gsh_1.5.3-21.diff.gz
