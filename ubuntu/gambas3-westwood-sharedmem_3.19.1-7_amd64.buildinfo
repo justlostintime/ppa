@@ -2,19 +2,19 @@ Format: 1.0
 Source: gambas3-westwood-sharedmem
 Binary: gambas3-westwood-sharedmem
 Architecture: all source
-Version: 3.19.1-6
+Version: 3.19.1-7
 Checksums-Md5:
- 2f4dafec97f6def4663b53acd552097e 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- 003c08eadbde255db3fb22fb0b17e5d3 155050 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ cd8fe2ced7be7992595cc586f6180951 975 gambas3-westwood-sharedmem_3.19.1-7.dsc
+ 77de378141c52d08dc6ba61ba08f2478 155240 gambas3-westwood-sharedmem_3.19.1-7_all.deb
 Checksums-Sha1:
- 10cb07ed28fb891bd94ccfa007b56afc581c59dd 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- 1fdc04d3dfde67c4c6aba2b92293c6c6d32cad3c 155050 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ 1b688f8cd2a8eb897de62b1041e44d364d436d08 975 gambas3-westwood-sharedmem_3.19.1-7.dsc
+ 80d4b38db5c66a0cdb0bed6070035f88c0910e0e 155240 gambas3-westwood-sharedmem_3.19.1-7_all.deb
 Checksums-Sha256:
- 699b6888b3be093432e9e884bd68071f38c1b3368cf74ee760da1f79dd0b4d72 975 gambas3-westwood-sharedmem_3.19.1-6.dsc
- 04cb42aba813e52f4ccb748af8724179c3a4317db25de3d77e959741ec88a923 155050 gambas3-westwood-sharedmem_3.19.1-6_all.deb
+ d034c87dffc03bd7f6ea33b7fc364f2254f0bbc588e854c8f119e0b839911e56 975 gambas3-westwood-sharedmem_3.19.1-7.dsc
+ cc5e61ada8870f6e0ea96982789570c989b3813b9725611394f00aa43f5194e5 155240 gambas3-westwood-sharedmem_3.19.1-7_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 12 Oct 2023 14:58:58 -0700
+Build-Date: Sun, 03 Dec 2023 08:49:11 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -63,7 +63,7 @@ Installed-Build-Depends:
  dh-autoreconf (= 20),
  dh-strip-nondeterminism (= 1.13.0-1),
  diffutils (= 1:3.8-0ubuntu2),
- distro-info-data (= 0.52ubuntu0.4),
+ distro-info-data (= 0.52ubuntu0.5),
  dpkg (= 1.21.1ubuntu2.2),
  dpkg-dev (= 1.21.1ubuntu2.2),
  dwz (= 0.14-1build2),
@@ -122,9 +122,9 @@ Installed-Build-Depends:
  lib32gcc-s1 (= 12.3.0-1ubuntu1~22.04),
  lib32stdc++6 (= 12.3.0-1ubuntu1~22.04),
  libacl1 (= 2.3.1-1),
- libapparmor1 (= 3.0.4-2ubuntu2.2),
+ libapparmor1 (= 3.0.4-2ubuntu2.3),
  libappstream-glib8 (= 0.7.18-2ubuntu1),
- libapt-pkg6.0 (= 2.4.10),
+ libapt-pkg6.0 (= 2.4.11),
  libarchive-zip-perl (= 1.68-1),
  libarchive13 (= 3.6.0-1ubuntu1),
  libargon2-1 (= 0~20171227-0.3),
@@ -139,9 +139,9 @@ Installed-Build-Depends:
  libattr1 (= 1:2.5.1-1build1),
  libaudit-common (= 1:3.0.7-1build1),
  libaudit1 (= 1:3.0.7-1build1),
- libavahi-client3 (= 0.8-5ubuntu5.1),
- libavahi-common-data (= 0.8-5ubuntu5.1),
- libavahi-common3 (= 0.8-5ubuntu5.1),
+ libavahi-client3 (= 0.8-5ubuntu5.2),
+ libavahi-common-data (= 0.8-5ubuntu5.2),
+ libavahi-common3 (= 0.8-5ubuntu5.2),
  libbinutils (= 2.38-4ubuntu2.3),
  libblkid-dev (= 2.37.2-4ubuntu3),
  libblkid1 (= 2.37.2-4ubuntu3),
@@ -230,11 +230,11 @@ Installed-Build-Depends:
  libgmp10 (= 2:6.2.1+dfsg-3ubuntu1),
  libgnomekbd-common (= 3.26.1-2),
  libgnomekbd8 (= 3.26.1-2),
- libgnutls30 (= 3.7.3-4ubuntu1.2),
+ libgnutls30 (= 3.7.3-4ubuntu1.3),
  libgomp1 (= 12.3.0-1ubuntu1~22.04),
  libgpg-error0 (= 1.43-3),
  libgraphite2-3 (= 1.3.14-1build2),
- libgssapi-krb5-2 (= 1.19.2-2ubuntu0.2),
+ libgssapi-krb5-2 (= 1.19.2-2ubuntu0.3),
  libgtk-3-0 (= 3.24.33-1ubuntu2),
  libgtk-3-common (= 3.24.33-1ubuntu2),
  libgtk3-perl (= 0.038-1),
@@ -254,11 +254,11 @@ Installed-Build-Depends:
  libjpeg8 (= 8c-2ubuntu10),
  libjpeg8-dev (= 8c-2ubuntu10),
  libjson-c5 (= 0.15-3~ubuntu1.22.04.2),
- libk5crypto3 (= 1.19.2-2ubuntu0.2),
+ libk5crypto3 (= 1.19.2-2ubuntu0.3),
  libkeyutils1 (= 1.6.1-2ubuntu3),
  libkmod2 (= 29-1ubuntu1),
- libkrb5-3 (= 1.19.2-2ubuntu0.2),
- libkrb5support0 (= 1.19.2-2ubuntu0.2),
+ libkrb5-3 (= 1.19.2-2ubuntu0.3),
+ libkrb5support0 (= 1.19.2-2ubuntu0.3),
  liblcms2-2 (= 2.12~rc1-2build2),
  libldap-2.5-0 (= 2.5.16+dfsg-0ubuntu0.22.04.1),
  libllvm10 (= 1:10.0.0-4ubuntu1),
@@ -279,7 +279,7 @@ Installed-Build-Depends:
  libncurses6 (= 6.3-2ubuntu0.1),
  libncursesw6 (= 6.3-2ubuntu0.1),
  libnettle8 (= 3.7.3-1build2),
- libnghttp2-14 (= 1.43.0-1build3),
+ libnghttp2-14 (= 1.43.0-1ubuntu0.1),
  libnsl-dev (= 1.3.0-2build2),
  libnsl2 (= 1.3.0-2build2),
  libobjc-11-dev (= 11.4.0-1ubuntu1~22.04),
@@ -290,7 +290,7 @@ Installed-Build-Depends:
  libpam-modules (= 1.4.0-11ubuntu2.3),
  libpam-modules-bin (= 1.4.0-11ubuntu2.3),
  libpam-runtime (= 1.4.0-11ubuntu2.3),
- libpam-systemd (= 249.11-0ubuntu3.10),
+ libpam-systemd (= 249.11-0ubuntu3.11),
  libpam0g (= 1.4.0-11ubuntu2.3),
  libpango-1.0-0 (= 1.50.6+ds-2ubuntu1),
  libpangocairo-1.0-0 (= 1.50.6+ds-2ubuntu1),
@@ -307,20 +307,20 @@ Installed-Build-Depends:
  libpcre3-dev (= 2:8.39-13ubuntu0.22.04.1),
  libpcre32-3 (= 2:8.39-13ubuntu0.22.04.1),
  libpcrecpp0v5 (= 2:8.39-13ubuntu0.22.04.1),
- libperl5.34 (= 5.34.0-3ubuntu1.2),
+ libperl5.34 (= 5.34.0-3ubuntu1.3),
  libpipeline1 (= 1.5.5-1),
  libpixman-1-0 (= 0.40.0-1ubuntu0.22.04.1),
  libpng-dev (= 1.6.37-3build5),
  libpng16-16 (= 1.6.37-3build5),
  libpolkit-agent-1-0 (= 0.105-33),
  libpolkit-gobject-1-0 (= 0.105-33),
- libprocps8 (= 2:3.3.17-6ubuntu2),
+ libprocps8 (= 2:3.3.17-6ubuntu2.1),
  libproxy1v5 (= 0.4.17-2),
  libpsl5 (= 0.21.0-1.2build2),
  libpthread-stubs0-dev (= 0.4-1build2),
  libpython3-stdlib (= 3.10.6-1~22.04),
- libpython3.10-minimal (= 3.10.12-1~22.04.2),
- libpython3.10-stdlib (= 3.10.12-1~22.04.2),
+ libpython3.10-minimal (= 3.10.12-1~22.04.3),
+ libpython3.10-stdlib (= 3.10.12-1~22.04.3),
  libquadmath0 (= 12.3.0-1ubuntu1~22.04),
  libreadline8 (= 8.1.2-1),
  librtmp1 (= 2.4+20151223.gitfa8646d.1-2build4),
@@ -340,19 +340,19 @@ Installed-Build-Depends:
  libsoup2.4-common (= 2.74.2-3),
  libsqlite3-0 (= 3.37.2-2ubuntu0.1),
  libssh-4 (= 0.9.6-2ubuntu0.22.04.1),
- libssl3 (= 3.0.2-0ubuntu1.10),
+ libssl3 (= 3.0.2-0ubuntu1.12),
  libstdc++-11-dev (= 11.4.0-1ubuntu1~22.04),
  libstdc++-9-dev (= 9.5.0-1ubuntu1~22.04),
  libstdc++6 (= 12.3.0-1ubuntu1~22.04),
  libstemmer0d (= 2.2.0-1build1),
  libsub-override-perl (= 0.09-2),
- libsystemd0 (= 249.11-0ubuntu3.10),
+ libsystemd0 (= 249.11-0ubuntu3.11),
  libtasn1-6 (= 4.18.0-4build1),
  libthai-data (= 0.1.29-1build1),
  libthai0 (= 0.1.29-1build1),
- libtiff-dev (= 4.3.0-6ubuntu0.6),
- libtiff5 (= 4.3.0-6ubuntu0.6),
- libtiffxx5 (= 4.3.0-6ubuntu0.6),
+ libtiff-dev (= 4.3.0-6ubuntu0.7),
+ libtiff5 (= 4.3.0-6ubuntu0.7),
+ libtiffxx5 (= 4.3.0-6ubuntu0.7),
  libtinfo6 (= 6.3-2ubuntu0.1),
  libtirpc-common (= 1.3.2-2ubuntu0.1),
  libtirpc-dev (= 1.3.2-2ubuntu0.1),
@@ -362,7 +362,7 @@ Installed-Build-Depends:
  libtsan2 (= 12.3.0-1ubuntu1~22.04),
  libubsan1 (= 12.3.0-1ubuntu1~22.04),
  libuchardet0 (= 0.0.7-1build2),
- libudev1 (= 249.11-0ubuntu3.10),
+ libudev1 (= 249.11-0ubuntu3.11),
  libunistring2 (= 1.0-1),
  libuuid1 (= 2.37.2-4ubuntu3),
  libvte-2.91-0 (= 0.68.0-1),
@@ -404,7 +404,7 @@ Installed-Build-Depends:
  libxxhash0 (= 0.8.1-1),
  libyaml-0-2 (= 0.2.2-1build2),
  libzstd1 (= 1.4.8+dfsg-3build1),
- linux-libc-dev (= 5.15.0-86.96),
+ linux-libc-dev (= 5.15.0-89.99),
  llvm-13-linker-tools (= 1:13.0.1-2ubuntu2.2),
  llvm-14-linker-tools (= 1:14.0.0-1ubuntu1.1),
  login (= 1:4.8.1-2ubuntu2.1),
@@ -426,20 +426,20 @@ Installed-Build-Depends:
  ncurses-base (= 6.3-2ubuntu0.1),
  ncurses-bin (= 6.3-2ubuntu0.1),
  netcat-openbsd (= 1.218-4ubuntu1),
- openssl (= 3.0.2-0ubuntu1.10),
+ openssl (= 3.0.2-0ubuntu1.12),
  passwd (= 1:4.8.1-2ubuntu2.1),
  patch (= 2.7.6-7build2),
  pci.ids (= 0.0~2022.01.22-1),
  pciutils (= 1:3.7.0-6),
- perl (= 5.34.0-3ubuntu1.2),
- perl-base (= 5.34.0-3ubuntu1.2),
- perl-modules-5.34 (= 5.34.0-3ubuntu1.2),
+ perl (= 5.34.0-3ubuntu1.3),
+ perl-base (= 5.34.0-3ubuntu1.3),
+ perl-modules-5.34 (= 5.34.0-3ubuntu1.3),
  pkexec (= 0.105-33),
  pkg-config (= 0.29.2-1ubuntu3),
  po-debconf (= 1.0.21+nmu1),
  policykit-1 (= 0.105-33),
  polkitd (= 0.105-33),
- procps (= 2:3.3.17-6ubuntu2),
+ procps (= 2:3.3.17-6ubuntu2.1),
  python-apt-common (= 2.4.0ubuntu2),
  python3 (= 3.10.6-1~22.04),
  python3-apt (= 2.4.0ubuntu2),
@@ -460,17 +460,17 @@ Installed-Build-Depends:
  python3-pycurl (= 7.44.1-4build1),
  python3-requests (= 2.25.1+dfsg-2ubuntu0.1),
  python3-six (= 1.16.0-3ubuntu1),
- python3-urllib3 (= 1.26.5-1~exp1),
- python3.10 (= 3.10.12-1~22.04.2),
- python3.10-minimal (= 3.10.12-1~22.04.2),
+ python3-urllib3 (= 1.26.5-1~exp1ubuntu0.1),
+ python3.10 (= 3.10.12-1~22.04.3),
+ python3.10-minimal (= 3.10.12-1~22.04.3),
  readline-common (= 8.1.2-1),
  rpcsvc-proto (= 1.4.2-0ubuntu6),
  sed (= 4.8-1ubuntu2),
  sensible-utils (= 0.0.17),
  session-migration (= 0.3.6),
  shared-mime-info (= 2.1-2),
- systemd (= 249.11-0ubuntu3.10),
- systemd-sysv (= 249.11-0ubuntu3.10),
+ systemd (= 249.11-0ubuntu3.11),
+ systemd-sysv (= 249.11-0ubuntu3.11),
  sysvinit-utils (= 3.01-1ubuntu1),
  tar (= 1.34+dfsg-1ubuntu0.1.22.04.1),
  ttf-bitstream-vera (= 1.10-8.2),
@@ -505,4 +505,4 @@ Environment:
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
  LD_LIBRARY_PATH=":/usr/local/easysoft/access:/usr/local/easysoft/lib"
- SOURCE_DATE_EPOCH="1697112000"
+ SOURCE_DATE_EPOCH="1701604800"

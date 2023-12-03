@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.5.3-0ubuntu19
+Version: 1.5.3-0ubuntu21
 Checksums-Md5:
- 365bee3c9cbdebde06e744a493cfc1bd 1742 gsh_1.5.3-0ubuntu19.dsc
- 0d721f7f3c5f6a271e84c69d4b58fa12 756218 gsh_1.5.3-0ubuntu19_all.deb
+ 5c8ff810d6be34db6208846d1d79aa7e 1742 gsh_1.5.3-0ubuntu21.dsc
+ 5342fa8833db182d4b8736d0ed9d757c 757842 gsh_1.5.3-0ubuntu21_all.deb
 Checksums-Sha1:
- 11214fb536c1783c38aa7089cd70a6a1e1895ea6 1742 gsh_1.5.3-0ubuntu19.dsc
- b8b8e3e9b7bc424de6b6ad27dc3c7674efb4b7c9 756218 gsh_1.5.3-0ubuntu19_all.deb
+ d0306a29527f94379d57c010c6400ae5fc968dee 1742 gsh_1.5.3-0ubuntu21.dsc
+ 01b482bd55ffe3d7a55961953d33a8f4eb5cf332 757842 gsh_1.5.3-0ubuntu21_all.deb
 Checksums-Sha256:
- d02416aa7080d1b1d5702851f26d1dbb4a1f99ac62a7b89090ed79098699ca08 1742 gsh_1.5.3-0ubuntu19.dsc
- 6a5859d1c446e88298c3a5173aab614d61faacdb45166097d5190e0e269fc354 756218 gsh_1.5.3-0ubuntu19_all.deb
+ c7542ccb8e82da7e313baf213fecbd68a89542e357dbf4c9de2ac102ac764f8a 1742 gsh_1.5.3-0ubuntu21.dsc
+ 9d6b70974fb6f1829c9604c5a7375e935395c26780aea51f358c1996b961a129 757842 gsh_1.5.3-0ubuntu21_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 30 Nov 2023 15:12:02 -0800
+Build-Date: Sun, 03 Dec 2023 08:40:13 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -79,20 +79,20 @@ Installed-Build-Depends:
  fonts-urw-base35 (= 20200910-1),
  g++ (= 4:11.2.0-1ubuntu1),
  g++-11 (= 11.4.0-1ubuntu1~22.04),
- gambas3-gb-args (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-compress (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-dbus (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-eval-highlight (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-net (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-net-curl (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-net-smtp (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-pcre (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-signal (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-term (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-util (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-util-web (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-gb-xml (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
- gambas3-runtime (= 3.18.90+git202311292355.0509db3bb+build30~ubuntu22.04.1),
+ gambas3-gb-args (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-compress (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-dbus (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-eval-highlight (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-net (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-net-curl (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-net-smtp (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-pcre (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-signal (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-term (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-util (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-util-web (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-gb-xml (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
+ gambas3-runtime (= 3.18.90+git202312011910.010e58339+build30~ubuntu22.04.1),
  gambas3-westwood-gb-scripter (= 3.18.1-4),
  gambas3-westwood-sharedmem (= 3.19.1-6),
  gawk (= 1:5.1.0-1ubuntu0.1),
@@ -521,4 +521,4 @@ Environment:
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
  LD_LIBRARY_PATH=":/usr/local/easysoft/access:/usr/local/easysoft/lib"
- SOURCE_DATE_EPOCH="1701345600"
+ SOURCE_DATE_EPOCH="1701604800"
