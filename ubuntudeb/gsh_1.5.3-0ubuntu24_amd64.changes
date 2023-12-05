@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 05 Dec 2023 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.5.3-0ubuntu24
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell
+Changes:
+ gsh (1.5.3-0ubuntu24) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 4324d34d84266fa393325cddaa8828e0c47c185b 1742 gsh_1.5.3-0ubuntu24.dsc
+ 27c426b6c240ccbe08b538cc376871a251939d9e 5268 gsh_1.5.3-0ubuntu24.diff.gz
+ f1fbebc234115b8ba3dfcc4b63e20733f32beb6b 760154 gsh_1.5.3-0ubuntu24_all.deb
+ ddd2f186ef7e5feeb7e8380a28354819fd4ee661 18813 gsh_1.5.3-0ubuntu24_amd64.buildinfo
+Checksums-Sha256:
+ 08dc8cc43eb79798bd4e191c24a7343eda583469ceb7e3f7bbbe436b580a6788 1742 gsh_1.5.3-0ubuntu24.dsc
+ 2bd285988625b386986491cddce3591854324dfe474d474daf7a94fc1dc8d956 5268 gsh_1.5.3-0ubuntu24.diff.gz
+ 9cea11eb31915fca4a2f3c1d59cdd0b6172f87cdf1661ee01d150ed3000e70f9 760154 gsh_1.5.3-0ubuntu24_all.deb
+ ef9876dde2ccf2790e556a9bc3f2ccad085b466c4c57a3a0accd3e65c85a2e9f 18813 gsh_1.5.3-0ubuntu24_amd64.buildinfo
+Files:
+ 5dc40ab6950ad8c8af358f30b4391ab2 1742 contrib/shells optional gsh_1.5.3-0ubuntu24.dsc
+ 29dc6ba72e57122979f721e5e441d0a2 5268 contrib/shells optional gsh_1.5.3-0ubuntu24.diff.gz
+ 3b63e59b9e66db33214655e5b442c84f 760154 contrib/shells optional gsh_1.5.3-0ubuntu24_all.deb
+ f3a4ac83ae39bd719f7a70dd71f7b504 18813 contrib/shells optional gsh_1.5.3-0ubuntu24_amd64.buildinfo

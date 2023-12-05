@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.5.3-23
+Version: 1.5.3-24
 Checksums-Md5:
- f525c434e62bd0ccb300e3f7c1348ac0 1714 gsh_1.5.3-23.dsc
- e94be7f9b28e6f237b76adf3aee849d7 759874 gsh_1.5.3-23_all.deb
+ e4ef4d90b6961d2e0e27ddd484be2ad3 1714 gsh_1.5.3-24.dsc
+ a14324aabddaec37ce852f1428c188ac 760120 gsh_1.5.3-24_all.deb
 Checksums-Sha1:
- b4356a80a84293aaa9b1a727bddf09db7e90a350 1714 gsh_1.5.3-23.dsc
- deeafeb98a740d654fb37e8a885db0978f7a30f5 759874 gsh_1.5.3-23_all.deb
+ 683368aad09d4d38e66d67258b434d539c1140b0 1714 gsh_1.5.3-24.dsc
+ 4844886448856dcde12540d17e64b36dba40a3e2 760120 gsh_1.5.3-24_all.deb
 Checksums-Sha256:
- 35cf9174d0b9e6c8c3251140088337418ad124b1c398f676b9a6b319189d224a 1714 gsh_1.5.3-23.dsc
- a3599cbdb56ef8be35174b92a97d29a981fb9fefbeac447b4d99eb99f4795a6e 759874 gsh_1.5.3-23_all.deb
+ 56d22693ac37267c24f2364b473b13a623d07993aa252bc100fa42dce6cbe5c8 1714 gsh_1.5.3-24.dsc
+ 257a3fe304eaa06cd6b9ec092d0af62629b7116b6c0f59496b5b0fc3378dca01 760120 gsh_1.5.3-24_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 04 Dec 2023 23:50:21 -0800
+Build-Date: Tue, 05 Dec 2023 12:21:10 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -521,4 +521,4 @@ Environment:
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
  LD_LIBRARY_PATH=":/usr/local/easysoft/access:/usr/local/easysoft/lib"
- SOURCE_DATE_EPOCH="1701691200"
+ SOURCE_DATE_EPOCH="1701777600"
