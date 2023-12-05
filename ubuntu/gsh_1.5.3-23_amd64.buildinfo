@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.5.3-23
 Checksums-Md5:
- 84b89716e8263ad80342dfe1a0710ca7 1714 gsh_1.5.3-23.dsc
- b4deb2fbb500af7d7ffebc53698248e0 758052 gsh_1.5.3-23_all.deb
+ f525c434e62bd0ccb300e3f7c1348ac0 1714 gsh_1.5.3-23.dsc
+ e94be7f9b28e6f237b76adf3aee849d7 759874 gsh_1.5.3-23_all.deb
 Checksums-Sha1:
- 5a5b27116910c873e89bff091deca0ebae56cc70 1714 gsh_1.5.3-23.dsc
- 84d0860cdc3c4027f1e714a8332645e041471a8f 758052 gsh_1.5.3-23_all.deb
+ b4356a80a84293aaa9b1a727bddf09db7e90a350 1714 gsh_1.5.3-23.dsc
+ deeafeb98a740d654fb37e8a885db0978f7a30f5 759874 gsh_1.5.3-23_all.deb
 Checksums-Sha256:
- 3f74b013de2e82a440b2eb129078bf2e6e4152c97c01281f80e1eb199d014f0e 1714 gsh_1.5.3-23.dsc
- c7cf61c865aea26cff28a9f0d34f2e33c7e74dd38488278fc1d615ac3bb4388b 758052 gsh_1.5.3-23_all.deb
+ 35cf9174d0b9e6c8c3251140088337418ad124b1c398f676b9a6b319189d224a 1714 gsh_1.5.3-23.dsc
+ a3599cbdb56ef8be35174b92a97d29a981fb9fefbeac447b4d99eb99f4795a6e 759874 gsh_1.5.3-23_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 04 Dec 2023 22:09:12 -0800
+Build-Date: Mon, 04 Dec 2023 23:50:21 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -94,7 +94,7 @@ Installed-Build-Depends:
  gambas3-gb-xml (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
  gambas3-runtime (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
  gambas3-westwood-gb-scripter (= 3.18.1-4),
- gambas3-westwood-sharedmem (= 3.19.1-7),
+ gambas3-westwood-sharedmem (= 3.19.1-8),
  gawk (= 1:5.1.0-1ubuntu0.1),
  gcc (= 4:11.2.0-1ubuntu1),
  gcc-10 (= 10.5.0-1ubuntu1~22.04),
