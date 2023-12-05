@@ -2024,16 +2024,16 @@ Description: Gambas interactive shell
  This program is written in Gambas.
 
 Package: gsh
-Version: 1.5.3-24
+Version: 1.5.3-25
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
 Installed-Size: 1508
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0), gambas3-westwood-gb-scripter (>= 3.18), gambas3-westwood-gb-scripter (<< 3.99.0), gambas3-westwood-sharedmem (>= 3.18), gambas3-westwood-sharedmem (<< 3.99.0)
-Filename: ./gsh_1.5.3-24_all.deb
-Size: 760120
-MD5sum: a14324aabddaec37ce852f1428c188ac
-SHA1: 4844886448856dcde12540d17e64b36dba40a3e2
-SHA256: 257a3fe304eaa06cd6b9ec092d0af62629b7116b6c0f59496b5b0fc3378dca01
+Filename: ./gsh_1.5.3-25_all.deb
+Size: 760110
+MD5sum: 2a9c095714b2d5cbe5633868efacf2b3
+SHA1: e2a49bacf81ffb7760ed7cbac8adc77c7c7f7489
+SHA256: fb4bdf883b57afd37c0b6cc39251941530dd59df8d9549668a2373f623e5d0e2
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell

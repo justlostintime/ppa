@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.5.3-24
+Version: 1.5.3-0ubuntu25
 Checksums-Md5:
- e4ef4d90b6961d2e0e27ddd484be2ad3 1714 gsh_1.5.3-24.dsc
- a14324aabddaec37ce852f1428c188ac 760120 gsh_1.5.3-24_all.deb
+ 7ad955228c96ce949fe6e15380ae9232 1742 gsh_1.5.3-0ubuntu25.dsc
+ 2300058f1da5fce958c14448150842cd 760130 gsh_1.5.3-0ubuntu25_all.deb
 Checksums-Sha1:
- 683368aad09d4d38e66d67258b434d539c1140b0 1714 gsh_1.5.3-24.dsc
- 4844886448856dcde12540d17e64b36dba40a3e2 760120 gsh_1.5.3-24_all.deb
+ a3bdcd8c0ec356379aa0d85dfb1c4b7c7b546cd3 1742 gsh_1.5.3-0ubuntu25.dsc
+ 593d1af1568992fc882e97c82772135c72fd3b17 760130 gsh_1.5.3-0ubuntu25_all.deb
 Checksums-Sha256:
- 56d22693ac37267c24f2364b473b13a623d07993aa252bc100fa42dce6cbe5c8 1714 gsh_1.5.3-24.dsc
- 257a3fe304eaa06cd6b9ec092d0af62629b7116b6c0f59496b5b0fc3378dca01 760120 gsh_1.5.3-24_all.deb
+ 1b9389d1fa96b1da17a81c7016d1b73d7cbb57c461b37573246b7360fabbc038 1742 gsh_1.5.3-0ubuntu25.dsc
+ 20a36620213e148e7f00c3fe62e6c3cd9f950d0bba9f71e30ad7762f288a7ae6 760130 gsh_1.5.3-0ubuntu25_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 05 Dec 2023 12:21:10 -0800
+Build-Date: Tue, 05 Dec 2023 13:15:22 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
