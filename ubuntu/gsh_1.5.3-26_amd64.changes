@@ -16,17 +16,17 @@ Changes:
  .
    * New release version
 Checksums-Sha1:
- 1ac2117dc95bed78787527eb751a8949597023c2 1714 gsh_1.5.3-26.dsc
- 4a276e01f04d3bdb270c49ec59bde97f3fc9152b 5054 gsh_1.5.3-26.diff.gz
- 869b06ce7368d7081e2b365b1a534ad000b51a89 761186 gsh_1.5.3-26_all.deb
- d319bf656b360612564d38598f0330dda99685ab 18765 gsh_1.5.3-26_amd64.buildinfo
+ ce283a8d3c8c7f5c064ec6f0aca7d56badc6ed8e 1714 gsh_1.5.3-26.dsc
+ 0f790f2f806a723f932a4ff047e6706428b2c6a4 5052 gsh_1.5.3-26.diff.gz
+ 6e01254ba1f91681e98a77a5176e7d5744b2d943 761188 gsh_1.5.3-26_all.deb
+ c446a24ae06638dbc3ae009ca1feb9b27e986ac6 18765 gsh_1.5.3-26_amd64.buildinfo
 Checksums-Sha256:
- bc620b3de6c01699bffe429b8cce228da80cd1f417de9bdb22af2261b594b329 1714 gsh_1.5.3-26.dsc
- 82ae51c56cd82fabb5dde9e09dea80d02b58309bef278b7db411e1673ab99a26 5054 gsh_1.5.3-26.diff.gz
- d223fdff4dc30d628ce1599c6b906fe6c8c6d3131e6525eea81f5927ca3ad89d 761186 gsh_1.5.3-26_all.deb
- c171b6941126db970e8ec4591cf4658c536f2626c55618bebc113044471af26b 18765 gsh_1.5.3-26_amd64.buildinfo
+ 36770f823df3fa7f69217e918c18980f1d1749868a9e6b7d560de398586a66c5 1714 gsh_1.5.3-26.dsc
+ 4e87fd969a55cf7e4d9f08842100b99893acb18d89c1121a0df77302a0781250 5052 gsh_1.5.3-26.diff.gz
+ b55f786ef39b864ad7a4f5049656bcfdae0af5be3efed6112883aef3ebe8947b 761188 gsh_1.5.3-26_all.deb
+ d200469da543a391f078cf8463de60a5df15ae8b780f6cdb6c2534ba6f6f214b 18765 gsh_1.5.3-26_amd64.buildinfo
 Files:
- 5b0b68a3e703da70c85a876210bbc17d 1714 contrib/shells optional gsh_1.5.3-26.dsc
- 38cf4385dc85ce94417198d39062507e 5054 contrib/shells optional gsh_1.5.3-26.diff.gz
- 0fc4bc5da4a1e799b13816bba493fff8 761186 contrib/shells optional gsh_1.5.3-26_all.deb
- b915889b0230252f44aa5b6dbe3320db 18765 contrib/shells optional gsh_1.5.3-26_amd64.buildinfo
+ 7766a284ffef7e16da5bdaee1d45b870 1714 contrib/shells optional gsh_1.5.3-26.dsc
+ c5d7b4f20bbd3ea11c8e3e635a06d416 5052 contrib/shells optional gsh_1.5.3-26.diff.gz
+ 255da09b88c64c2af976b1c10a0d53e3 761188 contrib/shells optional gsh_1.5.3-26_all.deb
+ c843eb76c9598705564b770e38cd50ff 18765 contrib/shells optional gsh_1.5.3-26_amd64.buildinfo
