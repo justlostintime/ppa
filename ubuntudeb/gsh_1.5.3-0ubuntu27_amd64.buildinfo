@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.5.3-0ubuntu25
+Version: 1.5.3-0ubuntu27
 Checksums-Md5:
- 7ad955228c96ce949fe6e15380ae9232 1742 gsh_1.5.3-0ubuntu25.dsc
- 2300058f1da5fce958c14448150842cd 760130 gsh_1.5.3-0ubuntu25_all.deb
+ ccc7f783220efca2a2a9f20ab000409d 1742 gsh_1.5.3-0ubuntu27.dsc
+ 0c3a0da4ffaed154ce41e6364edfbdae 761454 gsh_1.5.3-0ubuntu27_all.deb
 Checksums-Sha1:
- a3bdcd8c0ec356379aa0d85dfb1c4b7c7b546cd3 1742 gsh_1.5.3-0ubuntu25.dsc
- 593d1af1568992fc882e97c82772135c72fd3b17 760130 gsh_1.5.3-0ubuntu25_all.deb
+ 73c2dc35d496b936fd9c007b1e146a68a2bf4239 1742 gsh_1.5.3-0ubuntu27.dsc
+ 99e7fd8feecb7f4cf1ec0ddf52845251ab0839c7 761454 gsh_1.5.3-0ubuntu27_all.deb
 Checksums-Sha256:
- 1b9389d1fa96b1da17a81c7016d1b73d7cbb57c461b37573246b7360fabbc038 1742 gsh_1.5.3-0ubuntu25.dsc
- 20a36620213e148e7f00c3fe62e6c3cd9f950d0bba9f71e30ad7762f288a7ae6 760130 gsh_1.5.3-0ubuntu25_all.deb
+ 1dfddfdb96081dceb82a745b0e1e811aad951bb4269ecdb9a0f14c9d7369eb2d 1742 gsh_1.5.3-0ubuntu27.dsc
+ 100603679716d2febdaec6ec803d5a223581795df8c2e10dc84ed7e9f7e69335 761454 gsh_1.5.3-0ubuntu27_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 05 Dec 2023 13:15:22 -0800
+Build-Date: Sat, 09 Dec 2023 14:37:25 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -79,22 +79,22 @@ Installed-Build-Depends:
  fonts-urw-base35 (= 20200910-1),
  g++ (= 4:11.2.0-1ubuntu1),
  g++-11 (= 11.4.0-1ubuntu1~22.04),
- gambas3-gb-args (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-compress (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-dbus (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-eval-highlight (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-net (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-net-curl (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-net-smtp (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-pcre (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-signal (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-term (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-util (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-util-web (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-gb-xml (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
- gambas3-runtime (= 3.18.90+git202312040028.957a8f48e+build30~ubuntu22.04.1),
+ gambas3-gb-args (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-compress (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-dbus (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-eval-highlight (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-net (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-net-curl (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-net-smtp (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-pcre (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-signal (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-term (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-util (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-util-web (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-gb-xml (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
+ gambas3-runtime (= 3.18.90+git202312081428.6cb5b4f85+build30~ubuntu22.04.1),
  gambas3-westwood-gb-scripter (= 3.18.1-4),
- gambas3-westwood-sharedmem (= 3.19.1-8),
+ gambas3-westwood-sharedmem (= 3.19.1-9),
  gawk (= 1:5.1.0-1ubuntu0.1),
  gcc (= 4:11.2.0-1ubuntu1),
  gcc-10 (= 10.5.0-1ubuntu1~22.04),
@@ -164,11 +164,11 @@ Installed-Build-Depends:
  libbrotli1 (= 1.0.9-2build6),
  libbsd0 (= 0.11.5-1),
  libbz2-1.0 (= 1.0.8-5build1),
- libc-bin (= 2.35-0ubuntu3.4),
- libc-dev-bin (= 2.35-0ubuntu3.4),
- libc6 (= 2.35-0ubuntu3.4),
- libc6-dev (= 2.35-0ubuntu3.4),
- libc6-i386 (= 2.35-0ubuntu3.4),
+ libc-bin (= 2.35-0ubuntu3.5),
+ libc-dev-bin (= 2.35-0ubuntu3.5),
+ libc6 (= 2.35-0ubuntu3.5),
+ libc6-dev (= 2.35-0ubuntu3.5),
+ libc6-i386 (= 2.35-0ubuntu3.5),
  libcairo-gobject-perl (= 1.005-3build1),
  libcairo-gobject2 (= 1.16.0-5ubuntu2),
  libcairo-perl (= 1.109-2build1),
@@ -193,7 +193,7 @@ Installed-Build-Depends:
  libctf-nobfd0 (= 2.38-4ubuntu2.3),
  libctf0 (= 2.38-4ubuntu2.3),
  libcups2 (= 2.4.1op1-1ubuntu4.7),
- libcurl3-gnutls (= 7.81.0-1ubuntu1.14),
+ libcurl3-gnutls (= 7.81.0-1ubuntu1.15),
  libdatrie1 (= 0.2.13-2),
  libdb5.3 (= 5.3.28+dfsg1-0.8ubuntu3),
  libdbus-1-3 (= 1.12.20-2ubuntu4.1),
@@ -420,7 +420,7 @@ Installed-Build-Depends:
  libxxhash0 (= 0.8.1-1),
  libyaml-0-2 (= 0.2.2-1build2),
  libzstd1 (= 1.4.8+dfsg-3build1),
- linux-libc-dev (= 5.15.0-89.99),
+ linux-libc-dev (= 5.15.0-91.101),
  llvm-13-linker-tools (= 1:13.0.1-2ubuntu2.2),
  llvm-14-linker-tools (= 1:14.0.0-1ubuntu1.1),
  login (= 1:4.8.1-2ubuntu2.1),
@@ -521,4 +521,4 @@ Environment:
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
  LD_LIBRARY_PATH=":/usr/local/easysoft/access:/usr/local/easysoft/lib"
- SOURCE_DATE_EPOCH="1701777600"
+ SOURCE_DATE_EPOCH="1702123200"
