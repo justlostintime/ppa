@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 25 Dec 2023 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.6.1-0ubuntu3
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell
+Changes:
+ gsh (1.6.1-0ubuntu3) unstable; urgency=low
+ .
+   * Updated ghs to use library and install without dependency
+Checksums-Sha1:
+ 945d639852abd22554e4b955a4eba73ee7776052 1626 gsh_1.6.1-0ubuntu3.dsc
+ d7fc26f8af42271628de0629f0624634e4c9a5ef 5261 gsh_1.6.1-0ubuntu3.diff.gz
+ e1d41a88a4ad278aee76c1a23d8a00bce008be7d 1002076 gsh_1.6.1-0ubuntu3_all.deb
+ c03b711e4535cc76cbd7ccfc10054aafd0e16c63 18807 gsh_1.6.1-0ubuntu3_amd64.buildinfo
+Checksums-Sha256:
+ 55d8521a33c2327a055f9038d739d9c7344e8b4cc774c6ad606ed06d3b32826f 1626 gsh_1.6.1-0ubuntu3.dsc
+ 489bd45556f2d1d0d7d4e374211df2a9b74158ff5a6157859533d7a89e4c5515 5261 gsh_1.6.1-0ubuntu3.diff.gz
+ 3834926813ecd4197a4f900bf12d5dcb483d1fc6b98ede47542b23a4d7e60227 1002076 gsh_1.6.1-0ubuntu3_all.deb
+ 610a754d20d5476d6b7addeefda1f733738d42cd0d3c27017ef1a3311d24ced8 18807 gsh_1.6.1-0ubuntu3_amd64.buildinfo
+Files:
+ dbf68c2c650c3e9c3b229f8afed9e01a 1626 contrib/shells optional gsh_1.6.1-0ubuntu3.dsc
+ 7099fef81dc3634646ec5cb597f756bc 5261 contrib/shells optional gsh_1.6.1-0ubuntu3.diff.gz
+ b2e67f7743a89445be385317420a98cc 1002076 contrib/shells optional gsh_1.6.1-0ubuntu3_all.deb
+ db277e8b5df6a0c9109cdfc2d36031ab 18807 contrib/shells optional gsh_1.6.1-0ubuntu3_amd64.buildinfo

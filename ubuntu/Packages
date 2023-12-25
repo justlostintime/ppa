@@ -2057,6 +2057,23 @@ Description: Gambas interactive shell
  Gambas interactive shell
  This program is written in Gambas.
 
+Package: gsh
+Version: 1.6.1-3
+Architecture: all
+Maintainer: Brian G <justlostintime@gmail.com>
+Installed-Size: 2448
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
+Filename: ./gsh_1.6.1-3_all.deb
+Size: 1002050
+MD5sum: 29ad12398f139422b1a5e7fbf8a7d4ba
+SHA1: 305a8657c3e0fa6a946c5f30ecd8d38a1d6223ae
+SHA256: 3e31a5b7165eaafb9c4ac301742f988c2c554655e5ce3802cd42cfee72488131
+Section: contrib/shells
+Priority: optional
+Description: Gambas interactive shell
+ Gambas interactive shell
+ This program is written in Gambas.
+
 Package: scriptbuilder
 Version: 2.0.3-1
 Architecture: all
@@ -2380,4 +2397,45 @@ Description: Script Builder A simple editor to produce as output executable G...
  FIX   Updated so that names with spaces work correctly and parameters are passed
          correctly from the command line.
  This program is written in Gambas.
+
+Package: westwood-gb-scripter
+Version: 3.19.2-1
+Architecture: all
+Maintainer: Westwood Justlostiontime <justlostintime@gmail.com>
+Installed-Size: 306
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
+Filename: ./westwood-gb-scripter_3.19.2-1_all.deb
+Size: 92404
+MD5sum: 963a576027f4f5149af38e0548840e8c
+SHA1: 5cf45d148e8810d7616219c3cba1c154ee117fd0
+SHA256: ffb265fa86990677565e8261812fbf44a8665b44dbc5905ed0ed17785065909c
+Section: contrib/libs
+Priority: optional
+Description: Scripter Component, execute scripts and load script based plugins
+ Scripter Component, execute scripts and load script based plugins
+ This is a Gambas library.
+
+Package: westwood-sharedmem
+Version: 3.19.2-1
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 570
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0), gambas3-gb-highlight (>= 3.17), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-image (>= 3.17), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.17), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.17), gambas3-gb-signal (<< 3.99.0)
+Filename: ./westwood-sharedmem_3.19.2-1_all.deb
+Size: 155284
+MD5sum: f1f747437012c0ed4483bf2846e45eb7
+SHA1: f174f4ee3dc56a0a800252f3893fc34ba820f1d5
+SHA256: c2a8144703e60781a814ddc50a116ad5dcc488835f9b3fcc9efd67887bee1194
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Latest Version 3.19.1, added rename and speed refinements
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ Project contains both versions
+ Version              SharedMem release 3.18.3          production quality
+ Version              ShmMem      release 3.18.3          Beta quality
+ This is a Gambas library.
 

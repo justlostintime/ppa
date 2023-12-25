@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 24 Dec 2023 12:00:00 +0000
+Source: westwood-gb-scripter
+Binary: westwood-gb-scripter
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 3.19.2-1
+Distribution: unstable
+Urgency: low
+Maintainer: Westwood Justlostiontime <justlostintime@gmail.com>
+Changed-By: Westwood Justlostiontime <justlostintime@gmail.com>
+Description:
+ westwood-gb-scripter - Scripter Component, execute scripts and load script based plugins
+Changes:
+ westwood-gb-scripter (3.19.2-1) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ d92bfe62871c6dcc02395e092b43b795e76937fb 1229 westwood-gb-scripter_3.19.2-1.dsc
+ da63a548074e9bb241743d35965e7fd82c40ed9b 1542 westwood-gb-scripter_3.19.2-1.diff.gz
+ 5cf45d148e8810d7616219c3cba1c154ee117fd0 92404 westwood-gb-scripter_3.19.2-1_all.deb
+ 13dda0f3f4f74b8f1da07e75237fa5083223f2d3 18176 westwood-gb-scripter_3.19.2-1_amd64.buildinfo
+Checksums-Sha256:
+ 81b686b8b539e9e3ca4f21f78245d6e205b711458774854a9c106aa577c8ac7e 1229 westwood-gb-scripter_3.19.2-1.dsc
+ 66ef99a5615f2e93789f9f4acf3499b04654596be74b253950bdc6018c88b25a 1542 westwood-gb-scripter_3.19.2-1.diff.gz
+ ffb265fa86990677565e8261812fbf44a8665b44dbc5905ed0ed17785065909c 92404 westwood-gb-scripter_3.19.2-1_all.deb
+ bd629ebefcf86ea367d5e9d6f9a6a989049c386b8de64238a3579746463d103d 18176 westwood-gb-scripter_3.19.2-1_amd64.buildinfo
+Files:
+ 60e96f73d3d0771ca123d3fefa49edf8 1229 contrib/libs optional westwood-gb-scripter_3.19.2-1.dsc
+ dcf837287c13e5f526f62a8145e2bb54 1542 contrib/libs optional westwood-gb-scripter_3.19.2-1.diff.gz
+ 963a576027f4f5149af38e0548840e8c 92404 contrib/libs optional westwood-gb-scripter_3.19.2-1_all.deb
+ 9acf229d91ca4bf5626eacf2d98959e4 18176 contrib/libs optional westwood-gb-scripter_3.19.2-1_amd64.buildinfo
