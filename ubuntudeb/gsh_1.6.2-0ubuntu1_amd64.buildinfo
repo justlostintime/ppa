@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.6.2-0ubuntu1
 Checksums-Md5:
- 5914832484df7d8c012eff6c71210e68 1626 gsh_1.6.2-0ubuntu1.dsc
- 4ea896dd5b8ad3f981b83c5d97390a41 1002076 gsh_1.6.2-0ubuntu1_all.deb
+ 43ba1633422ec78cc9f480a9fad9a1aa 1626 gsh_1.6.2-0ubuntu1.dsc
+ b904610251d271d92157ba4bd80aca18 1002042 gsh_1.6.2-0ubuntu1_all.deb
 Checksums-Sha1:
- 71737c9c628c9c5280b900d3d363377750bff4b2 1626 gsh_1.6.2-0ubuntu1.dsc
- 267d296f657a561f076abe4d3f276ab010c2f329 1002076 gsh_1.6.2-0ubuntu1_all.deb
+ 214897c586fa0ba74b7e248b023990fba8fd6c23 1626 gsh_1.6.2-0ubuntu1.dsc
+ e2bce8c0659bb795d37e4601917f5d517905627d 1002042 gsh_1.6.2-0ubuntu1_all.deb
 Checksums-Sha256:
- a026fa0c3a353bc4b065548053c37c8f122ab57aa0a09d6c2c3918af9cd4f7f0 1626 gsh_1.6.2-0ubuntu1.dsc
- 75164ab87fa98bf1bf0996a8ea34d93d93911caaa27463b27854d3a74f46d219 1002076 gsh_1.6.2-0ubuntu1_all.deb
+ b8e2add4fb90c620f3cf59d678503df409f473f7256743c3b24edb6752b0d7a8 1626 gsh_1.6.2-0ubuntu1.dsc
+ fd33cdf85c7bd3b63d5102c40f44e6fc17dc7b85ecb8cf9a52b7816f683ea7a8 1002042 gsh_1.6.2-0ubuntu1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 25 Dec 2023 18:52:43 -0800
+Build-Date: Tue, 26 Dec 2023 10:52:38 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -520,4 +520,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1703505600"
+ SOURCE_DATE_EPOCH="1703592000"

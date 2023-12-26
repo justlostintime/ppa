@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Mon, 25 Dec 2023 12:00:00 +0000
+Date: Tue, 26 Dec 2023 12:00:00 +0000
 Source: gsh
 Binary: gsh
 Built-For-Profiles: noudeb
@@ -16,17 +16,17 @@ Changes:
  .
    * New release version
 Checksums-Sha1:
- 0cbf61497cc23d8ae131db1a07c65eebf5ff52fc 1598 gsh_1.6.2-1.dsc
- 4f5c0309e4ca01f61588928ad9338c70214b477f 5154 gsh_1.6.2-1.diff.gz
- 31d6f16044a6ca2ca13ecf2c2b84d2d6434e7072 1002050 gsh_1.6.2-1_all.deb
- b9653d44cc6904d411ee17c2267bbfeeec12c909 18758 gsh_1.6.2-1_amd64.buildinfo
+ 5e2c82ad8073838f3d40ca0ee9f80cddb8904190 1598 gsh_1.6.2-1.dsc
+ 00d6727beb7c6d70f275a1549490be9b3d303518 5185 gsh_1.6.2-1.diff.gz
+ 643035e5dff8a5101ee32936b30d1bb6098b3799 1002046 gsh_1.6.2-1_all.deb
+ 76be22e04e1e7d89b2febd97b0328b42eedaef3a 18758 gsh_1.6.2-1_amd64.buildinfo
 Checksums-Sha256:
- 7572ca0914988bd0cbc189f7d5b19da369413c2365b1621a6917e53281151f38 1598 gsh_1.6.2-1.dsc
- 368c2adfd2e879b4d48089cb86d4b063e56a415f0ada47d17a51c885adbcd8d0 5154 gsh_1.6.2-1.diff.gz
- b947a05c5305891548c59a9ad88fcac399c48774729654d5e7620e13df1b34a0 1002050 gsh_1.6.2-1_all.deb
- c74713806b721518a55502cf157f3912a2e41bc221864fee99ba9f74ec377840 18758 gsh_1.6.2-1_amd64.buildinfo
+ df565873ed974b32b5496f0adbf81535ae40e4a7f230332f52c7140fd4e21bef 1598 gsh_1.6.2-1.dsc
+ e148692839d0dacbc96f7e0d8066cf625e9693689bea198a6529bbe6f84ad7d8 5185 gsh_1.6.2-1.diff.gz
+ fffcc29127de9d9c645954f74cae77710d50435a3ded3d5b19a3a5c115899bb7 1002046 gsh_1.6.2-1_all.deb
+ a48d5fec65b132ceed18ce29eb015fb96f21cd7827e706d8181a4471a1cd18f3 18758 gsh_1.6.2-1_amd64.buildinfo
 Files:
- f07b79922d95315bb087840ba1ed5370 1598 contrib/shells optional gsh_1.6.2-1.dsc
- 2f9843c9a511810a3053975d490b8be0 5154 contrib/shells optional gsh_1.6.2-1.diff.gz
- b828fada2d01e9b6a019b50ac5d5c496 1002050 contrib/shells optional gsh_1.6.2-1_all.deb
- bdb8e4b25d54552279a8464009b1d237 18758 contrib/shells optional gsh_1.6.2-1_amd64.buildinfo
+ e5d6e08a7637a4b36e91cd5ce8f4a456 1598 contrib/shells optional gsh_1.6.2-1.dsc
+ 5bc48a5c96bf8c8043ce09d4cb2735dc 5185 contrib/shells optional gsh_1.6.2-1.diff.gz
+ 9e46ee9d50f4b129bcd9a2442988930f 1002046 contrib/shells optional gsh_1.6.2-1_all.deb
+ b7bb2561d2829d9d366639bf00f30d7b 18758 contrib/shells optional gsh_1.6.2-1_amd64.buildinfo
