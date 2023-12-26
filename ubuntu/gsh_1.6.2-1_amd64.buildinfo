@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.6.1-3
+Version: 1.6.2-1
 Checksums-Md5:
- 0bbc9f1dd931ceebc4fffa2efa75a1e2 1598 gsh_1.6.1-3.dsc
- 29ad12398f139422b1a5e7fbf8a7d4ba 1002050 gsh_1.6.1-3_all.deb
+ f07b79922d95315bb087840ba1ed5370 1598 gsh_1.6.2-1.dsc
+ b828fada2d01e9b6a019b50ac5d5c496 1002050 gsh_1.6.2-1_all.deb
 Checksums-Sha1:
- 3a1bebf5ab8eafa40d18fda8fe4f8f3e07e5737f 1598 gsh_1.6.1-3.dsc
- 305a8657c3e0fa6a946c5f30ecd8d38a1d6223ae 1002050 gsh_1.6.1-3_all.deb
+ 0cbf61497cc23d8ae131db1a07c65eebf5ff52fc 1598 gsh_1.6.2-1.dsc
+ 31d6f16044a6ca2ca13ecf2c2b84d2d6434e7072 1002050 gsh_1.6.2-1_all.deb
 Checksums-Sha256:
- 95a1d839012f4f3cc9f7ce25d5a4c9a22e3fcc7fe48282a5b5762a279ec730e2 1598 gsh_1.6.1-3.dsc
- 3e31a5b7165eaafb9c4ac301742f988c2c554655e5ce3802cd42cfee72488131 1002050 gsh_1.6.1-3_all.deb
+ 7572ca0914988bd0cbc189f7d5b19da369413c2365b1621a6917e53281151f38 1598 gsh_1.6.2-1.dsc
+ b947a05c5305891548c59a9ad88fcac399c48774729654d5e7620e13df1b34a0 1002050 gsh_1.6.2-1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 25 Dec 2023 09:21:52 -0800
+Build-Date: Mon, 25 Dec 2023 18:52:30 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
