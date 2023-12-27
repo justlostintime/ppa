@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 27 Dec 2023 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.6.2-0ubuntu2
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell
+Changes:
+ gsh (1.6.2-0ubuntu2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ d4b08dbf7308cd038a7a9d32878fbc3a6a95a090 1626 gsh_1.6.2-0ubuntu2.dsc
+ 2d10eab3511dec4fcf682ebfd3cec2637877a2c5 5267 gsh_1.6.2-0ubuntu2.diff.gz
+ 3099621ffad56de7bb4a0765739b80838c61eedf 1002074 gsh_1.6.2-0ubuntu2_all.deb
+ ad464e15f2fda3c549a061155e7b9c4bb501f7b1 18807 gsh_1.6.2-0ubuntu2_amd64.buildinfo
+Checksums-Sha256:
+ ef65ffb30cddfe2b2b6f811bccdf070dbb56d83ada10a220599f276911c689eb 1626 gsh_1.6.2-0ubuntu2.dsc
+ bd614b3e33618d2475043c7b13be42a5eed3779f70799a4afdf9bbdbbe68d586 5267 gsh_1.6.2-0ubuntu2.diff.gz
+ 274cd2a410a80187c91f326ac484708297819395b88e19d3049d23f533dce37e 1002074 gsh_1.6.2-0ubuntu2_all.deb
+ 7592b7256ed7d4f977537a1e9100b861026e626415c717b552da719906dcfadd 18807 gsh_1.6.2-0ubuntu2_amd64.buildinfo
+Files:
+ 7a9e2fab2c715bb52ed53acecc9bb634 1626 contrib/shells optional gsh_1.6.2-0ubuntu2.dsc
+ 60dfd021d92278f8c44cf0d8f6587077 5267 contrib/shells optional gsh_1.6.2-0ubuntu2.diff.gz
+ 9b657781f4af2aa4c3e7a4bef8b170c9 1002074 contrib/shells optional gsh_1.6.2-0ubuntu2_all.deb
+ 48420f09d6f570d56efd0aed6b0b40f6 18807 contrib/shells optional gsh_1.6.2-0ubuntu2_amd64.buildinfo
