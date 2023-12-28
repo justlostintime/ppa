@@ -2064,10 +2064,10 @@ Maintainer: Brian G <justlostintime@gmail.com>
 Installed-Size: 2449
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
 Filename: ./gsh_1.6.2-4_all.deb
-Size: 1002138
-MD5sum: 58487cc90b57aa1933fd061f7e71e4e4
-SHA1: d7bb4cfb2be33869f3151f557230c7c43b6d2e68
-SHA256: a9260fe692ad29b73260882cb9959aad55f3c3f28cbf27d19ba510b0e90a1480
+Size: 1002162
+MD5sum: eeedae5c5d1695c4ca0a6a23b4f6de34
+SHA1: 216878f277c056dfdd1a3784fc3615d8526357ee
+SHA256: eda959ac807c421383aca31b15471cdfb09343b2c1f80d2eb1fa56c3151dffdd
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell
