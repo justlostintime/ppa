@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.6.2-0ubuntu5
+Version: 1.6.2-0ubuntu6
 Checksums-Md5:
- 68f67ce36efa887953587fbfb3adfcba 1560 gsh_1.6.2-0ubuntu5.dsc
- 5dbd59d977b41b1e34e26c54aae689ef 1002210 gsh_1.6.2-0ubuntu5_all.deb
+ 40f2e793fda5157147d7bf87e9ea80a7 1560 gsh_1.6.2-0ubuntu6.dsc
+ 2f7f45c7fa710ab07a2aba7acb9a9c00 1002412 gsh_1.6.2-0ubuntu6_all.deb
 Checksums-Sha1:
- 61d40f2cc1f3d34eefe9f92b1d3999ea26ad41d3 1560 gsh_1.6.2-0ubuntu5.dsc
- 16ba83a3137451dd0aad09f4973ad98f8bcdcb61 1002210 gsh_1.6.2-0ubuntu5_all.deb
+ d47de999773dc0b89d5868133471e30469e38724 1560 gsh_1.6.2-0ubuntu6.dsc
+ bb52c4f393d32679883505fb4639fc9367e84081 1002412 gsh_1.6.2-0ubuntu6_all.deb
 Checksums-Sha256:
- ae907cc81adc9ad6fdcc4e2fdaaaf804ca04b40325b847cc7227c5c159ebe607 1560 gsh_1.6.2-0ubuntu5.dsc
- 24ede5cc7dae3ce949dadd6408cf25173c64c3dee842a96005927b3f68ce9fba 1002210 gsh_1.6.2-0ubuntu5_all.deb
+ f50e1fee2602cb8aa9423afeef1e05b3e83229f01687f5e5d67873536d2c2952 1560 gsh_1.6.2-0ubuntu6.dsc
+ c6bdd4be62b22d58b66521be75c75fa4721837d08f235606481c8b6a13d8c363 1002412 gsh_1.6.2-0ubuntu6_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 27 Dec 2023 17:58:20 -0800
+Build-Date: Sat, 30 Dec 2023 16:17:25 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -434,7 +434,7 @@ Installed-Build-Depends:
  mime-support (= 3.66),
  mint-common (= 2.3.0),
  mint-translations (= 2023.07.07),
- mintsources (= 2.2.3),
+ mintsources (= 2.2.8),
  mount (= 2.37.2-4ubuntu3),
  ncal (= 12.1.7+nmu3ubuntu2),
  ncurses-base (= 6.3-2ubuntu0.1),
@@ -518,4 +518,5 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1703678400"
+ LD_LIBRARY_PATH=""
+ SOURCE_DATE_EPOCH="1703937600"

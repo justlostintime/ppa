@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.6.2-5
+Version: 1.6.2-6
 Checksums-Md5:
- 308f8dd174e519fbc97f464065268c49 1532 gsh_1.6.2-5.dsc
- 2f42fbe013486d7eb1119e17c1824e18 1002204 gsh_1.6.2-5_all.deb
+ 06a5a1facb97394a8f80f33d3cd952e3 1532 gsh_1.6.2-6.dsc
+ 68c2bc7292c9a8186b207fa463baff68 1002400 gsh_1.6.2-6_all.deb
 Checksums-Sha1:
- ca12ef68796a1109716d8cccb2de10be3d823e01 1532 gsh_1.6.2-5.dsc
- 1d3528e52d073c9bf1d5a9b83db19cc0a6bb29e8 1002204 gsh_1.6.2-5_all.deb
+ 85ae5e35f472cd84d21c84343f4416a242696b32 1532 gsh_1.6.2-6.dsc
+ 0bba84947a6d697594fdc6639afa354054dc77ff 1002400 gsh_1.6.2-6_all.deb
 Checksums-Sha256:
- ee9cdbeefe174c36b71a3df4ccc644262b47f7c0f025904e29d2f8dddb4ba424 1532 gsh_1.6.2-5.dsc
- 05da98c3e1e56f7351d232a52347c9dbf0b2d841ba24ca4d64a0cbee56090197 1002204 gsh_1.6.2-5_all.deb
+ aab046b808f3e6db3d2024ba8f2c08bcca7bccb22ee203309e610e54395702f1 1532 gsh_1.6.2-6.dsc
+ 87bbc205f98f439739a6933acbb7ab2fcd2a352dc1052896235c93d191027376 1002400 gsh_1.6.2-6_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 27 Dec 2023 17:58:09 -0800
+Build-Date: Sat, 30 Dec 2023 16:17:02 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -434,7 +434,7 @@ Installed-Build-Depends:
  mime-support (= 3.66),
  mint-common (= 2.3.0),
  mint-translations (= 2023.07.07),
- mintsources (= 2.2.3),
+ mintsources (= 2.2.8),
  mount (= 2.37.2-4ubuntu3),
  ncal (= 12.1.7+nmu3ubuntu2),
  ncurses-base (= 6.3-2ubuntu0.1),
@@ -518,4 +518,5 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1703678400"
+ LD_LIBRARY_PATH=""
+ SOURCE_DATE_EPOCH="1703937600"

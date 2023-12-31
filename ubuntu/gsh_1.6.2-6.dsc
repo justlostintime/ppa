@@ -2,18 +2,18 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all
-Version: 1.6.2-5
+Version: 1.6.2-6
 Maintainer: Brian G <justlostintime@gmail.com>
 Standards-Version: 3.9.6
 Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.18), gambas3-dev (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- c761345d556d06c77ac8d0bfc25702d48e17d3d3 1391951 gsh_1.6.2.orig.tar.gz
- 7f435ab7b6b3940a956614c981b2c0f7ba88e167 5269 gsh_1.6.2-5.diff.gz
+ d5a936ca764854a35368fe08f142f0ed9ce1c635 1392124 gsh_1.6.2.orig.tar.gz
+ c13e720c34ef9da8bb34c4d8ccbde8a58a5d62c9 5222 gsh_1.6.2-6.diff.gz
 Checksums-Sha256:
- d2061f17ba87bc54acd176f2797c00aba7b2b961d116fc18947ed6adc3d6a767 1391951 gsh_1.6.2.orig.tar.gz
- 140e312502cff6a961d6d250d293d6f3ec154f360be7614a07584d6a928f5ccd 5269 gsh_1.6.2-5.diff.gz
+ f7e05d8ac5bbd66ecd75cc547cc96d8a7107154b9501d172adb7e87959a7db24 1392124 gsh_1.6.2.orig.tar.gz
+ 9cca1317724321758c4e5f2009440c28b788df9a129e225a147dfe0801a912de 5222 gsh_1.6.2-6.diff.gz
 Files:
- aa09b9436510cd94b573a22355347bb2 1391951 gsh_1.6.2.orig.tar.gz
- 38c68a1a42165286f2dbc02799773860 5269 gsh_1.6.2-5.diff.gz
+ ebf31d67fb6fabf5a7a032eeb23124c0 1392124 gsh_1.6.2.orig.tar.gz
+ b441760722f4cf9a01cea0151c2d7ebb 5222 gsh_1.6.2-6.diff.gz
