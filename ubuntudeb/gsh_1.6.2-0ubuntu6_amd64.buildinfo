@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.6.2-0ubuntu6
 Checksums-Md5:
- 40f2e793fda5157147d7bf87e9ea80a7 1560 gsh_1.6.2-0ubuntu6.dsc
- 2f7f45c7fa710ab07a2aba7acb9a9c00 1002412 gsh_1.6.2-0ubuntu6_all.deb
+ a3c354667a4890611afa07d1981208f8 1636 gsh_1.6.2-0ubuntu6.dsc
+ acc3e796d7bfc07c5f1cd945844e9dfb 1002764 gsh_1.6.2-0ubuntu6_all.deb
 Checksums-Sha1:
- d47de999773dc0b89d5868133471e30469e38724 1560 gsh_1.6.2-0ubuntu6.dsc
- bb52c4f393d32679883505fb4639fc9367e84081 1002412 gsh_1.6.2-0ubuntu6_all.deb
+ 8e03e34e34bdc0d11c595096955d2925e2e5fa83 1636 gsh_1.6.2-0ubuntu6.dsc
+ 845db9ef75da7076319593e0b21147d4af1ce1d3 1002764 gsh_1.6.2-0ubuntu6_all.deb
 Checksums-Sha256:
- f50e1fee2602cb8aa9423afeef1e05b3e83229f01687f5e5d67873536d2c2952 1560 gsh_1.6.2-0ubuntu6.dsc
- c6bdd4be62b22d58b66521be75c75fa4721837d08f235606481c8b6a13d8c363 1002412 gsh_1.6.2-0ubuntu6_all.deb
+ 157ea05e936dd831510a60a345ce258722d49a18117e026127e6ab0399bc8e22 1636 gsh_1.6.2-0ubuntu6.dsc
+ 8e4704dce9d65e125238c1c6a939122b99bcfb96c0250637b8aa977ee51cd8ff 1002764 gsh_1.6.2-0ubuntu6_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sat, 30 Dec 2023 16:17:25 -0800
+Build-Date: Sat, 30 Dec 2023 21:10:53 -0800
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -82,6 +82,7 @@ Installed-Build-Depends:
  gambas3-gb-args (= 3.18.90+git202312271439.da138265a+build30~ubuntu22.04.1),
  gambas3-gb-compress (= 3.18.90+git202312271439.da138265a+build30~ubuntu22.04.1),
  gambas3-gb-dbus (= 3.18.90+git202312271439.da138265a+build30~ubuntu22.04.1),
+ gambas3-gb-eval-highlight (= 3.18.90+git202312271439.da138265a+build30~ubuntu22.04.1),
  gambas3-gb-image (= 3.18.90+git202312271439.da138265a+build30~ubuntu22.04.1),
  gambas3-gb-net (= 3.18.90+git202312271439.da138265a+build30~ubuntu22.04.1),
  gambas3-gb-net-curl (= 3.18.90+git202312271439.da138265a+build30~ubuntu22.04.1),

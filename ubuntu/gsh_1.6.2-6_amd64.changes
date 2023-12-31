@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.6.2-6) unstable; urgency=low
  .
-   * Bug fix for change to library, internal declarations
+   * New release version
 Checksums-Sha1:
- 85ae5e35f472cd84d21c84343f4416a242696b32 1532 gsh_1.6.2-6.dsc
- c13e720c34ef9da8bb34c4d8ccbde8a58a5d62c9 5222 gsh_1.6.2-6.diff.gz
- 0bba84947a6d697594fdc6639afa354054dc77ff 1002400 gsh_1.6.2-6_all.deb
- 2c5115fedabba9271093018a50614dd31e939f17 18615 gsh_1.6.2-6_amd64.buildinfo
+ 678536ac1638ec9a25bc7c7a3963654e6c7d8d56 1608 gsh_1.6.2-6.dsc
+ f97fa1efb47425a8a861625c469d2f2d141b3565 5264 gsh_1.6.2-6.diff.gz
+ d8a096c5e4e8f299223c1850e072f4c89d3fd651 1002744 gsh_1.6.2-6_all.deb
+ ae482a7c46be922779a94f0a14db54ea1ba422aa 18703 gsh_1.6.2-6_amd64.buildinfo
 Checksums-Sha256:
- aab046b808f3e6db3d2024ba8f2c08bcca7bccb22ee203309e610e54395702f1 1532 gsh_1.6.2-6.dsc
- 9cca1317724321758c4e5f2009440c28b788df9a129e225a147dfe0801a912de 5222 gsh_1.6.2-6.diff.gz
- 87bbc205f98f439739a6933acbb7ab2fcd2a352dc1052896235c93d191027376 1002400 gsh_1.6.2-6_all.deb
- f6bbbc84fb79bd1df69e6c91a1e620ddd846675186599291c5fc3f66f7dc469a 18615 gsh_1.6.2-6_amd64.buildinfo
+ d9a22f4a4a9ec7767e113132681c53ea600dbb8e0792699f2000345c26f4ffc7 1608 gsh_1.6.2-6.dsc
+ 7915b42e44982a59db5cdf5cec311356e64fd14b9a4e93107e2d60033d43d673 5264 gsh_1.6.2-6.diff.gz
+ 9bc04c3fc38df08be72bb0ecad818ce8fdd0d0d3c91bc0de283520d01406b32e 1002744 gsh_1.6.2-6_all.deb
+ edb380d06ba6f04ee7f9ead21a7d5c04e5d44f9d71d1fbda2d428f210c78ca41 18703 gsh_1.6.2-6_amd64.buildinfo
 Files:
- 06a5a1facb97394a8f80f33d3cd952e3 1532 contrib/shells optional gsh_1.6.2-6.dsc
- b441760722f4cf9a01cea0151c2d7ebb 5222 contrib/shells optional gsh_1.6.2-6.diff.gz
- 68c2bc7292c9a8186b207fa463baff68 1002400 contrib/shells optional gsh_1.6.2-6_all.deb
- 1b5d3be7af05a96656c68a412f7f8f0d 18615 contrib/shells optional gsh_1.6.2-6_amd64.buildinfo
+ ea8cebe61acdf31cd9c13f42929ca6ff 1608 contrib/shells optional gsh_1.6.2-6.dsc
+ 5df69ce511c9ce2b9f8d688504becf84 5264 contrib/shells optional gsh_1.6.2-6.diff.gz
+ ede9b6187e4073363220513218d03291 1002744 contrib/shells optional gsh_1.6.2-6_all.deb
+ 79e6fd1a36307ea13f277320ae2dd076 18703 contrib/shells optional gsh_1.6.2-6_amd64.buildinfo
