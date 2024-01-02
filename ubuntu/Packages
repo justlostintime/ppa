@@ -2091,6 +2091,23 @@ Description: Gambas interactive shell
  Gambas interactive shell
  This program is written in Gambas.
 
+Package: gsh
+Version: 1.6.2-7
+Architecture: all
+Maintainer: Brian G <justlostintime@gmail.com>
+Installed-Size: 1490
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
+Filename: ./gsh_1.6.2-7_all.deb
+Size: 389362
+MD5sum: e30c12887661e49c4557501df0aebb21
+SHA1: d41a8207f42ecb58a5fef60ecd27fe0de3bb2482
+SHA256: c93862343d98d0167074fd7be40b44ef19fe789c9bdf2a2d96190b816c896611
+Section: contrib/shells
+Priority: optional
+Description: Gambas interactive shell
+ Gambas interactive shell
+ This program is written in Gambas.
+
 Package: scriptbuilder
 Version: 2.0.3-1
 Architecture: all

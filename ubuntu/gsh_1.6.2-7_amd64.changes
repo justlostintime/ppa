@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 01 Jan 2024 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.6.2-7
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell
+Changes:
+ gsh (1.6.2-7) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 7feca9d459737576a53c27162a1e3da0db45beb7 1608 gsh_1.6.2-7.dsc
+ dca191d983b06884b5ee9ce84105229b1d2cac36 5353 gsh_1.6.2-7.diff.gz
+ d41a8207f42ecb58a5fef60ecd27fe0de3bb2482 389362 gsh_1.6.2-7_all.deb
+ 48af205e532e9e7199f9cf0bdb47eb4af4ff16e8 18700 gsh_1.6.2-7_amd64.buildinfo
+Checksums-Sha256:
+ a523ccbd751dfdff91107a0aabd08d9d4f80c80f46c1e675ab1cab25c0414528 1608 gsh_1.6.2-7.dsc
+ 13d9eef4f0b84df55271a4ff5b47688560f21fd313e41d2f9b829519214cbac6 5353 gsh_1.6.2-7.diff.gz
+ c93862343d98d0167074fd7be40b44ef19fe789c9bdf2a2d96190b816c896611 389362 gsh_1.6.2-7_all.deb
+ 040459d218026448a930151474abc2db84d2db71fb85d3019e273f2351c9eb27 18700 gsh_1.6.2-7_amd64.buildinfo
+Files:
+ 57591b77718541329e796625ba7163a5 1608 contrib/shells optional gsh_1.6.2-7.dsc
+ a9e61261b7149cc50b734ddc9e01eb9e 5353 contrib/shells optional gsh_1.6.2-7.diff.gz
+ e30c12887661e49c4557501df0aebb21 389362 contrib/shells optional gsh_1.6.2-7_all.deb
+ 3622d3f10c7208619e8debd00508ac7d 18700 contrib/shells optional gsh_1.6.2-7_amd64.buildinfo
