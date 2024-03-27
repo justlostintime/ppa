@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 26 Mar 2024 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.6.2-0ubuntu8
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.6.2-0ubuntu8) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ cd7e3b0844fd27b04c28e96ff8067720dfa8ef52 1636 gsh_1.6.2-0ubuntu8.dsc
+ b99f77d3045a80d8f87f0fd6981f3e0ac3a560ef 5417 gsh_1.6.2-0ubuntu8.diff.gz
+ 315279afdf1724c3776f990d1b708de5798db4ea 1003014 gsh_1.6.2-0ubuntu8_all.deb
+ 714b4d6bad35508f4600dded780c59a22dc22c73 18737 gsh_1.6.2-0ubuntu8_amd64.buildinfo
+Checksums-Sha256:
+ 8969b066fe7c018454aa11309d638a157828a25070bf17ec61e178981be9dac9 1636 gsh_1.6.2-0ubuntu8.dsc
+ 62f526b9589496e6cb3c5eba6eda71cd97b7ee4eadf11fd41ee3d2aaa2999c26 5417 gsh_1.6.2-0ubuntu8.diff.gz
+ 5406e8e54d99b390a0d7c89b8b0d63be59ba4917b3363a2e57a063c71adcf33c 1003014 gsh_1.6.2-0ubuntu8_all.deb
+ 3db8c03ccb81a4d8dbfe66041e6ca2374e4299af6e97d72f6da084687bfb3977 18737 gsh_1.6.2-0ubuntu8_amd64.buildinfo
+Files:
+ e3d5d7a7b3024016aa5e4cd6abda4cf6 1636 contrib/shells optional gsh_1.6.2-0ubuntu8.dsc
+ 3326443b3991c333a758c4016ea72c3f 5417 contrib/shells optional gsh_1.6.2-0ubuntu8.diff.gz
+ d7182c4c8a4d9dc842b7e69d430761d0 1003014 contrib/shells optional gsh_1.6.2-0ubuntu8_all.deb
+ ecd33476cccab2e3a139ce0f3642b91f 18737 contrib/shells optional gsh_1.6.2-0ubuntu8_amd64.buildinfo
