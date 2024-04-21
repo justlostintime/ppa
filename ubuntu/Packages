@@ -2058,33 +2058,16 @@ Description: Gambas interactive shell
  This program is written in Gambas.
 
 Package: gsh
-Version: 1.6.2-0ubuntu6
-Architecture: all
-Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 2449
-Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
-Filename: ./gsh_1.6.2-0ubuntu6_all.deb
-Size: 1002614
-MD5sum: fa3c4e66673e485cc857b65540093cc3
-SHA1: a20ce1ebd7946c126ef51a54c755516b485b4f72
-SHA256: 7e6de1dd87dbf73f92d58f0ebe583910f43475504a63518fc16909cba8aaca9e
-Section: contrib/shells
-Priority: optional
-Description: Gambas interactive shell
- Gambas interactive shell
- This program is written in Gambas.
-
-Package: gsh
-Version: 1.6.2-10
+Version: 1.6.2-12
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
 Installed-Size: 2463
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
-Filename: ./gsh_1.6.2-10_all.deb
-Size: 1005238
-MD5sum: feccce0bb3cc220854852a46cfc7aea8
-SHA1: ac84700b9976bd720b123f419b0ae6ba45dc35ba
-SHA256: 64bce6208d146f8376c2dc9ea1462a6bb9fb340e84aeb83d21f8df883ba5dac3
+Filename: ./gsh_1.6.2-12_all.deb
+Size: 1005522
+MD5sum: 294ce7e6be4824fb03382800f6fa5573
+SHA1: 5dd978ce2cd04a3dff3083656463ea2a7d5f655e
+SHA256: fff1014ead35eaa95291b7e41add4932e6addbddb44e6fbb3c1493c0eb291302
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
