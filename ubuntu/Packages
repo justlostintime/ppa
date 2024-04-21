@@ -2075,6 +2075,23 @@ Description: Gambas interactive shell
  This program is written in Gambas.
 
 Package: gsh
+Version: 1.6.2-10
+Architecture: all
+Maintainer: Brian G <justlostintime@gmail.com>
+Installed-Size: 2463
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
+Filename: ./gsh_1.6.2-10_all.deb
+Size: 1005238
+MD5sum: feccce0bb3cc220854852a46cfc7aea8
+SHA1: ac84700b9976bd720b123f419b0ae6ba45dc35ba
+SHA256: 64bce6208d146f8376c2dc9ea1462a6bb9fb340e84aeb83d21f8df883ba5dac3
+Section: contrib/shells
+Priority: optional
+Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
+ Gambas interactive shell/scripter Advanced Replacement for sh/bash
+ This program is written in Gambas.
+
+Package: gsh
 Version: 1.6.2-6
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
@@ -2089,23 +2106,6 @@ Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell
  Gambas interactive shell
- This program is written in Gambas.
-
-Package: gsh
-Version: 1.6.2-9
-Architecture: all
-Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 2459
-Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.18), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
-Filename: ./gsh_1.6.2-9_all.deb
-Size: 1003846
-MD5sum: 6b23e71f9781fa537b181bda1b4f0790
-SHA1: c6524cecb8b6949bdd2afa6bb25e42eacf10f9dc
-SHA256: 912d0c747cf09bcb22025512f988acd3fcc77283267e7bb70b69b9b85f182919
-Section: contrib/shells
-Priority: optional
-Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
- Gambas interactive shell/scripter Advanced Replacement for sh/bash
  This program is written in Gambas.
 
 Package: scriptbuilder
