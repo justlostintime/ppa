@@ -2415,6 +2415,67 @@ Description: Script Builder A simple editor to produce as output executable G...
          correctly from the command line.
  This program is written in Gambas.
 
+Package: scriptbuilder
+Version: 2.1.3-1
+Architecture: all
+Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Installed-Size: 175
+Depends: gambas3-runtime (>= 3.12), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.12), gambas3-gb-args (<< 3.99.0), gambas3-gb-form (>= 3.12), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.12), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.12), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-mdi (>= 3.12), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-form-terminal (>= 3.12), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-highlight (>= 3.12), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-image (>= 3.12), gambas3-gb-image (<< 3.99.0), gambas3-gb-markdown (>= 3.12), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-net (>= 3.12), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.12), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-pcre (>= 3.12), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-report2 (>= 3.12), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-settings (>= 3.12), gambas3-gb-settings (<< 3.99.0), gambas3-gb-signal (>= 3.12), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.12), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.12), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.12), gambas3-gb-util-web (<< 3.99.0)
+Filename: ./scriptbuilder_2.1.3-1_all.deb
+Size: 44396
+MD5sum: d0b433e168c1767c42cee603216474f9
+SHA1: ac020e8cd851af8809b61e78aeb634bda19eb0b2
+SHA256: cd69b9a22678f2608b8f0476b9719ba8ba1ebb093a74a04c4dd2e62a0445cd1f
+Section: contrib/devel
+Priority: optional
+Description: Script Builder A simple editor to produce as output executable G...
+ Script Builder
+ A simple editor to produce as output executable Gambas3 scripts - .gbs
+ Requires Gambas >= 3.12 .. Tested with version 12,13,14,15.16,17,18
+ Fix handling of 'use' in a property statement
+ Fix highlighter Issues
+ Fix screen resize issues
+ More Fixes for new gb.highlight class
+ Fixes to work with new gb.highlight
+ Fixes and language updates, works with qt and gtk now
+ Updated to work correctly on Rpi OS 64 bit and raspbian 32 bit
+ FIX Spanish translations
+ Add HINDI translation
+ Git support comming soon
+ Updated Execution templates
+ Bugfix Detection when script is executable as #!/usr/bin/env gbs3
+ Updated to use /usr/bin/env gbs3
+ Japanese Translation
+ Add Itialian Translation ... Sorry if it's not to good!
+ Removed wget and replaced with httpClient.download
+ Insert #! as required
+ Warn When saved file is not executable.
+ Add French Translation
+ Add German Translation
+ FIX  Updated to always keep an editor page open when exiting Playground or
+ Nibble pages
+ NEW change wget call to no longer produce log files in user directory
+ NEW Added double click on Playground and network Nibble examples to open in
+ editor
+          for execution.
+ NEW Add menu New sub menu for Simple and Graphic scripts
+ NEW Tool button now creates new simple script, no longer graphic script.
+ NEW Add tool bar, printing, fixed fonts, f5 for go
+ FIX   Updated to fix issues with transfer to Editor, added Nibble online library
+ FIX   Corrected Wget startup when app not started from terminal or gui
+ FIX   Corrected Documentation content
+ FIX   Updated to correctly Identify Charlie Ogier as Playground Example Authour
+ FIX   Updated so running examples  without first saving to a  file  works
+ correctly
+ NEW Added Gambas playground example access from gambas one
+ FIX   Updated New to put correct time and date in comment, gb.gui used now.
+ FIX   Updated Shell defaulted to csh, now tests if installed , if not resorts
+ to bash
+ FIX   Updated to fix screen issues and include DEBUG
+ FIX   Updated so that names with spaces work correctly and parameters are passed
+         correctly from the command line.
+ This program is written in Gambas.
+
 Package: westwood-gb-scripter
 Version: 3.19.2-1
 Architecture: all
