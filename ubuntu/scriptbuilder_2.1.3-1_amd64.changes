@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Sun, 02 Jun 2024 12:00:00 +0000
+Date: Mon, 03 Jun 2024 12:00:00 +0000
 Source: scriptbuilder
 Binary: scriptbuilder
 Built-For-Profiles: noudeb
@@ -14,19 +14,19 @@ Description:
 Changes:
  scriptbuilder (2.1.3-1) unstable; urgency=low
  .
-   * Bug FIx : use parameter inside a property statement
+   * New release version
 Checksums-Sha1:
- 0fc6b3e6c86f50a53030f0148ce0d11614f2617a 1982 scriptbuilder_2.1.3-1.dsc
- da0b095679685f7a3490b87faf6e754a8150483f 3170 scriptbuilder_2.1.3-1.diff.gz
- ac020e8cd851af8809b61e78aeb634bda19eb0b2 44396 scriptbuilder_2.1.3-1_all.deb
- a0293a9005fbd930c2705f0db0c7ff965f5b2086 22109 scriptbuilder_2.1.3-1_amd64.buildinfo
+ d32719208404614b6368686558c0cbff5eb42fea 1982 scriptbuilder_2.1.3-1.dsc
+ eefe508c24fdfd5fbac5727223ecc0391471818a 3169 scriptbuilder_2.1.3-1.diff.gz
+ 86d6c6fc69d0b7de592b770af1dc4b52c977780b 45822 scriptbuilder_2.1.3-1_all.deb
+ bdb071ed1080034a30db0679f6d0a4c1612baa07 22109 scriptbuilder_2.1.3-1_amd64.buildinfo
 Checksums-Sha256:
- 09ea001cc42431bec15a82a50e8e073ccba1fceb997ccbc626b3db2395096946 1982 scriptbuilder_2.1.3-1.dsc
- caa4027a2d48cfd40bf1f801dfd952b87cbeb877f0fc1ca8691a4eacb2a83b47 3170 scriptbuilder_2.1.3-1.diff.gz
- cd69b9a22678f2608b8f0476b9719ba8ba1ebb093a74a04c4dd2e62a0445cd1f 44396 scriptbuilder_2.1.3-1_all.deb
- 6dc35bbaea0b05f1f82b2d3f89476939f2de2214d861e67d6472c417a4e94f84 22109 scriptbuilder_2.1.3-1_amd64.buildinfo
+ 66961e36dbef9c2a266254a5f98fb9f6d5969759d87e2d40e966bb5626378b08 1982 scriptbuilder_2.1.3-1.dsc
+ 8f318a821c51d1d364e96df26c0458eec62e1ac60f2925ee8aad8d7bb6a00846 3169 scriptbuilder_2.1.3-1.diff.gz
+ 790f3fc2b45070e044cdbe3343aa2cb61b9b97b474dc8db1e91b22fb5a9934f2 45822 scriptbuilder_2.1.3-1_all.deb
+ 00e2aa21c0d3d1f430617b53a19c25d65546f2f6c2cd5597aebbe195401da6ca 22109 scriptbuilder_2.1.3-1_amd64.buildinfo
 Files:
- 3b3e0e1ca8f35582d90734353842f52c 1982 contrib/devel optional scriptbuilder_2.1.3-1.dsc
- 68d5b82b2295bbeb05f8c2631b066f15 3170 contrib/devel optional scriptbuilder_2.1.3-1.diff.gz
- d0b433e168c1767c42cee603216474f9 44396 contrib/devel optional scriptbuilder_2.1.3-1_all.deb
- 50df2c3a44f78ffb816a3b5f5cd56699 22109 contrib/devel optional scriptbuilder_2.1.3-1_amd64.buildinfo
+ 9b1445bbf5f946926228c694b6e163dd 1982 contrib/devel optional scriptbuilder_2.1.3-1.dsc
+ 80473bd15e9e00f7b5389fd7a5d359a7 3169 contrib/devel optional scriptbuilder_2.1.3-1.diff.gz
+ be745fcfb8c648e93a30e7f113d76e9c 45822 contrib/devel optional scriptbuilder_2.1.3-1_all.deb
+ 20703b8558802ff0afa22924856aa70d 22109 contrib/devel optional scriptbuilder_2.1.3-1_amd64.buildinfo

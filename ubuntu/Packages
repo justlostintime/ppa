@@ -2419,19 +2419,23 @@ Package: scriptbuilder
 Version: 2.1.3-1
 Architecture: all
 Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
-Installed-Size: 175
-Depends: gambas3-runtime (>= 3.12), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.12), gambas3-gb-args (<< 3.99.0), gambas3-gb-form (>= 3.12), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.12), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.12), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-mdi (>= 3.12), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-form-terminal (>= 3.12), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-highlight (>= 3.12), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-image (>= 3.12), gambas3-gb-image (<< 3.99.0), gambas3-gb-markdown (>= 3.12), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-net (>= 3.12), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.12), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-pcre (>= 3.12), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-report2 (>= 3.12), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-settings (>= 3.12), gambas3-gb-settings (<< 3.99.0), gambas3-gb-signal (>= 3.12), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.12), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.12), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.12), gambas3-gb-util-web (<< 3.99.0)
+Installed-Size: 180
+Depends: gambas3-runtime (>= 3.12), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.12), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.12), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.12), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.12), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.12), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.12), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.12), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-form-editor (>= 3.12), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-settings (>= 3.12), gambas3-gb-settings (<< 3.99.0), gambas3-gb-form-mdi (>= 3.12), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-term (>= 3.12), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.12), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-net (>= 3.12), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.12), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-markdown (>= 3.12), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-report2 (>= 3.12), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-signal (>= 3.12), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.12), gambas3-gb-util-web (<< 3.99.0)
 Filename: ./scriptbuilder_2.1.3-1_all.deb
-Size: 44396
-MD5sum: d0b433e168c1767c42cee603216474f9
-SHA1: ac020e8cd851af8809b61e78aeb634bda19eb0b2
-SHA256: cd69b9a22678f2608b8f0476b9719ba8ba1ebb093a74a04c4dd2e62a0445cd1f
+Size: 45822
+MD5sum: be745fcfb8c648e93a30e7f113d76e9c
+SHA1: 86d6c6fc69d0b7de592b770af1dc4b52c977780b
+SHA256: 790f3fc2b45070e044cdbe3343aa2cb61b9b97b474dc8db1e91b22fb5a9934f2
 Section: contrib/devel
 Priority: optional
 Description: Script Builder A simple editor to produce as output executable G...
  Script Builder
  A simple editor to produce as output executable Gambas3 scripts - .gbs
  Requires Gambas >= 3.12 .. Tested with version 12,13,14,15.16,17,18
+ Update Translation french, greman,italian,jpanese,hindi,spanish...I tried
+ anyway!
+ Add Find, find next, find previous
+ Fix Debug summary report
  Fix handling of 'use' in a property statement
  Fix highlighter Issues
  Fix screen resize issues

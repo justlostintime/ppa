@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Sun, 02 Jun 2024 12:00:00 +0000
+Date: Mon, 03 Jun 2024 12:00:00 +0000
 Source: scriptbuilder
 Binary: scriptbuilder
 Built-For-Profiles: noudeb
@@ -14,19 +14,19 @@ Description:
 Changes:
  scriptbuilder (2.1.3-0ubuntu1) unstable; urgency=low
  .
-   * Bug FIx : use parameter inside a property statement
+   * New release version
 Checksums-Sha1:
- 777d90608a9bff051002e4fe8a69e99b3d762a4f 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
- 9f1fb7fd74274597ea714b744114e358fc5e0245 3167 scriptbuilder_2.1.3-0ubuntu1.diff.gz
- ba4e7b881aa8caba261612f416aa9073b44efa82 44404 scriptbuilder_2.1.3-0ubuntu1_all.deb
- 7f09f0e3208506741cde2feadd667e8080dc109d 22158 scriptbuilder_2.1.3-0ubuntu1_amd64.buildinfo
+ 267f59538f7606e44e2a3a0ca06fd033a331143e 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
+ 5202805e3661c13a2cd283159f69c5709ab6e5f6 3159 scriptbuilder_2.1.3-0ubuntu1.diff.gz
+ fd882e8ac942a60edd5b567ef4aceeb6d749a7e5 45836 scriptbuilder_2.1.3-0ubuntu1_all.deb
+ 1212c9bad09d3ce0ac55e8c79dd0923907a76611 22158 scriptbuilder_2.1.3-0ubuntu1_amd64.buildinfo
 Checksums-Sha256:
- 4c6dbaea02f0a42ae61e864647d958a05da5c6edc17ee5f39da02c3b50dbc985 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
- 3232af0df5b115616d3c3f5846d343021704f2dfcb0109377dc7011b28913d26 3167 scriptbuilder_2.1.3-0ubuntu1.diff.gz
- 736930255f9a05cf2d5b6b41aed9aa73abbf710558c596a1d720c3d87eb681b1 44404 scriptbuilder_2.1.3-0ubuntu1_all.deb
- 5c6d8978fefc29e236a9283ff30480c59f177f7d63a34730b336ca9538cb2d62 22158 scriptbuilder_2.1.3-0ubuntu1_amd64.buildinfo
+ c729ebb8d1da61037c101d6db15d37fd63cebfef8d39422416f9d5048f259f9c 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
+ 1f70621f75ec4cba2b970b349844713a929817f8469b0fd70a0afd54a9fb6821 3159 scriptbuilder_2.1.3-0ubuntu1.diff.gz
+ 7e19c3ef292f5e6a598ad18c368f4476195c75e83f193c2e9c02301f7b3ebe32 45836 scriptbuilder_2.1.3-0ubuntu1_all.deb
+ 5e76fd2f9ed8ca06e42b4fc21b725ce8a003ddb0f4f1ba15c4499b3eb7bc2a1f 22158 scriptbuilder_2.1.3-0ubuntu1_amd64.buildinfo
 Files:
- 9b91d717ae41ce5361de643244f4876b 2010 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1.dsc
- 561a0ad5780a13f1d2c16552c507f853 3167 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1.diff.gz
- ead80fd4af7be566570d82d718497003 44404 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1_all.deb
- 7365e92cb6031cf0f6e33d26173db84b 22158 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1_amd64.buildinfo
+ 08a4ef0ec9c268c1aca21b3afce678be 2010 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1.dsc
+ 91d07a1d5c5242931d3ad0852719fda3 3159 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1.diff.gz
+ bb3582dafc39d998c589d53a11707b51 45836 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1_all.deb
+ bd7b91b110f93ecedb049959fe62b868 22158 contrib/devel optional scriptbuilder_2.1.3-0ubuntu1_amd64.buildinfo

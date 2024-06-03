@@ -4,17 +4,17 @@ Binary: scriptbuilder
 Architecture: all source
 Version: 2.1.3-0ubuntu1
 Checksums-Md5:
- 9b91d717ae41ce5361de643244f4876b 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
- ead80fd4af7be566570d82d718497003 44404 scriptbuilder_2.1.3-0ubuntu1_all.deb
+ 08a4ef0ec9c268c1aca21b3afce678be 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
+ bb3582dafc39d998c589d53a11707b51 45836 scriptbuilder_2.1.3-0ubuntu1_all.deb
 Checksums-Sha1:
- 777d90608a9bff051002e4fe8a69e99b3d762a4f 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
- ba4e7b881aa8caba261612f416aa9073b44efa82 44404 scriptbuilder_2.1.3-0ubuntu1_all.deb
+ 267f59538f7606e44e2a3a0ca06fd033a331143e 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
+ fd882e8ac942a60edd5b567ef4aceeb6d749a7e5 45836 scriptbuilder_2.1.3-0ubuntu1_all.deb
 Checksums-Sha256:
- 4c6dbaea02f0a42ae61e864647d958a05da5c6edc17ee5f39da02c3b50dbc985 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
- 736930255f9a05cf2d5b6b41aed9aa73abbf710558c596a1d720c3d87eb681b1 44404 scriptbuilder_2.1.3-0ubuntu1_all.deb
+ c729ebb8d1da61037c101d6db15d37fd63cebfef8d39422416f9d5048f259f9c 2010 scriptbuilder_2.1.3-0ubuntu1.dsc
+ 7e19c3ef292f5e6a598ad18c368f4476195c75e83f193c2e9c02301f7b3ebe32 45836 scriptbuilder_2.1.3-0ubuntu1_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 02 Jun 2024 08:11:05 -0700
+Build-Date: Mon, 03 Jun 2024 10:39:40 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -79,34 +79,34 @@ Installed-Build-Depends:
  fonts-urw-base35 (= 20200910-1),
  g++ (= 4:11.2.0-1ubuntu1),
  g++-11 (= 11.4.0-1ubuntu1~22.04),
- gambas3-dev-tools (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-args (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-form (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-form-dialog (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-form-editor (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-form-mdi (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-form-terminal (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-gtk (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-gtk3 (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-gtk3-wayland (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-gtk3-x11 (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-highlight (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-image (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-markdown (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-net (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-net-curl (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-pcre (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-qt5 (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-qt5-wayland (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-qt5-x11 (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-report2 (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-settings (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-signal (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-term (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-util (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gb-util-web (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-gui (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
- gambas3-runtime (= 3.19.90+git202405311036.8ecb17f8d+build33~ubuntu22.04.1),
+ gambas3-dev-tools (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-args (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-form (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-form-dialog (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-form-editor (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-form-mdi (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-form-terminal (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-gtk (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-gtk3 (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-gtk3-wayland (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-gtk3-x11 (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-highlight (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-image (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-markdown (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-net (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-net-curl (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-pcre (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-qt5 (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-qt5-wayland (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-qt5-x11 (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-report2 (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-settings (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-signal (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-term (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-util (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gb-util-web (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-gui (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
+ gambas3-runtime (= 3.19.90+git202406011219.e77fa0f0c+build33~ubuntu22.04.1),
  gawk (= 1:5.1.0-1ubuntu0.1),
  gcc (= 4:11.2.0-1ubuntu1),
  gcc-10 (= 10.5.0-1ubuntu1~22.04),
@@ -594,4 +594,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1717329600"
+ SOURCE_DATE_EPOCH="1717416000"
