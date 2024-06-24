@@ -9,11 +9,11 @@ Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.18), gambas3-dev (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- 793fb56786290861253e04ce40fda547281aaeae 1498341 gsh_1.6.2.orig.tar.gz
- 9c8199081e576e17f2b8f40bdb6e4fc3ca5a3dfa 5441 gsh_1.6.2-0ubuntu13.diff.gz
+ 644332e321e7c48b24a9fed916ae83ddd288bf53 1498476 gsh_1.6.2.orig.tar.gz
+ e4a218d9103c11b4fed0df87e320e57a6009a68d 5421 gsh_1.6.2-0ubuntu13.diff.gz
 Checksums-Sha256:
- c575d9f846d0b62af9a54b20b8ec549832d3e26a50cd69b91d99be4e54c7c309 1498341 gsh_1.6.2.orig.tar.gz
- 3a4f641886b6e540312b33e83cfe95f0745c6a4e75137c6d5e3d95b186c2a811 5441 gsh_1.6.2-0ubuntu13.diff.gz
+ 75f161938fdcb56cef344e40d03a8787fea178b6f6a1195bc5c4160f77785681 1498476 gsh_1.6.2.orig.tar.gz
+ 1417226bbd893a02ccad7052b23501e4e63d5757c75cdcd9199e18d0b620f333 5421 gsh_1.6.2-0ubuntu13.diff.gz
 Files:
- 885d43a411b9fc3998e6a2f652ef6343 1498341 gsh_1.6.2.orig.tar.gz
- dfcd5bc1dceb232efc8d01ab8b1ef13d 5441 gsh_1.6.2-0ubuntu13.diff.gz
+ e3a0797a36e41c5f9530c70458ab84cc 1498476 gsh_1.6.2.orig.tar.gz
+ af8e048f7cd3b1bdd94a3808f419577e 5421 gsh_1.6.2-0ubuntu13.diff.gz
