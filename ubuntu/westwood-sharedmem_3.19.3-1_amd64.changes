@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Wed, 26 Jun 2024 12:00:00 +0000
+Source: westwood-sharedmem
+Binary: westwood-sharedmem
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 3.19.3-1
+Distribution: unstable
+Urgency: low
+Maintainer: brian <brian@westwoodsvcs.com>
+Changed-By: brian <brian@westwoodsvcs.com>
+Description:
+ westwood-sharedmem - SharedMem is a library to enable shared memory between tasks and.
+Changes:
+ westwood-sharedmem (3.19.3-1) unstable; urgency=low
+ .
+   * Updated testsuite and removed shmmem which is version 2 of this library
+   * Was moived to a seperate repository
+Checksums-Sha1:
+ c03e5ea0653aac3fa37f0a2253f89fffbcabdbdf 1153 westwood-sharedmem_3.19.3-1.dsc
+ b4dfb85c21772bc5a40fe50fd667fd3460458e77 2971 westwood-sharedmem_3.19.3-1.diff.gz
+ 3cd124826b512bed4d89b907ce884715dca505ad 113148 westwood-sharedmem_3.19.3-1_all.deb
+ 4696c1a653bb58ac78100a00e6a1c4b3a79206ad 18086 westwood-sharedmem_3.19.3-1_amd64.buildinfo
+Checksums-Sha256:
+ e1a03ff0ec4f24988440f83f07da7f9fb8309f9811d6b76851901357b8059ab4 1153 westwood-sharedmem_3.19.3-1.dsc
+ c4d3f2e5dea6b3bafee7d6497a7b8ba7c8a67969c74303f710a9a9d91e7726cd 2971 westwood-sharedmem_3.19.3-1.diff.gz
+ 45aaa90857ea72389ee462742b9b2027aa3f10b469761cd0fe2cb0f7b8bfc076 113148 westwood-sharedmem_3.19.3-1_all.deb
+ 2fa4cce02e06927cc032825eeab785ba5ac63554aef9471edca2297c191a1e66 18086 westwood-sharedmem_3.19.3-1_amd64.buildinfo
+Files:
+ 50b55ef40915c2ebdc4a1503c051abc3 1153 contrib/libs optional westwood-sharedmem_3.19.3-1.dsc
+ a29134a39c8d4fddfdfcb8d582707ef1 2971 contrib/libs optional westwood-sharedmem_3.19.3-1.diff.gz
+ 66b8153fb0bf6c9b700d276a0199168c 113148 contrib/libs optional westwood-sharedmem_3.19.3-1_all.deb
+ 3084d45992d6c7ed9c253dff4e624749 18086 contrib/libs optional westwood-sharedmem_3.19.3-1_amd64.buildinfo

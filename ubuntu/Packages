@@ -603,6 +603,32 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  Version              ShmMem      release 3.18.3          Beta quality
  This is a Gambas library.
 
+Package: westwood-sharedmem
+Version: 3.19.3-1
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 406
+Depends: gambas3-runtime (>= 3.17), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.17), gambas3-gb-image (<< 3.99.0), gambas3-gb-eval-highlight (>= 3.17), gambas3-gb-eval-highlight (<< 3.99.0), gambas3-gb-pcre (>= 3.17), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.17), gambas3-gb-signal (<< 3.99.0)
+Filename: ./westwood-sharedmem_3.19.3-1_all.deb
+Size: 113148
+MD5sum: 66b8153fb0bf6c9b700d276a0199168c
+SHA1: 3cd124826b512bed4d89b907ce884715dca505ad
+SHA256: 45aaa90857ea72389ee462742b9b2027aa3f10b469761cd0fe2cb0f7b8bfc076
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Version 3.19.3 Drops ShmMem as it has moved to a seperate repository
+ justlostintime/shmmem.
+ Version 3.19.1, added rename and speed refinements
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ Project contains both versions
+ Version              SharedMem release 3.18.3          production quality
+ Version              ShmMem      release 3.18.3          Beta quality
+ This is a Gambas library.
+
 Package: westwood-shmmem
 Version: 2.1.10-1
 Architecture: all
