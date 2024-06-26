@@ -603,3 +603,36 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  Version              ShmMem      release 3.18.3          Beta quality
  This is a Gambas library.
 
+Package: westwood-shmmem
+Version: 2.1.10-1
+Architecture: all
+Maintainer: brian <justlostintime@gmail.com>
+Installed-Size: 274
+Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0)
+Filename: ./westwood-shmmem_2.1.10-1_all.deb
+Size: 82424
+MD5sum: 76376894b77a01da60e5f9d2f2b01a0f
+SHA1: 66c8fa9fec9120b8adade92c6ad2a4e05c7d9a22
+SHA256: 97f8b1430d0dbe37da99e8e812c892e5ad8cd6636d3b7857600a242ad2232ac1
+Section: contrib/libs
+Priority: optional
+Description: This provides an interface to the Linux Shared memory functions.
+ This provides an interface to the Linux Shared memory functions. Allowing the
+ creation and sharing of shared memory segments across any number of local
+ applications or tasks. Added A gambas script to graphically monitor the Shared
+ Memory.
+ Updated to by default use locks for all lists/queues. Lock are localized to the
+ specific list or queue being changed.
+ To do this it implements  an interface which allows any valid gambas object or
+ variable to be directly stored or accessed via the interface
+ example::
+ Public Sub Main()
+ MyShm = new ShmMem
+ With MyShm
+  !a = "this"
+  !b = 1
+ print !a, !b
+ end with
+ end
+ This is a Gambas library.
+
