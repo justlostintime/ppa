@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 26 Jun 2024 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.6.2-14
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.6.2-14) unstable; urgency=low
+ .
+   * Updated version of sharedmem to latest version
+Checksums-Sha1:
+ ea72b0346942b10231bf978031282e706dfd4f55 1602 gsh_1.6.2-14.dsc
+ f655a48ca70d7e132cbaebb05818baa362f9dc7a 5359 gsh_1.6.2-14.diff.gz
+ 52e824a1f600840afa3d56da3dab0d76af27d584 964654 gsh_1.6.2-14_all.deb
+ 52c4c563880335ed4dff9f5835afa20ec61f4e34 18835 gsh_1.6.2-14_amd64.buildinfo
+Checksums-Sha256:
+ 34d67caf9e5f92013f925a56f68af5129967a1804b84e51482837fc25b615af6 1602 gsh_1.6.2-14.dsc
+ 1f22a4ed004ddafc110b82418dd0f80d9ad7bf632ff21657ef9befd731224612 5359 gsh_1.6.2-14.diff.gz
+ a07802c14ada3f3ee2bf089b8e29babef79a4b76473929c9ac4017beaf492ad5 964654 gsh_1.6.2-14_all.deb
+ bf2d0e797078d65b6d7471bc707e02ccd147827603f29a71595e65aa91855bed 18835 gsh_1.6.2-14_amd64.buildinfo
+Files:
+ 5f5bea2aa089431bacf72870273cf44f 1602 contrib/shells optional gsh_1.6.2-14.dsc
+ ae4141163842f47d8e13e4fe42b4c28f 5359 contrib/shells optional gsh_1.6.2-14.diff.gz
+ e73538547e936d93063a9a5bb1166051 964654 contrib/shells optional gsh_1.6.2-14_all.deb
+ 1916cbec9f83a4db00afdc72162ca4b8 18835 contrib/shells optional gsh_1.6.2-14_amd64.buildinfo
