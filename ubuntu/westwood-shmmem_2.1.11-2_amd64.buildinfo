@@ -2,19 +2,19 @@ Format: 1.0
 Source: westwood-shmmem
 Binary: westwood-shmmem
 Architecture: all source
-Version: 2.1.10-2
+Version: 2.1.11-2
 Checksums-Md5:
- 8c9151d0eefef03a305dc2dde252467d 878 westwood-shmmem_2.1.10-2.dsc
- 7d14efdc044d2d0f52e161d90941e438 90604 westwood-shmmem_2.1.10-2_all.deb
+ 004eb9357d8bd9d1f4206eef2b73658d 878 westwood-shmmem_2.1.11-2.dsc
+ 87535a21b52fc710e5a5df0b21979eba 90948 westwood-shmmem_2.1.11-2_all.deb
 Checksums-Sha1:
- bc029dc1cfea7f181e06e3ea6477fdf8a71ebf93 878 westwood-shmmem_2.1.10-2.dsc
- 9cb16a9f2f6648fb1776c5eb9bd1bab10728592c 90604 westwood-shmmem_2.1.10-2_all.deb
+ 284f5d43e99d328eaf1934a73f1e94f8d5b5c643 878 westwood-shmmem_2.1.11-2.dsc
+ de21c56e0b2654ca283a8b61b7b4f5a424bc39a5 90948 westwood-shmmem_2.1.11-2_all.deb
 Checksums-Sha256:
- 162bedf61a8b82fbab62608ee801fe4da830e9d9f9368fffa737b71cce4e094b 878 westwood-shmmem_2.1.10-2.dsc
- e7c9d1a4d5e47703c8c9e0522ad980596aedb3fe8b15ceedecc918850327b5bb 90604 westwood-shmmem_2.1.10-2_all.deb
+ 4e3eb5bed16e90519c33b17706056c8c7dd4881f75a84d0c043e102c7b86ba8f 878 westwood-shmmem_2.1.11-2.dsc
+ e852a007a401ca5d1fc0952f09b25d03daa7e05f7f45b1669c52226b232e5a5e 90948 westwood-shmmem_2.1.11-2_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 27 Jun 2024 18:39:11 -0700
+Build-Date: Fri, 28 Jun 2024 07:05:43 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -504,4 +504,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1719489600"
+ SOURCE_DATE_EPOCH="1719576000"
