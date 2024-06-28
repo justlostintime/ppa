@@ -2,19 +2,19 @@ Format: 1.0
 Source: westwood-shmmem
 Binary: westwood-shmmem
 Architecture: all source
-Version: 2.1.10-0ubuntu1
+Version: 2.1.10-2
 Checksums-Md5:
- f2229b254bb90251ad1b0a7b5b2f7cfb 906 westwood-shmmem_2.1.10-0ubuntu1.dsc
- b317896345a669f6558b9f6de17762f7 82438 westwood-shmmem_2.1.10-0ubuntu1_all.deb
+ 8c9151d0eefef03a305dc2dde252467d 878 westwood-shmmem_2.1.10-2.dsc
+ 7d14efdc044d2d0f52e161d90941e438 90604 westwood-shmmem_2.1.10-2_all.deb
 Checksums-Sha1:
- 41e481c6ecb9b2af374c3ad6f6272160099d40e7 906 westwood-shmmem_2.1.10-0ubuntu1.dsc
- 69585343d67a3f55854f237b983bdcea90c49d4b 82438 westwood-shmmem_2.1.10-0ubuntu1_all.deb
+ bc029dc1cfea7f181e06e3ea6477fdf8a71ebf93 878 westwood-shmmem_2.1.10-2.dsc
+ 9cb16a9f2f6648fb1776c5eb9bd1bab10728592c 90604 westwood-shmmem_2.1.10-2_all.deb
 Checksums-Sha256:
- e2084e8f911219a9cf982ea45dc1325b3493a8d9d19f8522e33679c6a7785d2d 906 westwood-shmmem_2.1.10-0ubuntu1.dsc
- 9c07de22f552cb124db01e59201bedfaeaa636b86fe080bde34e87ad2c89d89c 82438 westwood-shmmem_2.1.10-0ubuntu1_all.deb
+ 162bedf61a8b82fbab62608ee801fe4da830e9d9f9368fffa737b71cce4e094b 878 westwood-shmmem_2.1.10-2.dsc
+ e7c9d1a4d5e47703c8c9e0522ad980596aedb3fe8b15ceedecc918850327b5bb 90604 westwood-shmmem_2.1.10-2_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 26 Jun 2024 13:06:04 -0700
+Build-Date: Thu, 27 Jun 2024 18:39:11 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -340,7 +340,7 @@ Installed-Build-Depends:
  libsoup2.4-common (= 2.74.2-3),
  libsqlite3-0 (= 3.37.2-2ubuntu0.3),
  libssh-4 (= 0.9.6-2ubuntu0.22.04.3),
- libssl3 (= 3.0.2-0ubuntu1.15),
+ libssl3 (= 3.0.2-0ubuntu1.16),
  libstdc++-11-dev (= 11.4.0-1ubuntu1~22.04),
  libstdc++-9-dev (= 9.5.0-1ubuntu1~22.04),
  libstdc++6 (= 12.3.0-1ubuntu1~22.04),
@@ -404,7 +404,7 @@ Installed-Build-Depends:
  libxxhash0 (= 0.8.1-1),
  libyaml-0-2 (= 0.2.2-1build2),
  libzstd1 (= 1.4.8+dfsg-3build1),
- linux-libc-dev (= 5.15.0-112.122),
+ linux-libc-dev (= 5.15.0-113.123),
  llvm-13-linker-tools (= 1:13.0.1-2ubuntu2.2),
  llvm-14-linker-tools (= 1:14.0.0-1ubuntu1.1),
  login (= 1:4.8.1-2ubuntu2.2),
@@ -426,7 +426,7 @@ Installed-Build-Depends:
  ncurses-base (= 6.3-2ubuntu0.1),
  ncurses-bin (= 6.3-2ubuntu0.1),
  netcat-openbsd (= 1.218-4ubuntu1),
- openssl (= 3.0.2-0ubuntu1.15),
+ openssl (= 3.0.2-0ubuntu1.16),
  passwd (= 1:4.8.1-2ubuntu2.2),
  patch (= 2.7.6-7build2),
  pci.ids (= 0.0~2022.01.22-1),
@@ -504,4 +504,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1719403200"
+ SOURCE_DATE_EPOCH="1719489600"

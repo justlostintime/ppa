@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 27 Jun 2024 12:00:00 +0000
+Source: westwood-shmmem
+Binary: westwood-shmmem
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 2.1.10-0ubuntu2
+Distribution: unstable
+Urgency: low
+Maintainer: brian <justlostintime@gmail.com>
+Changed-By: brian <justlostintime@gmail.com>
+Description:
+ westwood-shmmem - This provides an interface to the Linux Shared memory functions.
+Changes:
+ westwood-shmmem (2.1.10-0ubuntu2) unstable; urgency=low
+ .
+   * Added support for Arrays of static size, values are variable, max of 10
+     dimensions
+   * Added ability to access Queue, Lists and Arrays by tag name
+Checksums-Sha1:
+ 710ae6b524a05b508865c84faed9111b512cce12 906 westwood-shmmem_2.1.10-0ubuntu2.dsc
+ b6be0a1bb0330d7b8b840c391bb745218053b0a7 1390 westwood-shmmem_2.1.10-0ubuntu2.diff.gz
+ 4a64024427410e0401ecfc0bf5432d4e4926469c 90616 westwood-shmmem_2.1.10-0ubuntu2_all.deb
+ cedbd044d3f3194a6a7ebf8f9c4eff47b04bc211 17702 westwood-shmmem_2.1.10-0ubuntu2_amd64.buildinfo
+Checksums-Sha256:
+ 35bffdd823fe06777f33cafb7045ef7fe58f9ca462db37903335905675996345 906 westwood-shmmem_2.1.10-0ubuntu2.dsc
+ 7fca38a67f66b5be807c825bb3df782a1a800396249d252c916b689dbbc16197 1390 westwood-shmmem_2.1.10-0ubuntu2.diff.gz
+ d8ce043f148d18f6f55d85a6459ff8a1de1f361ed3334dcf98742a369f08b3c3 90616 westwood-shmmem_2.1.10-0ubuntu2_all.deb
+ 3d9ba9bd99d4ba959ff60c97763ada3cd5326aab2eeef098976e470f29858fe2 17702 westwood-shmmem_2.1.10-0ubuntu2_amd64.buildinfo
+Files:
+ a191706b6dbc0e3f200c6e9e072f6a52 906 contrib/libs optional westwood-shmmem_2.1.10-0ubuntu2.dsc
+ 42ba5330c216c289606aa30779ab480a 1390 contrib/libs optional westwood-shmmem_2.1.10-0ubuntu2.diff.gz
+ 91eac31687131f18271a74e442273dfb 90616 contrib/libs optional westwood-shmmem_2.1.10-0ubuntu2_all.deb
+ 5d02d8fd317c8afcf45aa9baf505c34b 17702 contrib/libs optional westwood-shmmem_2.1.10-0ubuntu2_amd64.buildinfo

@@ -647,16 +647,16 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  This is a Gambas library.
 
 Package: westwood-shmmem
-Version: 2.1.10-1
+Version: 2.1.10-2
 Architecture: all
 Maintainer: brian <justlostintime@gmail.com>
-Installed-Size: 274
+Installed-Size: 302
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0)
-Filename: ./westwood-shmmem_2.1.10-1_all.deb
-Size: 82424
-MD5sum: 76376894b77a01da60e5f9d2f2b01a0f
-SHA1: 66c8fa9fec9120b8adade92c6ad2a4e05c7d9a22
-SHA256: 97f8b1430d0dbe37da99e8e812c892e5ad8cd6636d3b7857600a242ad2232ac1
+Filename: ./westwood-shmmem_2.1.10-2_all.deb
+Size: 90604
+MD5sum: 7d14efdc044d2d0f52e161d90941e438
+SHA1: 9cb16a9f2f6648fb1776c5eb9bd1bab10728592c
+SHA256: e7c9d1a4d5e47703c8c9e0522ad980596aedb3fe8b15ceedecc918850327b5bb
 Section: contrib/libs
 Priority: optional
 Description: This provides an interface to the Linux Shared memory functions.
@@ -664,6 +664,8 @@ Description: This provides an interface to the Linux Shared memory functions.
  creation and sharing of shared memory segments across any number of local
  applications or tasks. Added A gambas script to graphically monitor the Shared
  Memory.
+ Updated to add static arrays of variant values max 10 dimensions.
+ Updated such that array,list ans queues can be access by tag name.
  Updated to by default use locks for all lists/queues. Lock are localized to the
  specific list or queue being changed.
  To do this it implements  an interface which allows any valid gambas object or
