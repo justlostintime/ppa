@@ -2,19 +2,19 @@ Format: 1.0
 Source: westwood-shmmem
 Binary: westwood-shmmem
 Architecture: all source
-Version: 2.1.11-0ubuntu2
+Version: 2.1.16-0ubuntu7
 Checksums-Md5:
- 9fd8217eb2233016b35ac404ae92d88e 906 westwood-shmmem_2.1.11-0ubuntu2.dsc
- 725c7251e074781e57458aaa32f99925 90962 westwood-shmmem_2.1.11-0ubuntu2_all.deb
+ 7ff0f6829af0da62de04d59c3d3145c4 906 westwood-shmmem_2.1.16-0ubuntu7.dsc
+ 18bf5a2104f62b9176466ddf7b60abbc 109776 westwood-shmmem_2.1.16-0ubuntu7_all.deb
 Checksums-Sha1:
- 4df249ed37403dc424d6cf3be35a0766182a4b43 906 westwood-shmmem_2.1.11-0ubuntu2.dsc
- c5aaa5b770150b015d6e7b29ee9dda3601e4b5e0 90962 westwood-shmmem_2.1.11-0ubuntu2_all.deb
+ 87b8c6f91273c107a60fb4107dc1c33c6d960977 906 westwood-shmmem_2.1.16-0ubuntu7.dsc
+ 8883b4817314c38cd81eeb3373e72a81648c29d3 109776 westwood-shmmem_2.1.16-0ubuntu7_all.deb
 Checksums-Sha256:
- e4f0f1472fe1cef5db5eb4902c0041e992605926f22a3e164ef79d6e965aef39 906 westwood-shmmem_2.1.11-0ubuntu2.dsc
- 32f6e3fd36235e9d5cad11b10c1e747335678a59e3cb2eb9f80c44edaa723070 90962 westwood-shmmem_2.1.11-0ubuntu2_all.deb
+ 7c69267c1f9398cc5344d66e0774570cd3f0b2776e43155d9cbfdf0791e74324 906 westwood-shmmem_2.1.16-0ubuntu7.dsc
+ b307232d267b959d251f28a9b8cecdb3d0b50d2cdd551b344a10a1ae35b88caa 109776 westwood-shmmem_2.1.16-0ubuntu7_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 28 Jun 2024 07:05:48 -0700
+Build-Date: Fri, 12 Jul 2024 14:26:21 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -176,7 +176,7 @@ Installed-Build-Depends:
  libcryptsetup12 (= 2:2.4.3-1ubuntu1.2),
  libctf-nobfd0 (= 2.38-4ubuntu2.6),
  libctf0 (= 2.38-4ubuntu2.6),
- libcups2 (= 2.4.1op1-1ubuntu4.9),
+ libcups2 (= 2.4.1op1-1ubuntu4.10),
  libcurl3-gnutls (= 7.81.0-1ubuntu1.16),
  libdatrie1 (= 0.2.13-2),
  libdb5.3 (= 5.3.28+dfsg1-0.8ubuntu3),
@@ -319,8 +319,8 @@ Installed-Build-Depends:
  libpsl5 (= 0.21.0-1.2build2),
  libpthread-stubs0-dev (= 0.4-1build2),
  libpython3-stdlib (= 3.10.6-1~22.04),
- libpython3.10-minimal (= 3.10.12-1~22.04.3),
- libpython3.10-stdlib (= 3.10.12-1~22.04.3),
+ libpython3.10-minimal (= 3.10.12-1~22.04.4),
+ libpython3.10-stdlib (= 3.10.12-1~22.04.4),
  libquadmath0 (= 12.3.0-1ubuntu1~22.04),
  libreadline8 (= 8.1.2-1),
  librtmp1 (= 2.4+20151223.gitfa8646d.1-2build4),
@@ -461,8 +461,8 @@ Installed-Build-Depends:
  python3-requests (= 2.25.1+dfsg-2ubuntu0.1),
  python3-six (= 1.16.0-3ubuntu1),
  python3-urllib3 (= 1.26.5-1~exp1ubuntu0.1),
- python3.10 (= 3.10.12-1~22.04.3),
- python3.10-minimal (= 3.10.12-1~22.04.3),
+ python3.10 (= 3.10.12-1~22.04.4),
+ python3.10-minimal (= 3.10.12-1~22.04.4),
  readline-common (= 8.1.2-1),
  rpcsvc-proto (= 1.4.2-0ubuntu6),
  sed (= 4.8-1ubuntu2),
@@ -493,9 +493,9 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  DEB_BUILD_PROFILES="noudeb"
- LANG="en_US.UTF-8"
+ LANG="C.UTF-8"
  LC_ADDRESS="en_US.UTF-8"
- LC_ALL="en_US.UTF-8"
+ LC_ALL="C.UTF-8"
  LC_IDENTIFICATION="en_US.UTF-8"
  LC_MEASUREMENT="en_US.UTF-8"
  LC_MONETARY="en_US.UTF-8"
@@ -504,4 +504,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1719576000"
+ SOURCE_DATE_EPOCH="1720785600"

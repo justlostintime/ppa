@@ -647,16 +647,16 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  This is a Gambas library.
 
 Package: westwood-shmmem
-Version: 2.1.11-2
+Version: 2.1.16-7
 Architecture: all
 Maintainer: brian <justlostintime@gmail.com>
-Installed-Size: 303
+Installed-Size: 371
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0)
-Filename: ./westwood-shmmem_2.1.11-2_all.deb
-Size: 90948
-MD5sum: 87535a21b52fc710e5a5df0b21979eba
-SHA1: de21c56e0b2654ca283a8b61b7b4f5a424bc39a5
-SHA256: e852a007a401ca5d1fc0952f09b25d03daa7e05f7f45b1669c52226b232e5a5e
+Filename: ./westwood-shmmem_2.1.16-7_all.deb
+Size: 109768
+MD5sum: 1e75f0f74af47877d6a632b9f48d6d19
+SHA1: 60e4771b011496fb74cc36edabc4deb049839b0a
+SHA256: e6affdee30f5e146bdcf01c042f5b41e1e8b931903497ffa9a672debdbeb7152
 Section: contrib/libs
 Priority: optional
 Description: This provides an interface to the Linux Shared memory functions.
@@ -664,6 +664,15 @@ Description: This provides an interface to the Linux Shared memory functions.
  creation and sharing of shared memory segments across any number of local
  applications or tasks. Added A gambas script to graphically monitor the Shared
  Memory.
+ Oops, changed back to a library, had to debug as a component
+ Added _read _write serialization for shm datatypes
+ Bug fix for each with symbols..
+ More bug fixes, updateded web address to go to wiki, online information for
+ shmmem
+ Added class ShmValue to create a single value in shared memory
+ Updated Automatically convert Gambas Native arrays to ShmArrays in shared
+ memory. Performace...
+ Extended Array, with toCvs FromCvs, import, export, redim, and copy
  Updated Buf fixes, lists and Arrays
  Updated to add static arrays of variant values max 10 dimensions.
  Updated such that array,list ans queues can be access by tag name.

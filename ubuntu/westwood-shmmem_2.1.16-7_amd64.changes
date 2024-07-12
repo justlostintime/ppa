@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 12 Jul 2024 12:00:00 +0000
+Source: westwood-shmmem
+Binary: westwood-shmmem
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 2.1.16-7
+Distribution: unstable
+Urgency: low
+Maintainer: brian <justlostintime@gmail.com>
+Changed-By: brian <justlostintime@gmail.com>
+Description:
+ westwood-shmmem - This provides an interface to the Linux Shared memory functions.
+Changes:
+ westwood-shmmem (2.1.16-7) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ a47570b441b861d187ccbe50e78859973e579459 878 westwood-shmmem_2.1.16-7.dsc
+ dbe7f163298d5c84008e9bb389283cf7d4e17246 2032 westwood-shmmem_2.1.16-7.diff.gz
+ 60e4771b011496fb74cc36edabc4deb049839b0a 109768 westwood-shmmem_2.1.16-7_all.deb
+ ae80049f47b0d2f6c4f46d365e7a6e1d39db3e5c 17649 westwood-shmmem_2.1.16-7_amd64.buildinfo
+Checksums-Sha256:
+ 7c50db376d486ba7a40624493ba737930259447f77cf48d597bd67e14bdd19c3 878 westwood-shmmem_2.1.16-7.dsc
+ 20c8039c49154404cccd83773eebc768f011c9d1bf6563e01b845639638339a6 2032 westwood-shmmem_2.1.16-7.diff.gz
+ e6affdee30f5e146bdcf01c042f5b41e1e8b931903497ffa9a672debdbeb7152 109768 westwood-shmmem_2.1.16-7_all.deb
+ 76d6a0798bc14a190e3793dd4df855839b538fbbde99e985d99c3549f8864216 17649 westwood-shmmem_2.1.16-7_amd64.buildinfo
+Files:
+ 0852c5f46810dc19bbbc91f04cf03f00 878 contrib/libs optional westwood-shmmem_2.1.16-7.dsc
+ e61d6c59a1519350c5cf9ae0daeda114 2032 contrib/libs optional westwood-shmmem_2.1.16-7.diff.gz
+ 1e75f0f74af47877d6a632b9f48d6d19 109768 contrib/libs optional westwood-shmmem_2.1.16-7_all.deb
+ 7538b5b1e6fa85368b8403a081d77af7 17649 contrib/libs optional westwood-shmmem_2.1.16-7_amd64.buildinfo
