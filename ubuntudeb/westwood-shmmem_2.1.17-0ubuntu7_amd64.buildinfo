@@ -2,19 +2,19 @@ Format: 1.0
 Source: westwood-shmmem
 Binary: westwood-shmmem
 Architecture: all source
-Version: 2.1.16-0ubuntu7
+Version: 2.1.17-0ubuntu7
 Checksums-Md5:
- 7ff0f6829af0da62de04d59c3d3145c4 906 westwood-shmmem_2.1.16-0ubuntu7.dsc
- 18bf5a2104f62b9176466ddf7b60abbc 109776 westwood-shmmem_2.1.16-0ubuntu7_all.deb
+ eb0dc080c0b92e457132e8885ed6951e 906 westwood-shmmem_2.1.17-0ubuntu7.dsc
+ 8881e28fbb349d825d76c2de9556fa1e 110408 westwood-shmmem_2.1.17-0ubuntu7_all.deb
 Checksums-Sha1:
- 87b8c6f91273c107a60fb4107dc1c33c6d960977 906 westwood-shmmem_2.1.16-0ubuntu7.dsc
- 8883b4817314c38cd81eeb3373e72a81648c29d3 109776 westwood-shmmem_2.1.16-0ubuntu7_all.deb
+ 271352aca0561fa2245880ca22c35d35c02d3fb3 906 westwood-shmmem_2.1.17-0ubuntu7.dsc
+ 2178676a07a5dca213348057b754db59b5660b44 110408 westwood-shmmem_2.1.17-0ubuntu7_all.deb
 Checksums-Sha256:
- 7c69267c1f9398cc5344d66e0774570cd3f0b2776e43155d9cbfdf0791e74324 906 westwood-shmmem_2.1.16-0ubuntu7.dsc
- b307232d267b959d251f28a9b8cecdb3d0b50d2cdd551b344a10a1ae35b88caa 109776 westwood-shmmem_2.1.16-0ubuntu7_all.deb
+ 257a481fcf538edac931005e721109b23d02fd99b53a16675e9c62f0cb7a1fc7 906 westwood-shmmem_2.1.17-0ubuntu7.dsc
+ 1e60ed20662819e5e6e7edf06b9e2ba38fb47a28b31c1c92014d1163fc56e078 110408 westwood-shmmem_2.1.17-0ubuntu7_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 12 Jul 2024 14:26:21 -0700
+Build-Date: Mon, 15 Jul 2024 07:04:33 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -504,4 +504,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1720785600"
+ SOURCE_DATE_EPOCH="1721044800"

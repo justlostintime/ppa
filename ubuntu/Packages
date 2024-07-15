@@ -647,16 +647,16 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  This is a Gambas library.
 
 Package: westwood-shmmem
-Version: 2.1.16-7
+Version: 2.1.17-7
 Architecture: all
 Maintainer: brian <justlostintime@gmail.com>
-Installed-Size: 371
+Installed-Size: 374
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0)
-Filename: ./westwood-shmmem_2.1.16-7_all.deb
-Size: 109768
-MD5sum: 1e75f0f74af47877d6a632b9f48d6d19
-SHA1: 60e4771b011496fb74cc36edabc4deb049839b0a
-SHA256: e6affdee30f5e146bdcf01c042f5b41e1e8b931903497ffa9a672debdbeb7152
+Filename: ./westwood-shmmem_2.1.17-7_all.deb
+Size: 110410
+MD5sum: bfaa68fd6544a2b336376d87478e0eb5
+SHA1: fc6fcaae1fba5f7d936a345878d3a64991adbe0e
+SHA256: e24fdbaef8512f4b56718270d95657106c07d4f5aae4756905818d65a9827aa9
 Section: contrib/libs
 Priority: optional
 Description: This provides an interface to the Linux Shared memory functions.
