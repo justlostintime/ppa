@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 04 Jun 2025 12:00:00 +0000
+Date: Fri, 06 Jun 2025 12:00:00 +0000
 Source: gsh
 Binary: gsh
 Built-For-Profiles: noudeb
@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.6.3-8) unstable; urgency=low
  .
-   * New release version
+   * Updated playground script to work without the website
 Checksums-Sha1:
- 8149b44d69921f86fe57640a1bcd96f8d2ff6439 1598 gsh_1.6.3-8.dsc
- 5251c8a53b6a89d8351251c2522fd747d670e4a4 5505 gsh_1.6.3-8.diff.gz
- e5026094d7743a136fe18e5395b049162a32baf7 950194 gsh_1.6.3-8_all.deb
- ffb793851b9e08614bd2c283d91c214697e8719e 18874 gsh_1.6.3-8_amd64.buildinfo
+ e8d8ac878715ce0d76980181bae2958db365c0b7 1598 gsh_1.6.3-8.dsc
+ cdd0270e3ac1e72b98487e87c9166bdb9ed6013e 5532 gsh_1.6.3-8.diff.gz
+ fb1914dd45bd1efd92daf47dd8e2ec18edeb1df0 954058 gsh_1.6.3-8_all.deb
+ 628137ffe9434611f2e7288098ce0cd4a9474fda 18874 gsh_1.6.3-8_amd64.buildinfo
 Checksums-Sha256:
- df8e2b7fa63c25bbdc92a0e4939296dbc44cf160066837c49778d7db399d9184 1598 gsh_1.6.3-8.dsc
- 695ed2b1db048bf6f7caa33ca5041e8abdd586400131cb40f984816191833d77 5505 gsh_1.6.3-8.diff.gz
- ab40d1c26939954fa833644e7431491e2e45a812ec4a7dbe3dfd3e1730bef566 950194 gsh_1.6.3-8_all.deb
- 2e06249f822cac40520be1c779f3efb147752fc82a6c9c4e60fabd4984075cce 18874 gsh_1.6.3-8_amd64.buildinfo
+ 91c3d53ae45f4fb783ef08371ed076af24f96eb6fa9d471a2875757aa2c80505 1598 gsh_1.6.3-8.dsc
+ f77cce2172575e4cc13fd6c9192a27c2392704e156d88f76180e62a9eb0b9a66 5532 gsh_1.6.3-8.diff.gz
+ 76dedc90bb637ae9d38bcd377377069a0758cfe7d195861dba70bfa4a4a43eac 954058 gsh_1.6.3-8_all.deb
+ d019c7a4172f342f3fea01896133b372154131347a393d7fe5a635d8b75aa224 18874 gsh_1.6.3-8_amd64.buildinfo
 Files:
- 218ef1e9890be5307c0f0ba60e3ee63c 1598 contrib/shells optional gsh_1.6.3-8.dsc
- efaec98ef5499f65c0864a4f31c08b82 5505 contrib/shells optional gsh_1.6.3-8.diff.gz
- 589d620a5c5220d6785157da51efe5d8 950194 contrib/shells optional gsh_1.6.3-8_all.deb
- eb00314e5abb8476a046db1c4ca6bc4a 18874 contrib/shells optional gsh_1.6.3-8_amd64.buildinfo
+ 20c48ee6bbe6f11a538ebab7ad1ee59e 1598 contrib/shells optional gsh_1.6.3-8.dsc
+ 36f0f4ce61823646b4a60b9e71eb87ce 5532 contrib/shells optional gsh_1.6.3-8.diff.gz
+ 1f5eb15700b833b71fbef89d610e6f98 954058 contrib/shells optional gsh_1.6.3-8_all.deb
+ 74418db6f6e7f61ede60fcbe8c0db8f3 18874 contrib/shells optional gsh_1.6.3-8_amd64.buildinfo

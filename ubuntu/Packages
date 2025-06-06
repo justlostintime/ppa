@@ -484,13 +484,13 @@ Package: gsh
 Version: 1.6.3-0ubuntu8
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 1931
+Installed-Size: 1938
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
 Filename: ./gsh_1.6.3-0ubuntu8_all.deb
-Size: 950212
-MD5sum: e3d90fd1997c09f97a08761dfa44fa23
-SHA1: 8f8b33f133f08632cda9a114b78c0ddb994de9ca
-SHA256: 6b1481d146206aeda5758c661bea6617a0e2d15eadae7a9417aaa95006e12dd7
+Size: 954076
+MD5sum: e1c9e846c8f09967cda2249b472378f4
+SHA1: 92cec9de3a56f65f460b13077b98aa37ed8a05e8
+SHA256: f2f577ee97a7fd50e6ff7c34aac1d951b88e8378912e6d31fc4f5ee4f11ff5a5
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash

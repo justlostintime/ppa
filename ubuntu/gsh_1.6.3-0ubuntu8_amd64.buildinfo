@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.6.3-0ubuntu8
 Checksums-Md5:
- cef195bdb7b8462f4eddc40d83710ca6 1626 gsh_1.6.3-0ubuntu8.dsc
- e3d90fd1997c09f97a08761dfa44fa23 950212 gsh_1.6.3-0ubuntu8_all.deb
+ 9fdc2ead25d0523f26a1d8ae17086c4a 1626 gsh_1.6.3-0ubuntu8.dsc
+ e1c9e846c8f09967cda2249b472378f4 954076 gsh_1.6.3-0ubuntu8_all.deb
 Checksums-Sha1:
- d59828500479863b9797a980ad7d00917055220c 1626 gsh_1.6.3-0ubuntu8.dsc
- 8f8b33f133f08632cda9a114b78c0ddb994de9ca 950212 gsh_1.6.3-0ubuntu8_all.deb
+ 66e1e3b630f60975323f77e9a6f2bc0546ccb285 1626 gsh_1.6.3-0ubuntu8.dsc
+ 92cec9de3a56f65f460b13077b98aa37ed8a05e8 954076 gsh_1.6.3-0ubuntu8_all.deb
 Checksums-Sha256:
- 05269fd182322c6c8c382d2e9d71c39d2164fefdf80e15530d956e491388f729 1626 gsh_1.6.3-0ubuntu8.dsc
- 6b1481d146206aeda5758c661bea6617a0e2d15eadae7a9417aaa95006e12dd7 950212 gsh_1.6.3-0ubuntu8_all.deb
+ 7f2b1f4039754656f3853376dd85608071dcbd985c292e0042777591485d50e4 1626 gsh_1.6.3-0ubuntu8.dsc
+ f2f577ee97a7fd50e6ff7c34aac1d951b88e8378912e6d31fc4f5ee4f11ff5a5 954076 gsh_1.6.3-0ubuntu8_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 04 Jun 2025 15:37:39 -0700
+Build-Date: Fri, 06 Jun 2025 16:42:38 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -520,4 +520,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1749038400"
+ SOURCE_DATE_EPOCH="1749211200"

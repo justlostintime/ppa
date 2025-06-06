@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.6.3-8
 Checksums-Md5:
- 218ef1e9890be5307c0f0ba60e3ee63c 1598 gsh_1.6.3-8.dsc
- 589d620a5c5220d6785157da51efe5d8 950194 gsh_1.6.3-8_all.deb
+ 20c48ee6bbe6f11a538ebab7ad1ee59e 1598 gsh_1.6.3-8.dsc
+ 1f5eb15700b833b71fbef89d610e6f98 954058 gsh_1.6.3-8_all.deb
 Checksums-Sha1:
- 8149b44d69921f86fe57640a1bcd96f8d2ff6439 1598 gsh_1.6.3-8.dsc
- e5026094d7743a136fe18e5395b049162a32baf7 950194 gsh_1.6.3-8_all.deb
+ e8d8ac878715ce0d76980181bae2958db365c0b7 1598 gsh_1.6.3-8.dsc
+ fb1914dd45bd1efd92daf47dd8e2ec18edeb1df0 954058 gsh_1.6.3-8_all.deb
 Checksums-Sha256:
- df8e2b7fa63c25bbdc92a0e4939296dbc44cf160066837c49778d7db399d9184 1598 gsh_1.6.3-8.dsc
- ab40d1c26939954fa833644e7431491e2e45a812ec4a7dbe3dfd3e1730bef566 950194 gsh_1.6.3-8_all.deb
+ 91c3d53ae45f4fb783ef08371ed076af24f96eb6fa9d471a2875757aa2c80505 1598 gsh_1.6.3-8.dsc
+ 76dedc90bb637ae9d38bcd377377069a0758cfe7d195861dba70bfa4a4a43eac 954058 gsh_1.6.3-8_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 04 Jun 2025 15:36:52 -0700
+Build-Date: Fri, 06 Jun 2025 16:41:54 -0700
 Build-Tainted-By:
  usr-local-has-includes
  usr-local-has-libraries
@@ -520,4 +520,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1749038400"
+ SOURCE_DATE_EPOCH="1749211200"

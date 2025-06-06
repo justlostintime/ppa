@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 04 Jun 2025 12:00:00 +0000
+Date: Fri, 06 Jun 2025 12:00:00 +0000
 Source: gsh
 Binary: gsh
 Built-For-Profiles: noudeb
@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.6.3-0ubuntu8) unstable; urgency=low
  .
-   * New release version
+   * Updated playground script to work without the website
 Checksums-Sha1:
- d59828500479863b9797a980ad7d00917055220c 1626 gsh_1.6.3-0ubuntu8.dsc
- b455c028a6c8508a2a41faeb10ec522a570755a5 5556 gsh_1.6.3-0ubuntu8.diff.gz
- 8f8b33f133f08632cda9a114b78c0ddb994de9ca 950212 gsh_1.6.3-0ubuntu8_all.deb
- d6ea7640b9ee6b5063f7606d8effea3551348717 18923 gsh_1.6.3-0ubuntu8_amd64.buildinfo
+ 66e1e3b630f60975323f77e9a6f2bc0546ccb285 1626 gsh_1.6.3-0ubuntu8.dsc
+ 21db8b54d71d39dee30b7079bcef2587561a4268 5625 gsh_1.6.3-0ubuntu8.diff.gz
+ 92cec9de3a56f65f460b13077b98aa37ed8a05e8 954076 gsh_1.6.3-0ubuntu8_all.deb
+ 91cce940c23a7cdb8854c6be0d6d3e00f5723545 18923 gsh_1.6.3-0ubuntu8_amd64.buildinfo
 Checksums-Sha256:
- 05269fd182322c6c8c382d2e9d71c39d2164fefdf80e15530d956e491388f729 1626 gsh_1.6.3-0ubuntu8.dsc
- 74382a69e9c3feaef042192472cafaee55a2e8096d4489ee56e868016474c131 5556 gsh_1.6.3-0ubuntu8.diff.gz
- 6b1481d146206aeda5758c661bea6617a0e2d15eadae7a9417aaa95006e12dd7 950212 gsh_1.6.3-0ubuntu8_all.deb
- 9740512c236316e9f2e55368df07de5c493172065b93048a55ea10b80c4243ef 18923 gsh_1.6.3-0ubuntu8_amd64.buildinfo
+ 7f2b1f4039754656f3853376dd85608071dcbd985c292e0042777591485d50e4 1626 gsh_1.6.3-0ubuntu8.dsc
+ 734d7b8cb4af64902b4195580f5b481d61104e41fae34c802a8098166068e51b 5625 gsh_1.6.3-0ubuntu8.diff.gz
+ f2f577ee97a7fd50e6ff7c34aac1d951b88e8378912e6d31fc4f5ee4f11ff5a5 954076 gsh_1.6.3-0ubuntu8_all.deb
+ b4dcf0f2fd30d89459d793ca30b6188bf517ba2483e0a1d603fe72d31b4da0da 18923 gsh_1.6.3-0ubuntu8_amd64.buildinfo
 Files:
- cef195bdb7b8462f4eddc40d83710ca6 1626 contrib/shells optional gsh_1.6.3-0ubuntu8.dsc
- a10965d9bfed8f16daacb0bfbeba866e 5556 contrib/shells optional gsh_1.6.3-0ubuntu8.diff.gz
- e3d90fd1997c09f97a08761dfa44fa23 950212 contrib/shells optional gsh_1.6.3-0ubuntu8_all.deb
- a10db8d821cfeeeca1dd555e8a4f6e7d 18923 contrib/shells optional gsh_1.6.3-0ubuntu8_amd64.buildinfo
+ 9fdc2ead25d0523f26a1d8ae17086c4a 1626 contrib/shells optional gsh_1.6.3-0ubuntu8.dsc
+ 476ed06922d53a5e7de0c6ffe78ed51a 5625 contrib/shells optional gsh_1.6.3-0ubuntu8.diff.gz
+ e1c9e846c8f09967cda2249b472378f4 954076 contrib/shells optional gsh_1.6.3-0ubuntu8_all.deb
+ d1251d77131a5ff4b20513329270b2c4 18923 contrib/shells optional gsh_1.6.3-0ubuntu8_amd64.buildinfo
