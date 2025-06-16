@@ -481,16 +481,16 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  This is a Gambas component written in Gambas.
 
 Package: gsh
-Version: 1.6.3-0ubuntu8
+Version: 1.6.3-0ubuntu9
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 1938
+Installed-Size: 2632
 Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
-Filename: ./gsh_1.6.3-0ubuntu8_all.deb
-Size: 954076
-MD5sum: e1c9e846c8f09967cda2249b472378f4
-SHA1: 92cec9de3a56f65f460b13077b98aa37ed8a05e8
-SHA256: f2f577ee97a7fd50e6ff7c34aac1d951b88e8378912e6d31fc4f5ee4f11ff5a5
+Filename: ./gsh_1.6.3-0ubuntu9_all.deb
+Size: 1132804
+MD5sum: 40dffdee9c279d575e039a7644931cb3
+SHA1: 7dbd46aee28727aa67f9ca11c1f358479272c1aa
+SHA256: db3819046b78a8dca13a495e3ed24740f86ab3a95a1c931f7dca09954a55c639
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
@@ -498,22 +498,23 @@ Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
  This program is written in Gambas.
 
 Package: scriptbuilder
-Version: 2.1.3-1
+Version: 2.2.1-0ubuntu2
 Architecture: all
 Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
-Installed-Size: 180
+Installed-Size: 570
 Depends: gambas3-runtime (>= 3.12), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.12), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.12), gambas3-gb-image (<< 3.99.0), gambas3-gb-form (>= 3.12), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.12), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-util (>= 3.12), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.12), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.12), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-form-editor (>= 3.12), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-settings (>= 3.12), gambas3-gb-settings (<< 3.99.0), gambas3-gb-form-mdi (>= 3.12), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-term (>= 3.12), gambas3-gb-term (<< 3.99.0), gambas3-gb-form-terminal (>= 3.12), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-net (>= 3.12), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.12), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-markdown (>= 3.12), gambas3-gb-markdown (<< 3.99.0), gambas3-gb-report2 (>= 3.12), gambas3-gb-report2 (<< 3.99.0), gambas3-gb-signal (>= 3.12), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.12), gambas3-gb-util-web (<< 3.99.0)
-Filename: ./scriptbuilder_2.1.3-1_all.deb
-Size: 45822
-MD5sum: be745fcfb8c648e93a30e7f113d76e9c
-SHA1: 86d6c6fc69d0b7de592b770af1dc4b52c977780b
-SHA256: 790f3fc2b45070e044cdbe3343aa2cb61b9b97b474dc8db1e91b22fb5a9934f2
+Filename: ./scriptbuilder_2.2.1-0ubuntu2_all.deb
+Size: 86342
+MD5sum: 2c0d83647118e1f71ad267138a60ae65
+SHA1: 02db62cb896e4178f86b3b934d0d6420a293cdee
+SHA256: 1c413a78cdd5d33508fe58943f9ecd0cf1830a8dd0643d048981519efaa8b08a
 Section: contrib/devel
 Priority: optional
 Description: Script Builder A simple editor to produce as output executable G...
  Script Builder
  A simple editor to produce as output executable Gambas3 scripts - .gbs
- Requires Gambas >= 3.12 .. Tested with version 12,13,14,15.16,17,18
+ Requires Gambas >= 3.12 .. Tested with version 12,13,14,15.16,17,18,19,20
+ Include playground examples in the project as online playground closes
  Update Translation french, greman,italian,jpanese,hindi,spanish...I tried
  anyway!
  Add Find, find next, find previous

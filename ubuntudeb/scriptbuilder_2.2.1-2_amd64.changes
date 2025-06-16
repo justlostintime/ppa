@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 15 Apr 2025 12:00:00 +0000
+Source: scriptbuilder
+Binary: scriptbuilder
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 2.2.1-2
+Distribution: unstable
+Urgency: low
+Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Changed-By: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Description:
+ scriptbuilder - Script Builder A simple editor to produce as output executable G.
+Changes:
+ scriptbuilder (2.2.1-2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 48e4601e7ec126e73938da270f3452f287cf5ea1 1982 scriptbuilder_2.2.1-2.dsc
+ fd22e8d1545eac10baebc2f959b25d2e8b680498 3127 scriptbuilder_2.2.1-2.diff.gz
+ ec500d418a98b932d17165bac8bb3887a3686467 86302 scriptbuilder_2.2.1-2_all.deb
+ 931c6440504ead0097afe07afaf7ce1bdb91dc17 22183 scriptbuilder_2.2.1-2_amd64.buildinfo
+Checksums-Sha256:
+ 0b3c06b9788e3c0aeac7b46ce923eb32fe27bcf48a872ecab1c2acbc56babd9f 1982 scriptbuilder_2.2.1-2.dsc
+ 17bc64a56ee24797fa1f3ca82f8ab444c36f3107aefd5d4ed3aa5b5bf43cd6dd 3127 scriptbuilder_2.2.1-2.diff.gz
+ 928882e4a9083ab938f7f49bf986ec8d5aba98a7e52e6452b4be44583fa28a96 86302 scriptbuilder_2.2.1-2_all.deb
+ 80e6946fef2f2c05162e75791c3c816b3d192ea4f56d5117c61b2f652945c045 22183 scriptbuilder_2.2.1-2_amd64.buildinfo
+Files:
+ 8f20df40066659367394f8e4997f6ad2 1982 contrib/devel optional scriptbuilder_2.2.1-2.dsc
+ 17e9daf9277f591a823812ad8dc74d7e 3127 contrib/devel optional scriptbuilder_2.2.1-2.diff.gz
+ c9620c96a14d8db13e037dece28b5135 86302 contrib/devel optional scriptbuilder_2.2.1-2_all.deb
+ a2bea08561ae57ffaf2f2e761c0ecb65 22183 contrib/devel optional scriptbuilder_2.2.1-2_amd64.buildinfo

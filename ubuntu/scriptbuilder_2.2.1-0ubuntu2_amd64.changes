@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Tue, 15 Apr 2025 12:00:00 +0000
+Source: scriptbuilder
+Binary: scriptbuilder
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 2.2.1-0ubuntu2
+Distribution: unstable
+Urgency: low
+Maintainer: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Changed-By: ScriptBuilder <scriptbuilder@westwoodsvcs.com>
+Description:
+ scriptbuilder - Script Builder A simple editor to produce as output executable G.
+Changes:
+ scriptbuilder (2.2.1-0ubuntu2) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 44d617ee645f83582efe3a6806ea1b1313c786ca 2010 scriptbuilder_2.2.1-0ubuntu2.dsc
+ 58872ac24b73462c9a64c5ebf745c03fbb4a96a2 3188 scriptbuilder_2.2.1-0ubuntu2.diff.gz
+ 02db62cb896e4178f86b3b934d0d6420a293cdee 86342 scriptbuilder_2.2.1-0ubuntu2_all.deb
+ 54f63de5cdb3e5543683fb4652450a4aefb9bc33 22232 scriptbuilder_2.2.1-0ubuntu2_amd64.buildinfo
+Checksums-Sha256:
+ 8114cfb90acf99a817994cee6916a3f48d0665369c57f781c65f5b1daf079b2b 2010 scriptbuilder_2.2.1-0ubuntu2.dsc
+ e8b56d2a5dc0e19a8823a196cd8041780ab4a7047679bd313db9b6d9e5e8f80b 3188 scriptbuilder_2.2.1-0ubuntu2.diff.gz
+ 1c413a78cdd5d33508fe58943f9ecd0cf1830a8dd0643d048981519efaa8b08a 86342 scriptbuilder_2.2.1-0ubuntu2_all.deb
+ 2e86f7a0b6567fd80257ccb0fa791da75e00de7256635b70ce2f11f9c2e8782c 22232 scriptbuilder_2.2.1-0ubuntu2_amd64.buildinfo
+Files:
+ 086a8307b60b3aa142dad0b9f5431a5e 2010 contrib/devel optional scriptbuilder_2.2.1-0ubuntu2.dsc
+ f972e97240a383b5e102fd275462bcd2 3188 contrib/devel optional scriptbuilder_2.2.1-0ubuntu2.diff.gz
+ 2c0d83647118e1f71ad267138a60ae65 86342 contrib/devel optional scriptbuilder_2.2.1-0ubuntu2_all.deb
+ bc69a8357dc464cc06b104bc3fe1e1d9 22232 contrib/devel optional scriptbuilder_2.2.1-0ubuntu2_amd64.buildinfo

@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 16 Jun 2025 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.6.3-0ubuntu9
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.6.3-0ubuntu9) unstable; urgency=low
+ .
+   * Updated to correctly contain the needed libraries
+Checksums-Sha1:
+ a5b5b96c93a796bebe2ce4ac4461ba742e94ed32 1626 gsh_1.6.3-0ubuntu9.dsc
+ 92408ce4dd0d09f4841c46415338befda04d0038 5666 gsh_1.6.3-0ubuntu9.diff.gz
+ 7dbd46aee28727aa67f9ca11c1f358479272c1aa 1132804 gsh_1.6.3-0ubuntu9_all.deb
+ 1dbbf8ca2d42a9ff2248b557ab915637d1de4f6d 18930 gsh_1.6.3-0ubuntu9_amd64.buildinfo
+Checksums-Sha256:
+ 106a42410cff7a438f262451665fec9c96b1a20ffc85a4956af972b770f31590 1626 gsh_1.6.3-0ubuntu9.dsc
+ cc41889ded83543906bc70d6ff9f08f84bd140da94bd08d65888f13b14a35a6e 5666 gsh_1.6.3-0ubuntu9.diff.gz
+ db3819046b78a8dca13a495e3ed24740f86ab3a95a1c931f7dca09954a55c639 1132804 gsh_1.6.3-0ubuntu9_all.deb
+ dee41a7190426dcba9bedd75e605b02ba1937146f93b67b73c6da69291e60ebc 18930 gsh_1.6.3-0ubuntu9_amd64.buildinfo
+Files:
+ df4e6b83e1d48fa5d7d3226566872499 1626 contrib/shells optional gsh_1.6.3-0ubuntu9.dsc
+ 81bd68cbe4ca19f00a87a0432926391c 5666 contrib/shells optional gsh_1.6.3-0ubuntu9.diff.gz
+ 40dffdee9c279d575e039a7644931cb3 1132804 contrib/shells optional gsh_1.6.3-0ubuntu9_all.deb
+ e787dfd4a4504a3d59f68f3e63cd218d 18930 contrib/shells optional gsh_1.6.3-0ubuntu9_amd64.buildinfo
