@@ -6,7 +6,7 @@ ppa install repository, Gambas Shell gsh, em6502
 appimage in all cases is 3.18.4
 Archlinux version is 3.18.4 until arch updates to 3.19
 
-# Update for new Releases of DEBian/mint/ubuntu
+# Update for new Releases of Debian/mint/ubuntu
 ```
 sudo -i
 curl -s --compressed "https://raw.githubusercontent.com/justlostintime/ppa/main/ubuntu/KEY.gpg" | gpg --dearmor > /etc/apt/trusted.gpg.d/westwood-archive-key.gpg
