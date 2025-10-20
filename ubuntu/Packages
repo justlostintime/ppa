@@ -1,3 +1,49 @@
+Package: brainf--k
+Version: 1.3.4-0ubuntu1
+Architecture: all
+Maintainer: Brian G <justlostintime@gmail.com>
+Installed-Size: 2412
+Depends: gambas3-runtime (>= 3.20), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.20), gambas3-gb-args (<< 3.99.0), gambas3-gb-form (>= 3.20), gambas3-gb-form (<< 3.99.0), gambas3-gb-form-dialog (>= 3.20), gambas3-gb-form-dialog (<< 3.99.0), gambas3-gb-form-editor (>= 3.20), gambas3-gb-form-editor (<< 3.99.0), gambas3-gb-form-mdi (>= 3.20), gambas3-gb-form-mdi (<< 3.99.0), gambas3-gb-form-print (>= 3.20), gambas3-gb-form-print (<< 3.99.0), gambas3-gb-form-stock (>= 3.20), gambas3-gb-form-stock (<< 3.99.0), gambas3-gb-form-terminal (>= 3.20), gambas3-gb-form-terminal (<< 3.99.0), gambas3-gb-highlight (>= 3.20), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-image (>= 3.20), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.20), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-settings (>= 3.20), gambas3-gb-settings (<< 3.99.0), gambas3-gb-term (>= 3.20), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.20), gambas3-gb-util (<< 3.99.0)
+Filename: ./brainf--k_1.3.4-0ubuntu1_all.deb
+Size: 134002
+MD5sum: 8fea28bbc5c40ac0af531f37f232dbc0
+SHA1: ae133b503b45a8ee805700636621941915aab0e1
+SHA256: 235b042395b44b3eae9d05d222010ad2b2d1bb3854dc8dcb0d64f9c49332fac7
+Section: contrib/interpreters
+Priority: optional
+Description: An implementation and examples of the very simple Brain F__K int...
+ An implementation and examples of the very simple Brain F__K interpreter
+ Also implements a JIT translator/compiler output for Gambas, BF Pcode, Python,
+ C, X86 Asm, Rust and Golang
+  binary programs with a simple Optimizer for Pcode before real code generation.
+ Added A Pcode interpreter to directly execute the Pcode generated from the BF
+ source code.
+ Updated Rust to run faster with release parm. Updated Gambas for programs
+ larger that 32K words of program
+  to allow to run correctly. Added Ability to pre load cell values
+ Updated to allow Gambas scripts to run with jit or not
+ Funny observation:  rust binary runs close to speed of gambas jit .....
+ Removed special rust -z options, so can use standard rust not nightly builds.
+ Added a copy button to each source code page.
+ Updated to use the current term package for rust : golang-golang-x-term-dev
+ package
+ Added seperate ternial window pop up for rust builds. They can Take 5-10
+ minutes or more. Allows user to run the other binaries and scripts while
+ waiting for rust build to complete.
+ Updated to correctly echo char in some binaries, correct display resize
+ Added rust source generation and build process.. So very very slow!
+ Updated Asm and C generated code improving Keyboard handling.
+ added Tic Tac Toe game. Python Code gen bug fix.
+ Each binary/script may be executed from the coresponding source code page.
+ The c source is built using the gcc compiler and the ASM source is built using
+ the fasm fast asembler
+ Be sure to have these installed before you try to Build/run the corresponding
+ Binaries
+ Includes Examples of
+ Calc pi, calculator, mandelbrot, fibonacci, etc all written in BF
+ Fix Python source code generation to correctly build getchar()
+ This program is written in Gambas.
+
 Package: em6502
 Version: 1.2.7-10
 Architecture: all
@@ -481,16 +527,16 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  This is a Gambas component written in Gambas.
 
 Package: gsh
-Version: 1.6.3-0ubuntu9
+Version: 1.6.6-0ubuntu12
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 2632
-Depends: gambas3-runtime (>= 3.18), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.18), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.18), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.18), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.18), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.18), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.18), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.18), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-term (>= 3.18), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.18), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.18), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.18), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.18), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.18), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.18), gambas3-gb-xml (<< 3.99.0)
-Filename: ./gsh_1.6.3-0ubuntu9_all.deb
-Size: 1132804
-MD5sum: 40dffdee9c279d575e039a7644931cb3
-SHA1: 7dbd46aee28727aa67f9ca11c1f358479272c1aa
-SHA256: db3819046b78a8dca13a495e3ed24740f86ab3a95a1c931f7dca09954a55c639
+Installed-Size: 2712
+Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0)
+Filename: ./gsh_1.6.6-0ubuntu12_all.deb
+Size: 773882
+MD5sum: d0947d44f87f89c73f4d62470e0322ce
+SHA1: fc926d5ffcabbb240c2b009ee06606f4b3be5d40
+SHA256: 9bba8c2977b3986d17671e3f459926f8e269e369c4a8768e9b451bccc51c87d4
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash

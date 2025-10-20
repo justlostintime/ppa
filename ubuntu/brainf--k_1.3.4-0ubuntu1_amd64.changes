@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Mon, 13 Oct 2025 12:00:00 +0000
+Source: brainf--k
+Binary: brainf--k
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.3.4-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ brainf--k  - An implementation and examples of the very simple Brain F__K int.
+Changes:
+ brainf--k (1.3.4-0ubuntu1) unstable; urgency=low
+ .
+   * Updated OPtimized the bf interpreter, added a Pcode interpreter to execute
+     the code used to buld all other sources from
+Checksums-Sha1:
+ cf89ce4d898f315278fed3612f2ff4d49980778f 1737 brainf--k_1.3.4-0ubuntu1.dsc
+ 5d6a259df3a2d52156fd3829926727e29ba5ecf2 2718 brainf--k_1.3.4-0ubuntu1.diff.gz
+ ae133b503b45a8ee805700636621941915aab0e1 134002 brainf--k_1.3.4-0ubuntu1_all.deb
+ a21da85df0ad2b4d26e450f21c7929c96de82850 7448 brainf--k_1.3.4-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ efb9e5bf538bfff60446183b0ad66fa646e0aaeeb509e5ee7161fc4beb15f4ee 1737 brainf--k_1.3.4-0ubuntu1.dsc
+ 127e7079d98335f6b57cef310fbd96f543483d67d57c53f59b96db900a732025 2718 brainf--k_1.3.4-0ubuntu1.diff.gz
+ 235b042395b44b3eae9d05d222010ad2b2d1bb3854dc8dcb0d64f9c49332fac7 134002 brainf--k_1.3.4-0ubuntu1_all.deb
+ 1d148e1e8dfa91b47d8623ea179bea2c60df8bc2f30f45115dffc3024f1d00c9 7448 brainf--k_1.3.4-0ubuntu1_amd64.buildinfo
+Files:
+ d8b4235d8156764db29ca160a1947225 1737 contrib/interpreters optional brainf--k_1.3.4-0ubuntu1.dsc
+ 4acf3e2d011c0bd5bd79244574bc32e1 2718 contrib/interpreters optional brainf--k_1.3.4-0ubuntu1.diff.gz
+ 8fea28bbc5c40ac0af531f37f232dbc0 134002 contrib/interpreters optional brainf--k_1.3.4-0ubuntu1_all.deb
+ d9547e294e0e665444d7db95d8527818 7448 contrib/interpreters optional brainf--k_1.3.4-0ubuntu1_amd64.buildinfo
