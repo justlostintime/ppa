@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sun, 20 Sep 2026 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.7.2-7
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.7.2-7) unstable; urgency=low
+ .
+   * Fix muli statement lines
+Checksums-Sha1:
+ eb407ccd1ab389fdd4c08644d374a7a8d6861cca 1598 gsh_1.7.2-7.dsc
+ 0ef42fc5a31161fe1a731624ec6b6d692d0c13ec 5851 gsh_1.7.2-7.diff.gz
+ 83963aac0e79addae1462e0ce3eb02d38a096167 794812 gsh_1.7.2-7_all.deb
+ 064cc6559050aade0bf4ca02c943a4e193af0522 8659 gsh_1.7.2-7_amd64.buildinfo
+Checksums-Sha256:
+ ec96206efa42f37cd9ccdaa16e5c6001af7c4e9131a13967f2c2872ff9ac9c1f 1598 gsh_1.7.2-7.dsc
+ 12ef7113432b5e3d549cab7adab3a4aa97021ebe4aa6616d4d725e850d1e4ad9 5851 gsh_1.7.2-7.diff.gz
+ 7aa329597e529ce7180522f995cceffc5781604ddb1396dbde654a325cb6e460 794812 gsh_1.7.2-7_all.deb
+ 03cfe312a1dfdc7989038cf50ae025ec712973c26b64ec5212987b3f05f3ddab 8659 gsh_1.7.2-7_amd64.buildinfo
+Files:
+ 25ffdf3b2fe9788862e419009172b08c 1598 contrib/shells optional gsh_1.7.2-7.dsc
+ 8a82b11911063af48582e388135f18d2 5851 contrib/shells optional gsh_1.7.2-7.diff.gz
+ caa06a3dc184e0b2510ca27f0d06edf2 794812 contrib/shells optional gsh_1.7.2-7_all.deb
+ b8b5b54954497d6dbf55143cc07616d4 8659 contrib/shells optional gsh_1.7.2-7_amd64.buildinfo
