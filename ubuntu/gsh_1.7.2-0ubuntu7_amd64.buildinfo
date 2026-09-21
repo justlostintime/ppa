@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.7.2-0ubuntu7
 Checksums-Md5:
- bb7ad65ed888c45a5910108aa9d5a372 1626 gsh_1.7.2-0ubuntu7.dsc
- 7b186ef096c73cf7454ff5133ce9c11f 794830 gsh_1.7.2-0ubuntu7_all.deb
+ 1e8cf1c5b0bd609e4596e6ac7773c0bd 1626 gsh_1.7.2-0ubuntu7.dsc
+ 3ead13f2c6b7793a8ab3ff6d69e89050 795978 gsh_1.7.2-0ubuntu7_all.deb
 Checksums-Sha1:
- 4ecdd8210df8b8bbe0546fe93ab5ee79ec72787a 1626 gsh_1.7.2-0ubuntu7.dsc
- 0972adf1f2e98b6aeae668889bce9650585a2d9a 794830 gsh_1.7.2-0ubuntu7_all.deb
+ ff7b298b1adac287268ee5e188b2f2774c83cdd2 1626 gsh_1.7.2-0ubuntu7.dsc
+ 5fb3ddd2e1d409d10683f61dbcc62acf72aa2916 795978 gsh_1.7.2-0ubuntu7_all.deb
 Checksums-Sha256:
- 810b5b3512fae684a59edc693ed6a728a82c1bbe291cd5421dc6ba0a05540f39 1626 gsh_1.7.2-0ubuntu7.dsc
- 2354f4e16eb1abcf6e2bc721a97ac4c10f010b9aa0bc6eab548fee5faf8973c1 794830 gsh_1.7.2-0ubuntu7_all.deb
+ 1d46d9d0737e928bfe8f560cc6f4fc93589d0076dfd414db345e092d3e9a12af 1626 gsh_1.7.2-0ubuntu7.dsc
+ d567d20753f28c98ec0461c273a6b39e67cf815a5229501ede825e19ef150f9c 795978 gsh_1.7.2-0ubuntu7_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 20 Sep 2026 13:49:06 -0700
+Build-Date: Sun, 20 Sep 2026 17:39:37 -0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -58,22 +58,22 @@ Installed-Build-Depends:
  g++-13 (= 13.3.0-6ubuntu2~24.04.1),
  g++-13-x86-64-linux-gnu (= 13.3.0-6ubuntu2~24.04.1),
  g++-x86-64-linux-gnu (= 4:13.2.0-7ubuntu1),
- gambas3-dev-tools (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-args (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-compress (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-dbus (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-highlight (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-image (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-net (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-net-curl (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-net-smtp (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-pcre (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-signal (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-term (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-util (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-util-web (= 3.22.99+git.20260908.794bc136-1),
- gambas3-gb-xml (= 3.22.99+git.20260908.794bc136-1),
- gambas3-runtime (= 3.22.99+git.20260908.794bc136-1),
+ gambas3-dev-tools (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-args (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-compress (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-dbus (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-highlight (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-image (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-net (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-net-curl (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-net-smtp (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-pcre (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-signal (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-term (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-util (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-util-web (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-gb-xml (= 3.22.99+git.20260916.68d3bf82-1),
+ gambas3-runtime (= 3.22.99+git.20260916.68d3bf82-1),
  gawk (= 1:5.2.1-2ubuntu0.1),
  gcc (= 4:13.2.0-7ubuntu1),
  gcc-13 (= 13.3.0-6ubuntu2~24.04.1),
@@ -137,7 +137,7 @@ Installed-Build-Depends:
  libgomp1 (= 16-20260315-1ubuntu1~24~ppa1),
  libgpg-error0 (= 1.47-3build2.1),
  libgprofng0 (= 2.42-4ubuntu2.10),
- libgssapi-krb5-2 (= 1.20.1-6ubuntu2.8),
+ libgssapi-krb5-2 (= 1.20.1-6ubuntu2.10),
  libhogweed6t64 (= 3.9.1-2.2build1.1),
  libhwasan0 (= 16-20260315-1ubuntu1~24~ppa1),
  libicu74 (= 74.2-1ubuntu3.1),
@@ -145,10 +145,10 @@ Installed-Build-Depends:
  libisl23 (= 0.26-3build1.1),
  libitm1 (= 16-20260315-1ubuntu1~24~ppa1),
  libjansson4 (= 2.14-2build2),
- libk5crypto3 (= 1.20.1-6ubuntu2.8),
+ libk5crypto3 (= 1.20.1-6ubuntu2.10),
  libkeyutils1 (= 1.6.3-3build1),
- libkrb5-3 (= 1.20.1-6ubuntu2.8),
- libkrb5support0 (= 1.20.1-6ubuntu2.8),
+ libkrb5-3 (= 1.20.1-6ubuntu2.10),
+ libkrb5support0 (= 1.20.1-6ubuntu2.10),
  libldap2 (= 2.6.10+dfsg-0ubuntu0.24.04.1),
  liblsan0 (= 16-20260315-1ubuntu1~24~ppa1),
  liblz4-1 (= 1.9.4-1build1.1),
