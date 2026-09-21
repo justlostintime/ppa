@@ -16,17 +16,17 @@ Changes:
  .
    * New release version
 Checksums-Sha1:
- eb960fee3eb2d192a52d13b8511941c164c3bbfb 1626 gsh_1.7.2-0ubuntu7.dsc
- a65c6405faad85756fb82f87d5e70af8e1ee437f 6036 gsh_1.7.2-0ubuntu7.diff.gz
- 9bbbcfd6e0b25fc7834e6f4e901199e4fa105a22 796198 gsh_1.7.2-0ubuntu7_all.deb
- 21e86c16abfaeee5b046b48753b1809169d32da7 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
+ 4792ded2306dc7bb3ca2fdc4aeddc0de7c80bd2c 1626 gsh_1.7.2-0ubuntu7.dsc
+ 352fb68bfffe38bbc1dcd352db6e57d6aa466106 6053 gsh_1.7.2-0ubuntu7.diff.gz
+ be27218f240150a43dfea775641ba92a3d7954e1 795102 gsh_1.7.2-0ubuntu7_all.deb
+ b086715f249a0c4b16fd2cdfdf6e5b94da9d92a7 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
 Checksums-Sha256:
- be8da42241ca2067fa2d3e553adc3d0f45ac80106302e7dc952babe0d26b7cc6 1626 gsh_1.7.2-0ubuntu7.dsc
- ecc0e708a0312c2a07d9d32eab0ca42016f6fd11bc51b4a380262c7e5347ba00 6036 gsh_1.7.2-0ubuntu7.diff.gz
- 6e85725bb1227c973c6d7295f4fb1d50354feff4f133cc1aa2a1e9ce147940a0 796198 gsh_1.7.2-0ubuntu7_all.deb
- f04dc887b6b1821a654fad82cab837dc3500f37b8c200144afc9bc17c5d185d8 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
+ 4cf7e9ef20d4541b7a7406438bf586e54bd7dfbc4dbb0ab2ec696df586a47da8 1626 gsh_1.7.2-0ubuntu7.dsc
+ 653bb47a902ff1495a55801e6f5b8e148851427845cdd01c9193c25795bad8ce 6053 gsh_1.7.2-0ubuntu7.diff.gz
+ 7024023d0e46436587ddf6e841a6e5705d6a10d4ee74ac835dacee566bf166ce 795102 gsh_1.7.2-0ubuntu7_all.deb
+ d1bc2ad9e6182dd64481fbb3ef721758371fa5ac7a27515389ec1510e38adc23 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
 Files:
- e18b8f5e7a9edb8d2e796f5a2018aee7 1626 contrib/shells optional gsh_1.7.2-0ubuntu7.dsc
- 76c7c9d8987bc2c8308297f7f711406f 6036 contrib/shells optional gsh_1.7.2-0ubuntu7.diff.gz
- 413a32e04008ceb7419ec12ceb2a6696 796198 contrib/shells optional gsh_1.7.2-0ubuntu7_all.deb
- 3bc747f182a5dd4542b4a054dc80f0c3 8712 contrib/shells optional gsh_1.7.2-0ubuntu7_amd64.buildinfo
+ 36c564d463194eb5ab1c8eeda5555936 1626 contrib/shells optional gsh_1.7.2-0ubuntu7.dsc
+ e908838e4e4434bd343f1132e54b46b3 6053 contrib/shells optional gsh_1.7.2-0ubuntu7.diff.gz
+ 88af85d1abb8c4ede03bba99cd4e285b 795102 contrib/shells optional gsh_1.7.2-0ubuntu7_all.deb
+ 57326481e5c138470d2f674e62f0730b 8712 contrib/shells optional gsh_1.7.2-0ubuntu7_amd64.buildinfo

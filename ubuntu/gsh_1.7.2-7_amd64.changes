@@ -16,17 +16,17 @@ Changes:
  .
    * New release version
 Checksums-Sha1:
- 390078bf0e659ed7f94b7e0baae5b02bf27d207b 1598 gsh_1.7.2-7.dsc
- c54d07e0ac497030873cc15c5cd6e97a005268cc 5907 gsh_1.7.2-7.diff.gz
- 52a1881c4f692ad3afbf1d21f2b6f4fcbb2dbcf7 796060 gsh_1.7.2-7_all.deb
- d133d007c3b280220b6e948744a7a17208b9dcac 8663 gsh_1.7.2-7_amd64.buildinfo
+ 6ee08ffa116ccb7517772fba1ccc11cc83460d4a 1598 gsh_1.7.2-7.dsc
+ d75c446c99731e856ce75a67c03428adda1fc26e 5929 gsh_1.7.2-7.diff.gz
+ 606f6977b26d3a845e50659e71e9cfac783acfed 794972 gsh_1.7.2-7_all.deb
+ 0c5c5cf6b4b9a7dfe91661ebb089d47d59913195 8663 gsh_1.7.2-7_amd64.buildinfo
 Checksums-Sha256:
- b789188656e18bdf778aaad07d66f155d840b63fdad682b5425debe15d74f42a 1598 gsh_1.7.2-7.dsc
- a1c8a801f884fe50ab22314aec92f8a2728dbd40dcd9687816c6cff3205ec00e 5907 gsh_1.7.2-7.diff.gz
- 095232c5a1c855d15773a6d37c5540550bc406fcc1db7293bcdc25c9777dddab 796060 gsh_1.7.2-7_all.deb
- b0b3c7adb00d5852123e1599980b6997b5cdb1ff8c706e8126ee9888df1062d9 8663 gsh_1.7.2-7_amd64.buildinfo
+ 81912570730f64f108e6916ae018b398ae87ed6abea3a6cf801145d460a5b7e2 1598 gsh_1.7.2-7.dsc
+ 53c18ed688ef57f8b01313d9569a2bd1dfc204874fc55c46693f3c4a5f4758fa 5929 gsh_1.7.2-7.diff.gz
+ 70a436a7531ebed6165e5fb6ee904666f6d835584c8726513ade775119b32ae2 794972 gsh_1.7.2-7_all.deb
+ 4922b9c8744c2d29209cdcc79d6c264a9f3955f4a537f5ee0e27e5e7fc80db08 8663 gsh_1.7.2-7_amd64.buildinfo
 Files:
- 109bfe5fb401ed5d81db1fb7be094e11 1598 contrib/shells optional gsh_1.7.2-7.dsc
- a8b417a91647cf9448fc53459b706309 5907 contrib/shells optional gsh_1.7.2-7.diff.gz
- d8abe37b2af4a1d9becaddf6ec0c3641 796060 contrib/shells optional gsh_1.7.2-7_all.deb
- d18625ced008f93591a75bcdf841012c 8663 contrib/shells optional gsh_1.7.2-7_amd64.buildinfo
+ 6987cfee1c2f28aa56c8e1ec737b7c73 1598 contrib/shells optional gsh_1.7.2-7.dsc
+ 431cd55794863f982358c135f507f719 5929 contrib/shells optional gsh_1.7.2-7.diff.gz
+ 64c57c09290e8e4ea701601d26bc775c 794972 contrib/shells optional gsh_1.7.2-7_all.deb
+ 077e0d0c9f2880ac09d0dcccba0bb1ed 8663 contrib/shells optional gsh_1.7.2-7_amd64.buildinfo
