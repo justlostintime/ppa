@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.7.2-0ubuntu7
 Checksums-Md5:
- 370c8c4b2355f66e089e4eb1eb674c90 1626 gsh_1.7.2-0ubuntu7.dsc
- b41da76e8f37c3ba87aad1407d92c9c1 796026 gsh_1.7.2-0ubuntu7_all.deb
+ e18b8f5e7a9edb8d2e796f5a2018aee7 1626 gsh_1.7.2-0ubuntu7.dsc
+ 413a32e04008ceb7419ec12ceb2a6696 796198 gsh_1.7.2-0ubuntu7_all.deb
 Checksums-Sha1:
- f9916b7d503419b5c68a10e40f9d10d2a19ae557 1626 gsh_1.7.2-0ubuntu7.dsc
- c014f86cf906106c39584e3210b6e65f885bac78 796026 gsh_1.7.2-0ubuntu7_all.deb
+ eb960fee3eb2d192a52d13b8511941c164c3bbfb 1626 gsh_1.7.2-0ubuntu7.dsc
+ 9bbbcfd6e0b25fc7834e6f4e901199e4fa105a22 796198 gsh_1.7.2-0ubuntu7_all.deb
 Checksums-Sha256:
- 184d0437db10d5dc5b3b076329b5adc3f0a01ecb13211f1e37d9d272f808f7db 1626 gsh_1.7.2-0ubuntu7.dsc
- edfd0e29a80173b2aca8eebf1c7904f96a57083aa067fb7e1b7bf1016687e4e0 796026 gsh_1.7.2-0ubuntu7_all.deb
+ be8da42241ca2067fa2d3e553adc3d0f45ac80106302e7dc952babe0d26b7cc6 1626 gsh_1.7.2-0ubuntu7.dsc
+ 6e85725bb1227c973c6d7295f4fb1d50354feff4f133cc1aa2a1e9ce147940a0 796198 gsh_1.7.2-0ubuntu7_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 21 Sep 2026 07:32:29 -0700
+Build-Date: Mon, 21 Sep 2026 08:31:12 -0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries

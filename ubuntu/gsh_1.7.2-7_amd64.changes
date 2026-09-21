@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.7.2-7) unstable; urgency=low
  .
-   * And one more time fix bug in highlight support
+   * New release version
 Checksums-Sha1:
- 5ea63ad9d247ed24d2611e0c95135a8474314b7a 1598 gsh_1.7.2-7.dsc
- ddeb8b32b74601967f3bcc9b5f560b8c465a2b8c 5891 gsh_1.7.2-7.diff.gz
- 90c29d3ca6e59279f0d1fa1c4bb085a8974e268a 796000 gsh_1.7.2-7_all.deb
- 9fcf1c23f980ffcb069c6d85fba9c8351cbe0f09 8663 gsh_1.7.2-7_amd64.buildinfo
+ 390078bf0e659ed7f94b7e0baae5b02bf27d207b 1598 gsh_1.7.2-7.dsc
+ c54d07e0ac497030873cc15c5cd6e97a005268cc 5907 gsh_1.7.2-7.diff.gz
+ 52a1881c4f692ad3afbf1d21f2b6f4fcbb2dbcf7 796060 gsh_1.7.2-7_all.deb
+ d133d007c3b280220b6e948744a7a17208b9dcac 8663 gsh_1.7.2-7_amd64.buildinfo
 Checksums-Sha256:
- dc319769654b64134af95c1ba65186a49b0434b5d968ae80edae00f6f1a938db 1598 gsh_1.7.2-7.dsc
- 3ec0243e5230643f79ee1a4ad6b02dc5a6e3639df79a54a1ee0a87b962b7804f 5891 gsh_1.7.2-7.diff.gz
- cfa665fbf2b38955c04cba991fa2f989b4c12a80786a38e5bd6722073bcbc95a 796000 gsh_1.7.2-7_all.deb
- 6a366501f7f8024023c314513dcebf8173f2db6f53c29271ef3956fa32a3c34d 8663 gsh_1.7.2-7_amd64.buildinfo
+ b789188656e18bdf778aaad07d66f155d840b63fdad682b5425debe15d74f42a 1598 gsh_1.7.2-7.dsc
+ a1c8a801f884fe50ab22314aec92f8a2728dbd40dcd9687816c6cff3205ec00e 5907 gsh_1.7.2-7.diff.gz
+ 095232c5a1c855d15773a6d37c5540550bc406fcc1db7293bcdc25c9777dddab 796060 gsh_1.7.2-7_all.deb
+ b0b3c7adb00d5852123e1599980b6997b5cdb1ff8c706e8126ee9888df1062d9 8663 gsh_1.7.2-7_amd64.buildinfo
 Files:
- 07779e522e93962b15d145e2c0076456 1598 contrib/shells optional gsh_1.7.2-7.dsc
- 623581cb92abcceaa5bff3bf86850cf4 5891 contrib/shells optional gsh_1.7.2-7.diff.gz
- 822381fad037b52cba71c2c5a7d5ceea 796000 contrib/shells optional gsh_1.7.2-7_all.deb
- 06409f2045e40e4b910901126d3f4e73 8663 contrib/shells optional gsh_1.7.2-7_amd64.buildinfo
+ 109bfe5fb401ed5d81db1fb7be094e11 1598 contrib/shells optional gsh_1.7.2-7.dsc
+ a8b417a91647cf9448fc53459b706309 5907 contrib/shells optional gsh_1.7.2-7.diff.gz
+ d8abe37b2af4a1d9becaddf6ec0c3641 796060 contrib/shells optional gsh_1.7.2-7_all.deb
+ d18625ced008f93591a75bcdf841012c 8663 contrib/shells optional gsh_1.7.2-7_amd64.buildinfo

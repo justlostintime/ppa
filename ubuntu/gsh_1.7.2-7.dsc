@@ -9,11 +9,11 @@ Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.21), gambas3-dev (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- 62d26e6286123d75dae0d4fd115791263682828d 1596488 gsh_1.7.2.orig.tar.gz
- ddeb8b32b74601967f3bcc9b5f560b8c465a2b8c 5891 gsh_1.7.2-7.diff.gz
+ 50290b945140c8513b5946d15ca4480b0a1a9edc 1596171 gsh_1.7.2.orig.tar.gz
+ c54d07e0ac497030873cc15c5cd6e97a005268cc 5907 gsh_1.7.2-7.diff.gz
 Checksums-Sha256:
- 1f76db749f45f15a14cba260f2ef05cc4e9906c0d92ab978671da64be901685a 1596488 gsh_1.7.2.orig.tar.gz
- 3ec0243e5230643f79ee1a4ad6b02dc5a6e3639df79a54a1ee0a87b962b7804f 5891 gsh_1.7.2-7.diff.gz
+ ad71f5667a926691dc940b9fe47be8ad9e5bbb4564d34efc8040d0e785efbaa8 1596171 gsh_1.7.2.orig.tar.gz
+ a1c8a801f884fe50ab22314aec92f8a2728dbd40dcd9687816c6cff3205ec00e 5907 gsh_1.7.2-7.diff.gz
 Files:
- bc0c138de74300dab0311b6227544d72 1596488 gsh_1.7.2.orig.tar.gz
- 623581cb92abcceaa5bff3bf86850cf4 5891 gsh_1.7.2-7.diff.gz
+ 451fd4e5abd0157b8545f76ec7d0432e 1596171 gsh_1.7.2.orig.tar.gz
+ a8b417a91647cf9448fc53459b706309 5907 gsh_1.7.2-7.diff.gz

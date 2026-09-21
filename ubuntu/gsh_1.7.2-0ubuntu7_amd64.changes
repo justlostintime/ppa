@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.7.2-0ubuntu7) unstable; urgency=low
  .
-   * And one more time fix bug in highlight support
+   * New release version
 Checksums-Sha1:
- f9916b7d503419b5c68a10e40f9d10d2a19ae557 1626 gsh_1.7.2-0ubuntu7.dsc
- f421a9997ba53fe99dc110036513cb7f7163e19d 6019 gsh_1.7.2-0ubuntu7.diff.gz
- c014f86cf906106c39584e3210b6e65f885bac78 796026 gsh_1.7.2-0ubuntu7_all.deb
- dddd0f14bb61f30d4a6bac5f66f69829decf51b1 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
+ eb960fee3eb2d192a52d13b8511941c164c3bbfb 1626 gsh_1.7.2-0ubuntu7.dsc
+ a65c6405faad85756fb82f87d5e70af8e1ee437f 6036 gsh_1.7.2-0ubuntu7.diff.gz
+ 9bbbcfd6e0b25fc7834e6f4e901199e4fa105a22 796198 gsh_1.7.2-0ubuntu7_all.deb
+ 21e86c16abfaeee5b046b48753b1809169d32da7 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
 Checksums-Sha256:
- 184d0437db10d5dc5b3b076329b5adc3f0a01ecb13211f1e37d9d272f808f7db 1626 gsh_1.7.2-0ubuntu7.dsc
- ecfbc8a7293970c7fb610bdbd546805dd81403d48bea5ae57b53e00a6967aab4 6019 gsh_1.7.2-0ubuntu7.diff.gz
- edfd0e29a80173b2aca8eebf1c7904f96a57083aa067fb7e1b7bf1016687e4e0 796026 gsh_1.7.2-0ubuntu7_all.deb
- 3a2dd3546f45ced23819acdb343d0e71f686b7f63ada347854d95b5eb9cd5aa9 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
+ be8da42241ca2067fa2d3e553adc3d0f45ac80106302e7dc952babe0d26b7cc6 1626 gsh_1.7.2-0ubuntu7.dsc
+ ecc0e708a0312c2a07d9d32eab0ca42016f6fd11bc51b4a380262c7e5347ba00 6036 gsh_1.7.2-0ubuntu7.diff.gz
+ 6e85725bb1227c973c6d7295f4fb1d50354feff4f133cc1aa2a1e9ce147940a0 796198 gsh_1.7.2-0ubuntu7_all.deb
+ f04dc887b6b1821a654fad82cab837dc3500f37b8c200144afc9bc17c5d185d8 8712 gsh_1.7.2-0ubuntu7_amd64.buildinfo
 Files:
- 370c8c4b2355f66e089e4eb1eb674c90 1626 contrib/shells optional gsh_1.7.2-0ubuntu7.dsc
- a721e09ea6b4649d90a2236efc1f4e3b 6019 contrib/shells optional gsh_1.7.2-0ubuntu7.diff.gz
- b41da76e8f37c3ba87aad1407d92c9c1 796026 contrib/shells optional gsh_1.7.2-0ubuntu7_all.deb
- a51ed5dfdd077747b5138516b59581bb 8712 contrib/shells optional gsh_1.7.2-0ubuntu7_amd64.buildinfo
+ e18b8f5e7a9edb8d2e796f5a2018aee7 1626 contrib/shells optional gsh_1.7.2-0ubuntu7.dsc
+ 76c7c9d8987bc2c8308297f7f711406f 6036 contrib/shells optional gsh_1.7.2-0ubuntu7.diff.gz
+ 413a32e04008ceb7419ec12ceb2a6696 796198 contrib/shells optional gsh_1.7.2-0ubuntu7_all.deb
+ 3bc747f182a5dd4542b4a054dc80f0c3 8712 contrib/shells optional gsh_1.7.2-0ubuntu7_amd64.buildinfo
