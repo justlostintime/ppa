@@ -9,11 +9,11 @@ Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.21), gambas3-dev (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- 40ae0d2a626759310827a0729970f2f22ecedef1 1597828 gsh_1.7.2.orig.tar.gz
- 4b6355c5415106cd59da3f9951f5cde6c468f00f 6042 gsh_1.7.2-0ubuntu10.diff.gz
+ 7613f2ca0d4c721c3178fb1012bc463d57c3a122 1597767 gsh_1.7.2.orig.tar.gz
+ 599aa6652f336997f1b3392d2a34c2c66abf065c 6051 gsh_1.7.2-0ubuntu10.diff.gz
 Checksums-Sha256:
- d0611213e9c080727e0ffa55fb7ddde1efdacc1c31fcef01dffb841f1da6beba 1597828 gsh_1.7.2.orig.tar.gz
- 5c11cf00f6f518f85b548a5336aa83118dc204d2438ba30050c2981f84b9e114 6042 gsh_1.7.2-0ubuntu10.diff.gz
+ 024d5c52d671f528f328e9a8db8942ea6f4060a8cca5356f3e67acff7104ee18 1597767 gsh_1.7.2.orig.tar.gz
+ a73ecbc76a0eee42eaf234b3e49ce03cb490bcca764bdda7485ce9a6d43ca8d1 6051 gsh_1.7.2-0ubuntu10.diff.gz
 Files:
- fcea1c07b6cafe89adc62269283c29a8 1597828 gsh_1.7.2.orig.tar.gz
- 40e9197eb4afa04f2484780c608fe0ab 6042 gsh_1.7.2-0ubuntu10.diff.gz
+ b618acfba6344d22c5f587012ab1a805 1597767 gsh_1.7.2.orig.tar.gz
+ e45fb79e78555cb4cbfb0f4a7e7603e4 6051 gsh_1.7.2-0ubuntu10.diff.gz

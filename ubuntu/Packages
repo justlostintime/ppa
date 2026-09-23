@@ -533,10 +533,10 @@ Maintainer: Brian G <justlostintime@gmail.com>
 Installed-Size: 3122
 Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0)
 Filename: ./gsh_1.7.2-0ubuntu10_all.deb
-Size: 795870
-MD5sum: 0bcf11e87d1c59f537360a06f19bb83f
-SHA1: a03d9a3d7f34a3cd04a1fadd911dba4183c955ff
-SHA256: 3276bf2eedaa2b8fab6ea69f0914f2dabdd3856ae3c8b981caee08fdc4411d0a
+Size: 797160
+MD5sum: 6bcdd12b005ca38eff7a708d5d2edf51
+SHA1: d5906b3f3247eb1027bdfea83a806c939dcc85b0
+SHA256: c1b9cab513742c932e8dad051c042b3066a4f53db05bf02a6976f1f9f3ea9f31
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
@@ -550,10 +550,10 @@ Maintainer: Brian G <justlostintime@gmail.com>
 Installed-Size: 3122
 Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0)
 Filename: ./gsh_1.7.2-10_all.deb
-Size: 797124
-MD5sum: 29e859d21fc34d5500d6532f4a64c4d9
-SHA1: 70644bceaab9d33807addac000f5da5ae6e969c4
-SHA256: c8ba330fc575d6ba31511a76c51855fddfd88de99e1189f53857aac1f416b815
+Size: 797144
+MD5sum: 3025d6d36ad9dc4075c4c715877a175b
+SHA1: ea12034fa0aa93a1af307f4ea0b51466723c6b1e
+SHA256: e42d12401981d03b5c62e0dbd31bc6100478196b59aa5c6762080fc23cbf1e4c
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash

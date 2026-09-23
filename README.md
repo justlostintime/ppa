@@ -1,6 +1,9 @@
 # ppa
 ppa install repository, Gambas Shell gsh, em6502
 
+# Note Release of Version 7.1.2
+This release fixes most bugs and requires gbs3 3.21 or greater
+
 # Note new directory 3.18 supports 3.18.4 and below
 3.18 directory now supports the older byte code versions
 appimage in all cases is 3.18.4

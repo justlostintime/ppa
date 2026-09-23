@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.7.2-0ubuntu10
 Checksums-Md5:
- ed2ca5b7def5d7709b9ea7ced8b3de02 1630 gsh_1.7.2-0ubuntu10.dsc
- 0bcf11e87d1c59f537360a06f19bb83f 795870 gsh_1.7.2-0ubuntu10_all.deb
+ c38a3e34fab50db2f84e67ba353cfbaf 1630 gsh_1.7.2-0ubuntu10.dsc
+ 6bcdd12b005ca38eff7a708d5d2edf51 797160 gsh_1.7.2-0ubuntu10_all.deb
 Checksums-Sha1:
- 0d141af2258c92f7cd2a1ab23016909e6ee45695 1630 gsh_1.7.2-0ubuntu10.dsc
- a03d9a3d7f34a3cd04a1fadd911dba4183c955ff 795870 gsh_1.7.2-0ubuntu10_all.deb
+ 04d5e79620928358993f20b60acf6116cd627c9a 1630 gsh_1.7.2-0ubuntu10.dsc
+ d5906b3f3247eb1027bdfea83a806c939dcc85b0 797160 gsh_1.7.2-0ubuntu10_all.deb
 Checksums-Sha256:
- 71a74359c63e2d5309d96e46dc8cd96c43b8e888d17170babd512a699b5ab9da 1630 gsh_1.7.2-0ubuntu10.dsc
- 3276bf2eedaa2b8fab6ea69f0914f2dabdd3856ae3c8b981caee08fdc4411d0a 795870 gsh_1.7.2-0ubuntu10_all.deb
+ 74f5672d94d300bd2c9751a18657a4d2ac23186272b2d338c2ccec32540df2d4 1630 gsh_1.7.2-0ubuntu10.dsc
+ c1b9cab513742c932e8dad051c042b3066a4f53db05bf02a6976f1f9f3ea9f31 797160 gsh_1.7.2-0ubuntu10_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 23 Sep 2026 12:23:33 -0700
+Build-Date: Wed, 23 Sep 2026 14:45:35 -0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -58,22 +58,22 @@ Installed-Build-Depends:
  g++-13 (= 13.3.0-6ubuntu2~24.04.1),
  g++-13-x86-64-linux-gnu (= 13.3.0-6ubuntu2~24.04.1),
  g++-x86-64-linux-gnu (= 4:13.2.0-7ubuntu1),
- gambas3-dev-tools (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-args (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-compress (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-dbus (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-highlight (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-image (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-net (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-net-curl (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-net-smtp (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-pcre (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-signal (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-term (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-util (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-util-web (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-gb-xml (= 3.22.99+git.20260921.832ffbc8-1),
- gambas3-runtime (= 3.22.99+git.20260921.832ffbc8-1),
+ gambas3-dev-tools (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-args (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-compress (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-dbus (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-highlight (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-image (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-net (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-net-curl (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-net-smtp (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-pcre (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-signal (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-term (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-util (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-util-web (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-gb-xml (= 3.22.99+git.20260922.f39edfc0-1),
+ gambas3-runtime (= 3.22.99+git.20260922.f39edfc0-1),
  gawk (= 1:5.2.1-2ubuntu0.1),
  gcc (= 4:13.2.0-7ubuntu1),
  gcc-13 (= 13.3.0-6ubuntu2~24.04.1),
@@ -197,7 +197,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.39.3-9ubuntu6.6),
  libxml2 (= 2.9.14+dfsg-1.3ubuntu3.9),
  libzstd1 (= 1.5.5+dfsg2-2build1.1),
- linux-libc-dev (= 6.8.0-139.139),
+ linux-libc-dev (= 6.8.0-142.142),
  login (= 1:4.13+dfsg1-4ubuntu3.2),
  lto-disabled-list (= 47),
  m4 (= 1.4.19-4build1),
