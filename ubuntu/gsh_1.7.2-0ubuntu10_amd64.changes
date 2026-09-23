@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Wed, 23 Sep 2026 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.7.2-0ubuntu10
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.7.2-0ubuntu10) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 0d141af2258c92f7cd2a1ab23016909e6ee45695 1630 gsh_1.7.2-0ubuntu10.dsc
+ 4b6355c5415106cd59da3f9951f5cde6c468f00f 6042 gsh_1.7.2-0ubuntu10.diff.gz
+ a03d9a3d7f34a3cd04a1fadd911dba4183c955ff 795870 gsh_1.7.2-0ubuntu10_all.deb
+ 2cdf25746fb1c1e84c86a3869c5db1d38a1b222e 8719 gsh_1.7.2-0ubuntu10_amd64.buildinfo
+Checksums-Sha256:
+ 71a74359c63e2d5309d96e46dc8cd96c43b8e888d17170babd512a699b5ab9da 1630 gsh_1.7.2-0ubuntu10.dsc
+ 5c11cf00f6f518f85b548a5336aa83118dc204d2438ba30050c2981f84b9e114 6042 gsh_1.7.2-0ubuntu10.diff.gz
+ 3276bf2eedaa2b8fab6ea69f0914f2dabdd3856ae3c8b981caee08fdc4411d0a 795870 gsh_1.7.2-0ubuntu10_all.deb
+ c35e02f3e2e1d9ab07552f02091ce8ea439be2262f1c0c11a4329e15e36643d6 8719 gsh_1.7.2-0ubuntu10_amd64.buildinfo
+Files:
+ ed2ca5b7def5d7709b9ea7ced8b3de02 1630 contrib/shells optional gsh_1.7.2-0ubuntu10.dsc
+ 40e9197eb4afa04f2484780c608fe0ab 6042 contrib/shells optional gsh_1.7.2-0ubuntu10.diff.gz
+ 0bcf11e87d1c59f537360a06f19bb83f 795870 contrib/shells optional gsh_1.7.2-0ubuntu10_all.deb
+ a25fa5e2057a5e858588fe9e508bdf54 8719 contrib/shells optional gsh_1.7.2-0ubuntu10_amd64.buildinfo
