@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.7.2-0ubuntu10
 Checksums-Md5:
- c38a3e34fab50db2f84e67ba353cfbaf 1630 gsh_1.7.2-0ubuntu10.dsc
- 6bcdd12b005ca38eff7a708d5d2edf51 797160 gsh_1.7.2-0ubuntu10_all.deb
+ 88e9d86006e22e5d22458cca68516835 1630 gsh_1.7.2-0ubuntu10.dsc
+ 973dceb3b813c416bd1c9710ea28206d 796940 gsh_1.7.2-0ubuntu10_all.deb
 Checksums-Sha1:
- 04d5e79620928358993f20b60acf6116cd627c9a 1630 gsh_1.7.2-0ubuntu10.dsc
- d5906b3f3247eb1027bdfea83a806c939dcc85b0 797160 gsh_1.7.2-0ubuntu10_all.deb
+ cd9cd0453238e68ba77be0d291744022fe40e7af 1630 gsh_1.7.2-0ubuntu10.dsc
+ 5eaa4671e3215829d658cd9b2b23edc92dc2cb76 796940 gsh_1.7.2-0ubuntu10_all.deb
 Checksums-Sha256:
- 74f5672d94d300bd2c9751a18657a4d2ac23186272b2d338c2ccec32540df2d4 1630 gsh_1.7.2-0ubuntu10.dsc
- c1b9cab513742c932e8dad051c042b3066a4f53db05bf02a6976f1f9f3ea9f31 797160 gsh_1.7.2-0ubuntu10_all.deb
+ 63d6162de67ad5b9f82eeff0e26c92adfa0b9fdd112c7b9bcc4e39f2e239276d 1630 gsh_1.7.2-0ubuntu10.dsc
+ 40a219139fc2679676dd8ee3dd0685e3aeb9cf8eb02e6622a2a1ab77b5fb5ddf 796940 gsh_1.7.2-0ubuntu10_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 23 Sep 2026 14:45:35 -0700
+Build-Date: Thu, 24 Sep 2026 11:20:38 -0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -234,4 +234,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1790164800"
+ SOURCE_DATE_EPOCH="1790251200"

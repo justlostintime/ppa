@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Wed, 23 Sep 2026 12:00:00 +0000
+Date: Thu, 24 Sep 2026 12:00:00 +0000
 Source: gsh
 Binary: gsh
 Built-For-Profiles: noudeb
@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.7.2-0ubuntu10) unstable; urgency=low
  .
-   * fix compiler directives being ignored
+   * Jit Issues
 Checksums-Sha1:
- 04d5e79620928358993f20b60acf6116cd627c9a 1630 gsh_1.7.2-0ubuntu10.dsc
- 599aa6652f336997f1b3392d2a34c2c66abf065c 6051 gsh_1.7.2-0ubuntu10.diff.gz
- d5906b3f3247eb1027bdfea83a806c939dcc85b0 797160 gsh_1.7.2-0ubuntu10_all.deb
- eba356908b1017ac8377cde6b7f5786df1b912ae 8719 gsh_1.7.2-0ubuntu10_amd64.buildinfo
+ cd9cd0453238e68ba77be0d291744022fe40e7af 1630 gsh_1.7.2-0ubuntu10.dsc
+ e0a4136954a2c9ae7914bdd6b1a08b73c9f93331 6062 gsh_1.7.2-0ubuntu10.diff.gz
+ 5eaa4671e3215829d658cd9b2b23edc92dc2cb76 796940 gsh_1.7.2-0ubuntu10_all.deb
+ c1ec0da8114eba003feaff796d16386348d52b5e 8719 gsh_1.7.2-0ubuntu10_amd64.buildinfo
 Checksums-Sha256:
- 74f5672d94d300bd2c9751a18657a4d2ac23186272b2d338c2ccec32540df2d4 1630 gsh_1.7.2-0ubuntu10.dsc
- a73ecbc76a0eee42eaf234b3e49ce03cb490bcca764bdda7485ce9a6d43ca8d1 6051 gsh_1.7.2-0ubuntu10.diff.gz
- c1b9cab513742c932e8dad051c042b3066a4f53db05bf02a6976f1f9f3ea9f31 797160 gsh_1.7.2-0ubuntu10_all.deb
- f598f3687b4801dba805d444deca9d83e794bc9756acfb4fc3953401f0e089cf 8719 gsh_1.7.2-0ubuntu10_amd64.buildinfo
+ 63d6162de67ad5b9f82eeff0e26c92adfa0b9fdd112c7b9bcc4e39f2e239276d 1630 gsh_1.7.2-0ubuntu10.dsc
+ afc34ae5136d6dc32d511e8656c17b1d5895c72a674c6b4037f9def5f6bca080 6062 gsh_1.7.2-0ubuntu10.diff.gz
+ 40a219139fc2679676dd8ee3dd0685e3aeb9cf8eb02e6622a2a1ab77b5fb5ddf 796940 gsh_1.7.2-0ubuntu10_all.deb
+ 9b6a605ff8d970180dbf9b29e7452b8e8538d46c463548fbf0e3fdf1f6331187 8719 gsh_1.7.2-0ubuntu10_amd64.buildinfo
 Files:
- c38a3e34fab50db2f84e67ba353cfbaf 1630 contrib/shells optional gsh_1.7.2-0ubuntu10.dsc
- e45fb79e78555cb4cbfb0f4a7e7603e4 6051 contrib/shells optional gsh_1.7.2-0ubuntu10.diff.gz
- 6bcdd12b005ca38eff7a708d5d2edf51 797160 contrib/shells optional gsh_1.7.2-0ubuntu10_all.deb
- 3b87c80690693bba6efa2fdbd18deaec 8719 contrib/shells optional gsh_1.7.2-0ubuntu10_amd64.buildinfo
+ 88e9d86006e22e5d22458cca68516835 1630 contrib/shells optional gsh_1.7.2-0ubuntu10.dsc
+ 6b0e8d1efed48ee915782185d60b72f5 6062 contrib/shells optional gsh_1.7.2-0ubuntu10.diff.gz
+ 973dceb3b813c416bd1c9710ea28206d 796940 contrib/shells optional gsh_1.7.2-0ubuntu10_all.deb
+ 0ebdda732fe22320324352c499f13c6d 8719 contrib/shells optional gsh_1.7.2-0ubuntu10_amd64.buildinfo
