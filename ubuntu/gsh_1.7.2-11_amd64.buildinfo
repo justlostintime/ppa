@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.7.2-11
 Checksums-Md5:
- 0239fd7b1eba525382da9feebc29f1f7 1602 gsh_1.7.2-11.dsc
- 821782f14b0fb583cd50ef2c1981e37c 803454 gsh_1.7.2-11_all.deb
+ 374a9c479cffac8f9022f3913a9a7edd 1602 gsh_1.7.2-11.dsc
+ 22fb7247117920f75ba917b3bf5cbc9e 783862 gsh_1.7.2-11_all.deb
 Checksums-Sha1:
- ffe803be61cc429171f7123f14c12567b59dc4de 1602 gsh_1.7.2-11.dsc
- 983465807087cba3c0875f2e95bd0090e4313304 803454 gsh_1.7.2-11_all.deb
+ 6d4d2f57c65352e380a7e3fecb601621fd12bfbb 1602 gsh_1.7.2-11.dsc
+ 782e05bc26bc9d32090cb4d89ffaf0bd9305c893 783862 gsh_1.7.2-11_all.deb
 Checksums-Sha256:
- e688c765cbf0858828dd40efea2aecaa11777a7afdc1733752d509b318f8004c 1602 gsh_1.7.2-11.dsc
- a3dd2d9e2aa1b2000a4bb84868bb4812ae71b013efb14bf4e1ad302f62a46349 803454 gsh_1.7.2-11_all.deb
+ 49482ad833bd87f313fa0f0e9b3f1f1e380387945ad2ca7bc27005f91c10307f 1602 gsh_1.7.2-11.dsc
+ f3b01ff24730e9a38d9c09e01fa4528571d9d36ec5601f2b4f7018acd0d80f7d 783862 gsh_1.7.2-11_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 24 Sep 2026 14:45:44 -0700
+Build-Date: Thu, 24 Sep 2026 16:47:01 -0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries

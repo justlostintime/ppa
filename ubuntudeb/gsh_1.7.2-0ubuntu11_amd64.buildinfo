@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.7.2-0ubuntu11
 Checksums-Md5:
- 9c1f4a8968a1e755544d05b94617dc0f 1630 gsh_1.7.2-0ubuntu11.dsc
- e6f323d7ac4ed0dd001bdf735339c815 803472 gsh_1.7.2-0ubuntu11_all.deb
+ 7a948d659a6f64570606010dfafefc16 1630 gsh_1.7.2-0ubuntu11.dsc
+ 4ccd18b19191e5198159e89a179e8b0f 783900 gsh_1.7.2-0ubuntu11_all.deb
 Checksums-Sha1:
- 5b0f5afb2a9b8abad5d1cadfce59999ec617898f 1630 gsh_1.7.2-0ubuntu11.dsc
- 8c7053a3d53dd1af051c95e92b63d65cae881a2e 803472 gsh_1.7.2-0ubuntu11_all.deb
+ b0bbdf70c082c96a3699fd8eadea37b79fbd58a2 1630 gsh_1.7.2-0ubuntu11.dsc
+ 7573bfe842524aac8215e352a74487c9822bb08f 783900 gsh_1.7.2-0ubuntu11_all.deb
 Checksums-Sha256:
- 2e47ca3d34e74a00190bf86307cf2cf732790b932c76e8b1b21473beaf386082 1630 gsh_1.7.2-0ubuntu11.dsc
- 45606c3599a6114ce50bd267c38f80a48e7973c15d210ea6df329219dcbab3dc 803472 gsh_1.7.2-0ubuntu11_all.deb
+ b5187f6ac67b75d919b7b4a6fb9dc554f3d8b82101e96a7db84de443950214ba 1630 gsh_1.7.2-0ubuntu11.dsc
+ 3846296555b7f8f4bdd234b09d1b54a5cb31adfefc2508557243c7e5a548638a 783900 gsh_1.7.2-0ubuntu11_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 24 Sep 2026 14:46:34 -0700
+Build-Date: Thu, 24 Sep 2026 16:48:01 -0700
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
