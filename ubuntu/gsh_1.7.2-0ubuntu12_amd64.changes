@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 28 Sep 2026 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.7.2-0ubuntu12
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.7.2-0ubuntu12) unstable; urgency=low
+ .
+   * New release version
+Checksums-Sha1:
+ 0bff805c2d256af71e72ccda8cdb0d5232d11a6a 1630 gsh_1.7.2-0ubuntu12.dsc
+ 64ee456b9276bee14c949a090c0457d5e8bc471a 6128 gsh_1.7.2-0ubuntu12.diff.gz
+ 784b25f695ecbb05288b1d1c7749093d341a8c6f 784526 gsh_1.7.2-0ubuntu12_all.deb
+ 319d9f6ca96ba2042b10aa65dfd7e45de075a35b 8721 gsh_1.7.2-0ubuntu12_amd64.buildinfo
+Checksums-Sha256:
+ cfbeb173dc15b60c04dd87d464d8224939098de3994133c75d62cb8f282488d3 1630 gsh_1.7.2-0ubuntu12.dsc
+ 0f00b247112508f58ffe21a91a211e5bf76dfd1d265b8f0c9fcd99b7db00131f 6128 gsh_1.7.2-0ubuntu12.diff.gz
+ 34f066bb13cf1fef6663d662d8791b5f60fc49c4d37c22c645fc83075f729009 784526 gsh_1.7.2-0ubuntu12_all.deb
+ f8b4774179bb3104f1d6e92b7d487e0eea361aa508224c6790c434b9d0128d24 8721 gsh_1.7.2-0ubuntu12_amd64.buildinfo
+Files:
+ 36e3fd0d2de17e879aabe01cbeee4b5c 1630 contrib/shells optional gsh_1.7.2-0ubuntu12.dsc
+ 833ffcc9fb2638c4964b8317bc53d026 6128 contrib/shells optional gsh_1.7.2-0ubuntu12.diff.gz
+ 067e373c56d01fd5e7e3eb7dba45dbd3 784526 contrib/shells optional gsh_1.7.2-0ubuntu12_all.deb
+ 2fffa09f88ebdded7abeb7e4285b152b 8721 contrib/shells optional gsh_1.7.2-0ubuntu12_amd64.buildinfo
