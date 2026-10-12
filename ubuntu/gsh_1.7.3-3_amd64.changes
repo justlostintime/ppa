@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 12 Oct 2026 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.7.3-3
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.7.3-3) unstable; urgency=low
+ .
+   * Updated lsclasses to give full details
+Checksums-Sha1:
+ bfbe105263d6c0c39282590d832af61e99d30efb 1598 gsh_1.7.3-3.dsc
+ 42b4b8725fd7040d5618e5690507c5fe15fb379c 6347 gsh_1.7.3-3.diff.gz
+ a1977d1e5225974574d587ac89667ae4c61ddb64 786816 gsh_1.7.3-3_all.deb
+ 8cb9d968d5d159d55df22548d51a07290ffb63fe 8728 gsh_1.7.3-3_amd64.buildinfo
+Checksums-Sha256:
+ c28f806233bde1a82607e752b982938b85b426416e75fe850009064ba2df520f 1598 gsh_1.7.3-3.dsc
+ ac634239ec193da3ba9ae345025554c85ec9f821c486370ebcac1166cccf7434 6347 gsh_1.7.3-3.diff.gz
+ 6bf867681a10e790a8b8f5942f1365fb66dcb8cbfee5f2db2624620c6a6c7603 786816 gsh_1.7.3-3_all.deb
+ 8faf977f5729231eedb36e53ffa08d8a4d6518915c965644bae710a231fc173b 8728 gsh_1.7.3-3_amd64.buildinfo
+Files:
+ caa19098f5189861466d1cd53af4faa7 1598 contrib/shells optional gsh_1.7.3-3.dsc
+ 44a664e683056635b8a49b6962720c98 6347 contrib/shells optional gsh_1.7.3-3.diff.gz
+ 0f5c4276ee42dc1e865f438dfbe2368f 786816 contrib/shells optional gsh_1.7.3-3_all.deb
+ 68ca912afe7dd5b83cf825da44e2a63f 8728 contrib/shells optional gsh_1.7.3-3_amd64.buildinfo

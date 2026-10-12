@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Mon, 12 Oct 2026 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.7.3-0ubuntu3
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.7.3-0ubuntu3) unstable; urgency=low
+ .
+   * Updated lsclasses to give full details
+Checksums-Sha1:
+ 7bd21ecd2477f2322d29d5e0261a8434346a0906 1626 gsh_1.7.3-0ubuntu3.dsc
+ 921a05b58f39957be48536ac82d9014cf58b69bb 6340 gsh_1.7.3-0ubuntu3.diff.gz
+ 0aa8b8e8c39a2c8aedbe0c37bc0ff196601ef588 786834 gsh_1.7.3-0ubuntu3_all.deb
+ eb25e6ad94a72dce805728209f8be1b2b18139d1 8777 gsh_1.7.3-0ubuntu3_amd64.buildinfo
+Checksums-Sha256:
+ 27c5e77212d6a1fea925f75e010155ff6caeee7bb26e6aa240ff6c9cef08b4c6 1626 gsh_1.7.3-0ubuntu3.dsc
+ 84fadc83950d95ef7d61cb3609ecc848b7e9ba4fbbea6031c59d79adb5fe311a 6340 gsh_1.7.3-0ubuntu3.diff.gz
+ 14744c5d947bb598fa388735f86d4f5c369b0a88bb8ab6789e6623b78de5b851 786834 gsh_1.7.3-0ubuntu3_all.deb
+ c51ba77c4ba5f68f5cf57d8009aabbe965b6ca6becdfe18ddb58ede39165aa65 8777 gsh_1.7.3-0ubuntu3_amd64.buildinfo
+Files:
+ be4764fb61f3241c3b18a247c8164cda 1626 contrib/shells optional gsh_1.7.3-0ubuntu3.dsc
+ 9bc80b0311e99d656844b13ba72aaecd 6340 contrib/shells optional gsh_1.7.3-0ubuntu3.diff.gz
+ ffb0aeea91ddd414c1209b61a31d6592 786834 contrib/shells optional gsh_1.7.3-0ubuntu3_all.deb
+ 8fc4b3b5e40625b3997edfd0f1f06619 8777 contrib/shells optional gsh_1.7.3-0ubuntu3_amd64.buildinfo
