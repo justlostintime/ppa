@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Fri, 20 Nov 2026 12:00:00 +0000
+Date: Sat, 21 Nov 2026 12:00:00 +0000
 Source: gsh
 Binary: gsh
 Built-For-Profiles: noudeb
@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.8.5-0ubuntu2) unstable; urgency=low
  .
-   * make sure enclosed functions in blocks work as expected
+   * Updates with latest libraries in the package build
 Checksums-Sha1:
- 5fe5b0dd5f6f7261657dea6490818569b8fdfb6a 1663 gsh_1.8.5-0ubuntu2.dsc
- 306776c2ab5ca1c0c3d039d86b9ed15296d9120d 10381 gsh_1.8.5-0ubuntu2.diff.gz
- 14618708101d513c824ce73c2c2b85a590939c24 1477310 gsh_1.8.5-0ubuntu2_all.deb
- c59b2a1191eac3df13f6062e81da06341079b2f2 9040 gsh_1.8.5-0ubuntu2_amd64.buildinfo
+ e00195406b52c4d8231c0eb79c52c2a5ac6c3f42 1663 gsh_1.8.5-0ubuntu2.dsc
+ df4b9fe629758320d23b5450c167a8a93b800d33 10361 gsh_1.8.5-0ubuntu2.diff.gz
+ 76110db8fe1ed4121fc7922e078623434d910c91 1491162 gsh_1.8.5-0ubuntu2_all.deb
+ e8f8f1cf8b86ca1a0d4c0ed62504efd4f128a34b 9040 gsh_1.8.5-0ubuntu2_amd64.buildinfo
 Checksums-Sha256:
- 5484dd3dcb1f61b89549a6b474c028e792cf34acc5dfb3d114d59fd511f1ee90 1663 gsh_1.8.5-0ubuntu2.dsc
- 017fb2fcb4f9e38338cb29c76ba18f93564786b9077813163fce95bdd1cfc43b 10381 gsh_1.8.5-0ubuntu2.diff.gz
- 9b3622775f7e8c0d573272e0e81cb833a565c36187e32d4c2003ec4d204cd10b 1477310 gsh_1.8.5-0ubuntu2_all.deb
- f79c9e520f798984d6b7459401fdb3bf1a40bc6616840abdf54c89a5ffc1e749 9040 gsh_1.8.5-0ubuntu2_amd64.buildinfo
+ 0e27195ca1353f8775a510596fc87d9092b221862903fcfd85cfbb6f3e1b8b90 1663 gsh_1.8.5-0ubuntu2.dsc
+ 27e01423b1b0086f190afc70ed2c240ca843e1807dd5d73611090c663612628e 10361 gsh_1.8.5-0ubuntu2.diff.gz
+ 2abf86459be73d7ed6b16056ca410320f4e621fe5bf98cbd063377dfd823b5b5 1491162 gsh_1.8.5-0ubuntu2_all.deb
+ 24cf3eb6f19844b0c1bf9f797c1ce1112f2415137bc2c1e189ba53d826d1d710 9040 gsh_1.8.5-0ubuntu2_amd64.buildinfo
 Files:
- 19319214fa03e0b8ca736a352077c51b 1663 contrib/shells optional gsh_1.8.5-0ubuntu2.dsc
- c2f3b0a389bf645538ebc28a25ca5c1a 10381 contrib/shells optional gsh_1.8.5-0ubuntu2.diff.gz
- a258bd37454a5f25e83e4b44ef896634 1477310 contrib/shells optional gsh_1.8.5-0ubuntu2_all.deb
- 4736bfdcd59a6c4167a4a01fdbbd2945 9040 contrib/shells optional gsh_1.8.5-0ubuntu2_amd64.buildinfo
+ 7c0afc9f692f0b83efe166e198d85682 1663 contrib/shells optional gsh_1.8.5-0ubuntu2.dsc
+ 3b5bf76ab35e2efa91dce7d4f70adc81 10361 contrib/shells optional gsh_1.8.5-0ubuntu2.diff.gz
+ a68405fc3efb179f7d8bde51fbba4bcd 1491162 contrib/shells optional gsh_1.8.5-0ubuntu2_all.deb
+ 883b771b01869a142b37b9a4d42e771a 9040 contrib/shells optional gsh_1.8.5-0ubuntu2_amd64.buildinfo

@@ -4,17 +4,17 @@ Binary: gsh
 Architecture: all source
 Version: 1.8.5-2
 Checksums-Md5:
- 90fc83d550dab249380923b46b3e3700 1635 gsh_1.8.5-2.dsc
- 95d6cab6f81f1a0d7eebec1994c77d6f 1477282 gsh_1.8.5-2_all.deb
+ c9caa8d46fa250f1bcf7a43387731143 1635 gsh_1.8.5-2.dsc
+ fd40ff01f7884a0648461d6be4bb1144 1491168 gsh_1.8.5-2_all.deb
 Checksums-Sha1:
- eb98ec3218c0c1f71dba57f3f9c6548d47d9a35c 1635 gsh_1.8.5-2.dsc
- 954182c0a92d2abfa077cd34790b641eaadfdd55 1477282 gsh_1.8.5-2_all.deb
+ a3749d280cbc3d439f9ad90ffe8f076ecabba3d8 1635 gsh_1.8.5-2.dsc
+ be3614f94b34d09ba7bc35fffe69a9aadc9a925d 1491168 gsh_1.8.5-2_all.deb
 Checksums-Sha256:
- 93a1eda64d65ce483cdee9ea460da9eb4ef0f3e46cd64f489096d8469f992dd8 1635 gsh_1.8.5-2.dsc
- 818eef1422b8a1476aac99c2beae20a26d0291f1856f86d32de7548d507ee5c8 1477282 gsh_1.8.5-2_all.deb
+ ac3ea7a88e3d9c0711b7e4ca4c3e67305bff5a40eefd6a729c48e5d9e0540eea 1635 gsh_1.8.5-2.dsc
+ 3d9ce6e3794f956ed0f3ad716dda7b4e4b11e61c0d6eda61a6b3340d9d163efa 1491168 gsh_1.8.5-2_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 20 Nov 2026 09:38:45 -0800
+Build-Date: Sat, 21 Nov 2026 07:07:11 -0800
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -242,4 +242,4 @@ Environment:
  LC_PAPER="en_US.UTF-8"
  LC_TELEPHONE="en_US.UTF-8"
  LC_TIME="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1795176000"
+ SOURCE_DATE_EPOCH="1795262400"
