@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 21 Nov 2026 12:00:00 +0000
+Source: westwood-gb-scripter
+Binary: westwood-gb-scripter
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 3.22.3-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: Westwood Justlostiontime <justlostintime@gmail.com>
+Changed-By: Westwood Justlostiontime <justlostintime@gmail.com>
+Description:
+ westwood-gb-scripter - Scripter Component, execute scripts and load script based plugins
+Changes:
+ westwood-gb-scripter (3.22.3-0ubuntu1) unstable; urgency=low
+ .
+   * Update for the appimage bug
+Checksums-Sha1:
+ 1f97c6c63a4693b76d30e2ee32fb534a8d851b35 1260 westwood-gb-scripter_3.22.3-0ubuntu1.dsc
+ 871728db4dd903a35580d6723dca010f4b307222 1696 westwood-gb-scripter_3.22.3-0ubuntu1.diff.gz
+ 09a98a9dbe796754ee76bcad45ecc42072ead0df 97112 westwood-gb-scripter_3.22.3-0ubuntu1_all.deb
+ 21ca327ec7d3af901a46f1591bd9bd650bd56ea7 7533 westwood-gb-scripter_3.22.3-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ cec3a11b1b34e0c241104511b106c9bfd508704c8b287a7c9f454d422695e4f6 1260 westwood-gb-scripter_3.22.3-0ubuntu1.dsc
+ 7768a3fadeb7d7f228d1edf357e0145c80e8d0a03e8a2b02e7540bfd4c69f2b2 1696 westwood-gb-scripter_3.22.3-0ubuntu1.diff.gz
+ 85cdfa68b2049bd698d8be817f94e0879413ab76401f4993fde1bc2d9ea201c7 97112 westwood-gb-scripter_3.22.3-0ubuntu1_all.deb
+ 8e6dfcdf380eefc9d58e06ee6ce8cb767c439acd9d2f5bca185672d061cb5daf 7533 westwood-gb-scripter_3.22.3-0ubuntu1_amd64.buildinfo
+Files:
+ d259e8f475d0cf13be3af85c211dd7f2 1260 contrib/libs optional westwood-gb-scripter_3.22.3-0ubuntu1.dsc
+ e971848a2184085e896c46fd638ff67a 1696 contrib/libs optional westwood-gb-scripter_3.22.3-0ubuntu1.diff.gz
+ 5b14cf596c911bcf538975cdf24d4f4c 97112 contrib/libs optional westwood-gb-scripter_3.22.3-0ubuntu1_all.deb
+ a6d93b2db1ecd7420ff0a04859c755a6 7533 contrib/libs optional westwood-gb-scripter_3.22.3-0ubuntu1_amd64.buildinfo

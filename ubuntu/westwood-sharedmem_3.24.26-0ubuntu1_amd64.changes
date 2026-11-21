@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 21 Nov 2026 12:00:00 +0000
+Source: westwood-sharedmem
+Binary: westwood-sharedmem
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 3.24.26-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: brian <brian@westwoodsvcs.com>
+Changed-By: brian <brian@westwoodsvcs.com>
+Description:
+ westwood-sharedmem - SharedMem is a library to enable shared memory between tasks and.
+Changes:
+ westwood-sharedmem (3.24.26-0ubuntu1) unstable; urgency=low
+ .
+   * 3.24.26 (the memsize/memfree/memused properties and notification fixes)
+Checksums-Sha1:
+ 836c887917cd330043e2e288491a3271fd22dec8 1178 westwood-sharedmem_3.24.26-0ubuntu1.dsc
+ 26d11f22fa34484640ea90d20d9c2a16695f2597 3122 westwood-sharedmem_3.24.26-0ubuntu1.diff.gz
+ d7a0c4d1d7d8cb1771ddf954f4e3e405b57781e8 134696 westwood-sharedmem_3.24.26-0ubuntu1_all.deb
+ 8c45ba55250341f40f0ab374149b5975d3066c07 7476 westwood-sharedmem_3.24.26-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ ba56487ae1d4d0e6b9c1f658158df098c62bbc0a173e15f387914c10b6979600 1178 westwood-sharedmem_3.24.26-0ubuntu1.dsc
+ 4b0da64f8a17f77da924642ab0ab9fa82c42d48ebdb032852044df9d99a2e3e7 3122 westwood-sharedmem_3.24.26-0ubuntu1.diff.gz
+ 4f376e754f668d2577888465f00b8af7e46d44585d49fd41ea1f94e6a23113ee 134696 westwood-sharedmem_3.24.26-0ubuntu1_all.deb
+ 637c270002e2340f22dec009a0c84c50e9420f3ce86f4f3ff391b46916f94646 7476 westwood-sharedmem_3.24.26-0ubuntu1_amd64.buildinfo
+Files:
+ 96574181979970ef1f0bd7d7fd2e9e07 1178 contrib/libs optional westwood-sharedmem_3.24.26-0ubuntu1.dsc
+ 977a4fd2a58258f068f9d89a24ce73f0 3122 contrib/libs optional westwood-sharedmem_3.24.26-0ubuntu1.diff.gz
+ 0bb3da5efbcbfc606a30cb10ca1bd48d 134696 contrib/libs optional westwood-sharedmem_3.24.26-0ubuntu1_all.deb
+ 5e8c933c19a0edfc994cb0b71cfe5105 7476 contrib/libs optional westwood-sharedmem_3.24.26-0ubuntu1_amd64.buildinfo

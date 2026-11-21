@@ -643,6 +643,40 @@ Description: Scripter Component, execute scripts and load script based plugins
  Scripter Component, execute scripts and load script based plugins
  This is a Gambas library.
 
+Package: westwood-gb-scripter
+Version: 3.22.3-0ubuntu1
+Architecture: all
+Maintainer: Westwood Justlostiontime <justlostintime@gmail.com>
+Installed-Size: 322
+Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0)
+Filename: ./westwood-gb-scripter_3.22.3-0ubuntu1_all.deb
+Size: 97112
+MD5sum: 5b14cf596c911bcf538975cdf24d4f4c
+SHA1: 09a98a9dbe796754ee76bcad45ecc42072ead0df
+SHA256: 85cdfa68b2049bd698d8be817f94e0879413ab76401f4993fde1bc2d9ea201c7
+Section: contrib/libs
+Priority: optional
+Description: Scripter Component, execute scripts and load script based plugins
+ Scripter Component, execute scripts and load script based plugins
+ This is a Gambas library.
+
+Package: westwood-gb-scripter
+Version: 3.22.3-1
+Architecture: all
+Maintainer: Westwood Justlostiontime <justlostintime@gmail.com>
+Installed-Size: 322
+Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0)
+Filename: ./westwood-gb-scripter_3.22.3-1_all.deb
+Size: 97100
+MD5sum: 84c37f7eff8e36d97ee0faf0062e4ada
+SHA1: f5c6c16e0920952b3f50b44ee38a2e0e5220a054
+SHA256: 6a4be3aa3808e43aba025aed26bec41f3a8feffaf4f5d75671f911ee0fa54ab9
+Section: contrib/libs
+Priority: optional
+Description: Scripter Component, execute scripts and load script based plugins
+ Scripter Component, execute scripts and load script based plugins
+ This is a Gambas library.
+
 Package: westwood-sharedmem
 Version: 3.19.2-1
 Architecture: all
@@ -693,6 +727,58 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  Version              ShmMem      release 3.18.3          Beta quality
  This is a Gambas library.
 
+Package: westwood-sharedmem
+Version: 3.24.26-0ubuntu1
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 478
+Depends: gambas3-runtime (>= 3.22), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.22), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.22), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.22), gambas3-gb-signal (<< 3.99.0), gambas3-gb-highlight (>= 3.22), gambas3-gb-highlight (<< 3.99.0)
+Filename: ./westwood-sharedmem_3.24.26-0ubuntu1_all.deb
+Size: 134696
+MD5sum: 0bb3da5efbcbfc606a30cb10ca1bd48d
+SHA1: d7a0c4d1d7d8cb1771ddf954f4e3e405b57781e8
+SHA256: 4f376e754f668d2577888465f00b8af7e46d44585d49fd41ea1f94e6a23113ee
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Version 3.19.3 Drops ShmMem as it has moved to a seperate repository
+ justlostintime/shmmem.
+ Version 3.19.1, added rename and speed refinements
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ Project contains both versions
+ Version              SharedMem release 3.18.3          production quality
+ Version              ShmMem      release 3.18.3          Beta quality
+ This is a Gambas library.
+
+Package: westwood-sharedmem
+Version: 3.24.26-1
+Architecture: all
+Maintainer: brian <brian@westwoodsvcs.com>
+Installed-Size: 478
+Depends: gambas3-runtime (>= 3.22), gambas3-runtime (<< 3.99.0), gambas3-gb-image (>= 3.22), gambas3-gb-image (<< 3.99.0), gambas3-gb-pcre (>= 3.22), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.22), gambas3-gb-signal (<< 3.99.0), gambas3-gb-highlight (>= 3.22), gambas3-gb-highlight (<< 3.99.0)
+Filename: ./westwood-sharedmem_3.24.26-1_all.deb
+Size: 134684
+MD5sum: a179bd8ae9419aae2d7f2335de209736
+SHA1: bfdbbd7156aca9a64411295bf7ad06d89f73a95d
+SHA256: 3e7e58e6a65d304620251d69641a3fc5b51245dbea2e96e0f4a01328d89d7b9a
+Section: contrib/libs
+Priority: optional
+Description: SharedMem is a library to enable shared memory between tasks and...
+ SharedMem is a library to enable shared memory between tasks and threads within
+ a single machine  with real time change notification, un-named shared memory
+ and named shared memory.
+ Version 3.19.3 Drops ShmMem as it has moved to a seperate repository
+ justlostintime/shmmem.
+ Version 3.19.1, added rename and speed refinements
+ Version 2 improves on speed 50% increase and variable lock/unlock reliability
+ Project contains both versions
+ Version              SharedMem release 3.18.3          production quality
+ Version              ShmMem      release 3.18.3          Beta quality
+ This is a Gambas library.
+
 Package: westwood-shmmem
 Version: 2.1.17-7
 Architecture: all
@@ -711,6 +797,140 @@ Description: This provides an interface to the Linux Shared memory functions.
  creation and sharing of shared memory segments across any number of local
  applications or tasks. Added A gambas script to graphically monitor the Shared
  Memory.
+ Oops, changed back to a library, had to debug as a component
+ Added _read _write serialization for shm datatypes
+ Bug fix for each with symbols..
+ More bug fixes, updateded web address to go to wiki, online information for
+ shmmem
+ Added class ShmValue to create a single value in shared memory
+ Updated Automatically convert Gambas Native arrays to ShmArrays in shared
+ memory. Performace...
+ Extended Array, with toCvs FromCvs, import, export, redim, and copy
+ Updated Buf fixes, lists and Arrays
+ Updated to add static arrays of variant values max 10 dimensions.
+ Updated such that array,list ans queues can be access by tag name.
+ Updated to by default use locks for all lists/queues. Lock are localized to the
+ specific list or queue being changed.
+ To do this it implements  an interface which allows any valid gambas object or
+ variable to be directly stored or accessed via the interface
+ example::
+ Public Sub Main()
+ MyShm = new ShmMem
+ With MyShm
+  !a = "this"
+  !b = 1
+ print !a, !b
+ end with
+ end
+ This is a Gambas library.
+
+Package: westwood-shmmem
+Version: 2.4.1-0ubuntu1
+Architecture: all
+Maintainer: brian <justlostintime@gmail.com>
+Installed-Size: 679
+Depends: gambas3-runtime (>= 3.20), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.20), gambas3-gb-args (<< 3.99.0), gambas3-gb-dbus (>= 3.20), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-logging (>= 3.20), gambas3-gb-logging (<< 3.99.0), gambas3-gb-net (>= 3.20), gambas3-gb-net (<< 3.99.0), gambas3-gb-signal (>= 3.20), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.20), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-net-smtp (>= 3.20), gambas3-gb-net-smtp (<< 3.99.0)
+Filename: ./westwood-shmmem_2.4.1-0ubuntu1_all.deb
+Size: 179404
+MD5sum: b730a55c10b266045cd164fc7125c8d4
+SHA1: 389024dc58692e64d5c8429264941a5b62ac39c3
+SHA256: a017fc2360fad6a1fa3be6098b0cda435371cda06a086f9544e99075c99f39c1
+Section: contrib/libs
+Priority: optional
+Description: A lot of work on crashes and bugs, a lot of cleanup on the examp...
+ A lot of work on crashes and bugs, a lot of cleanup on the examples. uses 3.21
+ as a base. documentation is very much cleaned up. The wiki has more detailed
+ descriptions of function.
+ This provides an interface to the Linux Shared memory functions. Allowing the
+ creation and sharing of shared memory segments across any number of local
+ applications or tasks. Added A gambas script to graphically monitor the Shared
+ Memory.
+ Oct 8 2026 fixed error found during 2 pass compiler, updated exec binary code
+ to actually work again
+ Updated to remove waits in semi handling
+ Updated  both C and asm builds in template directory for Thread Demo
+ New  Added WaitComplete and NoWait interface to threads started
+ New optimized execution and samples
+ NEW - added a c example of building an executable thread, includes build script
+ New - added more detailed examples using executable segments
+ New - Added support for executable shared memory segments added
+              ability to load x86 or arm code blocks and execute
+              this allows the application to directly generate JIT raw code and
+              jump to it as a thread on current application. The call to execute
+              waits for the threads completion before continuing.
+ New - Allow Gambas native values to be saved as ShmMem Symbols
+              for loading into an image.
+ Updated Export and import to allow for any type of array content
+ Bug fix - validate memory before operation.
+ Added Close method then must now be called before application exits, fixes
+ circular refrence and unrelease blocks
+ Oops, changed back to a library, had to debug as a component
+ Added _read _write serialization for shm datatypes
+ Bug fix for each with symbols..
+ More bug fixes, updateded web address to go to wiki, online information for
+ shmmem
+ Added class ShmValue to create a single value in shared memory
+ Updated Automatically convert Gambas Native arrays to ShmArrays in shared
+ memory. Performace...
+ Extended Array, with toCvs FromCvs, import, export, redim, and copy
+ Updated Buf fixes, lists and Arrays
+ Updated to add static arrays of variant values max 10 dimensions.
+ Updated such that array,list ans queues can be access by tag name.
+ Updated to by default use locks for all lists/queues. Lock are localized to the
+ specific list or queue being changed.
+ To do this it implements  an interface which allows any valid gambas object or
+ variable to be directly stored or accessed via the interface
+ example::
+ Public Sub Main()
+ MyShm = new ShmMem
+ With MyShm
+  !a = "this"
+  !b = 1
+ print !a, !b
+ end with
+ end
+ This is a Gambas library.
+
+Package: westwood-shmmem
+Version: 2.4.1-1
+Architecture: all
+Maintainer: brian <justlostintime@gmail.com>
+Installed-Size: 679
+Depends: gambas3-runtime (>= 3.20), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.20), gambas3-gb-args (<< 3.99.0), gambas3-gb-dbus (>= 3.20), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-logging (>= 3.20), gambas3-gb-logging (<< 3.99.0), gambas3-gb-net (>= 3.20), gambas3-gb-net (<< 3.99.0), gambas3-gb-signal (>= 3.20), gambas3-gb-signal (<< 3.99.0), gambas3-gb-util-web (>= 3.20), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-net-smtp (>= 3.20), gambas3-gb-net-smtp (<< 3.99.0)
+Filename: ./westwood-shmmem_2.4.1-1_all.deb
+Size: 179390
+MD5sum: f5884f7ae4fdc7a6c58560a1a3b1c0e2
+SHA1: 0b4ca09c1304fff95d966cf30d3ad5379335c21f
+SHA256: f106bfdb315aae324edfc9003739aff94e043d3cb295e68d84f9e239ed3f6654
+Section: contrib/libs
+Priority: optional
+Description: A lot of work on crashes and bugs, a lot of cleanup on the examp...
+ A lot of work on crashes and bugs, a lot of cleanup on the examples. uses 3.21
+ as a base. documentation is very much cleaned up. The wiki has more detailed
+ descriptions of function.
+ This provides an interface to the Linux Shared memory functions. Allowing the
+ creation and sharing of shared memory segments across any number of local
+ applications or tasks. Added A gambas script to graphically monitor the Shared
+ Memory.
+ Oct 8 2026 fixed error found during 2 pass compiler, updated exec binary code
+ to actually work again
+ Updated to remove waits in semi handling
+ Updated  both C and asm builds in template directory for Thread Demo
+ New  Added WaitComplete and NoWait interface to threads started
+ New optimized execution and samples
+ NEW - added a c example of building an executable thread, includes build script
+ New - added more detailed examples using executable segments
+ New - Added support for executable shared memory segments added
+              ability to load x86 or arm code blocks and execute
+              this allows the application to directly generate JIT raw code and
+              jump to it as a thread on current application. The call to execute
+              waits for the threads completion before continuing.
+ New - Allow Gambas native values to be saved as ShmMem Symbols
+              for loading into an image.
+ Updated Export and import to allow for any type of array content
+ Bug fix - validate memory before operation.
+ Added Close method then must now be called before application exits, fixes
+ circular refrence and unrelease blocks
  Oops, changed back to a library, had to debug as a component
  Added _read _write serialization for shm datatypes
  Bug fix for each with symbols..

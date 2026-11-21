@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 21 Nov 2026 12:00:00 +0000
+Source: westwood-shmmem
+Binary: westwood-shmmem
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 2.4.1-0ubuntu1
+Distribution: unstable
+Urgency: low
+Maintainer: brian <justlostintime@gmail.com>
+Changed-By: brian <justlostintime@gmail.com>
+Description:
+ westwood-shmmem - A lot of work on crashes and bugs, a lot of cleanup on the examp.
+Changes:
+ westwood-shmmem (2.4.1-0ubuntu1) unstable; urgency=low
+ .
+   * Name space and seperator build
+Checksums-Sha1:
+ 2bd33719ce3c348643e2ab468335b264695e748d 1315 westwood-shmmem_2.4.1-0ubuntu1.dsc
+ ffff389939854f4488f21cdb45eb65f68016d4e4 3367 westwood-shmmem_2.4.1-0ubuntu1.diff.gz
+ 389024dc58692e64d5c8429264941a5b62ac39c3 179404 westwood-shmmem_2.4.1-0ubuntu1_all.deb
+ da89e174a5b90fd1b795343dac9eecd7ce787bcf 7703 westwood-shmmem_2.4.1-0ubuntu1_amd64.buildinfo
+Checksums-Sha256:
+ 8b86550107aed601a45a5f35e7dd28f29760718ba6ed5ff39d4b92a733407d9f 1315 westwood-shmmem_2.4.1-0ubuntu1.dsc
+ f63b00b5d717dc0462baefa3e73cca514ea4604a22133f64443e9d73f240fdbe 3367 westwood-shmmem_2.4.1-0ubuntu1.diff.gz
+ a017fc2360fad6a1fa3be6098b0cda435371cda06a086f9544e99075c99f39c1 179404 westwood-shmmem_2.4.1-0ubuntu1_all.deb
+ 7d3e00b86564534061cc1ea7f0e97406dae122c4d7d910f170963f3cd7a5301d 7703 westwood-shmmem_2.4.1-0ubuntu1_amd64.buildinfo
+Files:
+ 28675ff67a4492bf0dd04e355e79f9cc 1315 contrib/libs optional westwood-shmmem_2.4.1-0ubuntu1.dsc
+ bdc1214fac53c6882bbd0e689bbc234a 3367 contrib/libs optional westwood-shmmem_2.4.1-0ubuntu1.diff.gz
+ b730a55c10b266045cd164fc7125c8d4 179404 contrib/libs optional westwood-shmmem_2.4.1-0ubuntu1_all.deb
+ a6988263606561af09415265c1b43bf4 7703 contrib/libs optional westwood-shmmem_2.4.1-0ubuntu1_amd64.buildinfo
