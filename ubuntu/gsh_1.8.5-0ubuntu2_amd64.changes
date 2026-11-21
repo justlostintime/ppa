@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.8.5-0ubuntu2) unstable; urgency=low
  .
-   * More Updates to support fedora install
+   * Help system fixes
 Checksums-Sha1:
- 1dba6b196bcb214e370010d207e958587e265d2f 1752 gsh_1.8.5-0ubuntu2.dsc
- 1294d2370480978a1ad377a74dedcf08fdc69b43 10559 gsh_1.8.5-0ubuntu2.diff.gz
- 39ef9949bfb7fe4b5c78d9b99ee9ec0a7667ce3c 1489810 gsh_1.8.5-0ubuntu2_all.deb
- 54df45f0891ca435c0fefe5fa4eff1402f3ae538 9151 gsh_1.8.5-0ubuntu2_amd64.buildinfo
+ dbdbdb035299be23162047239b85687d691692b1 1752 gsh_1.8.5-0ubuntu2.dsc
+ 877eea3e0425f9cf380ec95c3627a0570b0a78c1 10802 gsh_1.8.5-0ubuntu2.diff.gz
+ a05c2d0d485a277e4dd09b939940cddd3ea26758 1489842 gsh_1.8.5-0ubuntu2_all.deb
+ 86998a19e49c001ecff8ee376274adc2aa3b5a89 9151 gsh_1.8.5-0ubuntu2_amd64.buildinfo
 Checksums-Sha256:
- ffbb34ed853cc52760d985b97f609c78db63f5ec2a93792f5d275ef3ddb919c6 1752 gsh_1.8.5-0ubuntu2.dsc
- d4b3a26b74708026d28735311cca259beb291ff7ae33a225563b326871adfe2d 10559 gsh_1.8.5-0ubuntu2.diff.gz
- 062a5d3203c89efb9c1cb658026d601430f7fba69ec1d2521d31c922993a577c 1489810 gsh_1.8.5-0ubuntu2_all.deb
- 398e69f3395355f5e1b537f9e27de9d38fa587916f64d00540f332f59c217bf6 9151 gsh_1.8.5-0ubuntu2_amd64.buildinfo
+ 415d47761dc0e35c7d5ecec81f635ca9d3d70b5a103ae9e506a89d93fa6cd0bc 1752 gsh_1.8.5-0ubuntu2.dsc
+ 65144a789bc39fd8300f7686a55b1e4aec8c62dce1aab06e0be1c50d7af4f8f7 10802 gsh_1.8.5-0ubuntu2.diff.gz
+ 7d63a1561b687ca861459437d333c628846ac4b4be8c0460d9564d4bec40f287 1489842 gsh_1.8.5-0ubuntu2_all.deb
+ ae5602a9207565f6e19e4e60272a321205f40f3a9652998fa8af2f2983c4f62e 9151 gsh_1.8.5-0ubuntu2_amd64.buildinfo
 Files:
- a059d2a9f5ce998f1ed324aaf99f3f5b 1752 contrib/shells optional gsh_1.8.5-0ubuntu2.dsc
- e5a15e314ad4eef258e31f51a4937284 10559 contrib/shells optional gsh_1.8.5-0ubuntu2.diff.gz
- 5ecadc2b8bd39566819b5c6a770be29f 1489810 contrib/shells optional gsh_1.8.5-0ubuntu2_all.deb
- d2ef6d40c3c455feca988c7c0d2bce73 9151 contrib/shells optional gsh_1.8.5-0ubuntu2_amd64.buildinfo
+ c39612367810ab6cb760af354c268567 1752 contrib/shells optional gsh_1.8.5-0ubuntu2.dsc
+ a82632ac232fa0ce659e11022fbc9e49 10802 contrib/shells optional gsh_1.8.5-0ubuntu2.diff.gz
+ 69baa0175440f0c83769e6358ffbed52 1489842 contrib/shells optional gsh_1.8.5-0ubuntu2_all.deb
+ 154325f2970f4a6788e37264fd722db4 9151 contrib/shells optional gsh_1.8.5-0ubuntu2_amd64.buildinfo

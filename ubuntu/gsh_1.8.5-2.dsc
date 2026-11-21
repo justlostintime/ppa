@@ -9,11 +9,11 @@ Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.21), gambas3-dev (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- f2bcca8ea51fde0a4237daa09e5fb2404fff2f77 2225188 gsh_1.8.5.orig.tar.gz
- 0a10270dbdde0c5e4245359c40dc2050e285b85c 10331 gsh_1.8.5-2.diff.gz
+ 4f1aadc5bcca63c7122dfcd6ac621a2d9757f233 2225817 gsh_1.8.5.orig.tar.gz
+ a5033779f1f517527ed312e616d97a6f0c9b1136 10557 gsh_1.8.5-2.diff.gz
 Checksums-Sha256:
- 0834b17a38612d6b41706ef99e9e768fb2a980c154a5f348ba32060781614e39 2225188 gsh_1.8.5.orig.tar.gz
- 01789bd9731036948c72a39ae7b1dd33024ed4b5fbe46cfa04a08bf916490784 10331 gsh_1.8.5-2.diff.gz
+ a8f2b78e88d7f78916579eb3bfcafbd54ca944547f31fef130bf434bacfde51c 2225817 gsh_1.8.5.orig.tar.gz
+ d6c9c5eaf622728e25dfbb82f2dba9a87b6a3711e735b092ba6be85bc86f06bc 10557 gsh_1.8.5-2.diff.gz
 Files:
- 1f6b0a14f22644188b2d99f9b1f1336e 2225188 gsh_1.8.5.orig.tar.gz
- 43447492da981324e8855f52f0b848bc 10331 gsh_1.8.5-2.diff.gz
+ b2b67ff61ebfd139bc175bbce1c17814 2225817 gsh_1.8.5.orig.tar.gz
+ c1cf3527a57dcd65d26e4fa3dcbddb7f 10557 gsh_1.8.5-2.diff.gz
