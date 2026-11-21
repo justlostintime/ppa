@@ -530,13 +530,13 @@ Package: gsh
 Version: 1.8.5-0ubuntu2
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 4541
-Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0), libreadline-dev, html2text, less
+Installed-Size: 4543
+Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-xml-html (>= 3.21), gambas3-gb-xml-html (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0), libreadline8, less, ca-certificates
 Filename: ./gsh_1.8.5-0ubuntu2_all.deb
-Size: 1491162
-MD5sum: a68405fc3efb179f7d8bde51fbba4bcd
-SHA1: 76110db8fe1ed4121fc7922e078623434d910c91
-SHA256: 2abf86459be73d7ed6b16056ca410320f4e621fe5bf98cbd063377dfd823b5b5
+Size: 1492832
+MD5sum: 39ba2f61ff7325288a0dc781b9cc8164
+SHA1: 7f70b9e155e96cf06da255211dd236bdf57dc8c0
+SHA256: 699d01c93e47e74317250f7a4b0ccac27735ce251d7b69e5e0452a9ad384f838
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
@@ -547,13 +547,13 @@ Package: gsh
 Version: 1.8.5-2
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 4541
-Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0), html2text, libreadline-dev, less
+Installed-Size: 4543
+Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-xml-html (>= 3.21), gambas3-gb-xml-html (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0), libreadline8, less, ca-certificates
 Filename: ./gsh_1.8.5-2_all.deb
-Size: 1491168
-MD5sum: fd40ff01f7884a0648461d6be4bb1144
-SHA1: be3614f94b34d09ba7bc35fffe69a9aadc9a925d
-SHA256: 3d9ce6e3794f956ed0f3ad716dda7b4e4b11e61c0d6eda61a6b3340d9d163efa
+Size: 1492808
+MD5sum: 904c670a07fcdf1a3e5d074c0080900d
+SHA1: 6d71e7309402b6920c0310ab9c10bc9fb445d382
+SHA256: 69535be298da262adda8167c881167d8ce121f187641a0dc237a75f824d0c089
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash

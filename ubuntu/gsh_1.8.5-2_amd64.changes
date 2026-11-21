@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.8.5-2) unstable; urgency=low
  .
-   * Updates with latest libraries in the package build
+   * Add internal version of html2text
 Checksums-Sha1:
- a3749d280cbc3d439f9ad90ffe8f076ecabba3d8 1635 gsh_1.8.5-2.dsc
- 0bde82fc75da99d791e77a38a67ce403b4d08e48 10168 gsh_1.8.5-2.diff.gz
- be3614f94b34d09ba7bc35fffe69a9aadc9a925d 1491168 gsh_1.8.5-2_all.deb
- bb52542548fa9f3b9e8c4425e1253817f322fa9b 8991 gsh_1.8.5-2_amd64.buildinfo
+ 2fbd605fe57425e1aa2b098a764110e92b12bf63 1702 gsh_1.8.5-2.dsc
+ d336f978a126f7ae90e5c89aff6eec2d83137383 10207 gsh_1.8.5-2.diff.gz
+ 6d71e7309402b6920c0310ab9c10bc9fb445d382 1492808 gsh_1.8.5-2_all.deb
+ 57ba2172ada003eb4590993658057e7bfb4d1b77 8938 gsh_1.8.5-2_amd64.buildinfo
 Checksums-Sha256:
- ac3ea7a88e3d9c0711b7e4ca4c3e67305bff5a40eefd6a729c48e5d9e0540eea 1635 gsh_1.8.5-2.dsc
- f16b89b8f685cbd06d5ad0fe6f5a802a9e644db570fbbaaa3b0d39c8d820694a 10168 gsh_1.8.5-2.diff.gz
- 3d9ce6e3794f956ed0f3ad716dda7b4e4b11e61c0d6eda61a6b3340d9d163efa 1491168 gsh_1.8.5-2_all.deb
- 00bd1dbb45509beb3f1275b377c95a87a91e7e517cc076bf963a0023d615a942 8991 gsh_1.8.5-2_amd64.buildinfo
+ 34d6ef12e4130b1295266ea08c672fa93f07ec46b24463221ae38bf93c9dd632 1702 gsh_1.8.5-2.dsc
+ de6beab3dee94ee96b62cea453edebbbc61f7d6485eb03e2a10bf14fe0672e3b 10207 gsh_1.8.5-2.diff.gz
+ 69535be298da262adda8167c881167d8ce121f187641a0dc237a75f824d0c089 1492808 gsh_1.8.5-2_all.deb
+ 6cab908405d364bfce9121103b5ef95430e1ea0f2be772fd86c00259815eb82f 8938 gsh_1.8.5-2_amd64.buildinfo
 Files:
- c9caa8d46fa250f1bcf7a43387731143 1635 contrib/shells optional gsh_1.8.5-2.dsc
- 9f2b0a93ef3389f2dda7e1ecda62e821 10168 contrib/shells optional gsh_1.8.5-2.diff.gz
- fd40ff01f7884a0648461d6be4bb1144 1491168 contrib/shells optional gsh_1.8.5-2_all.deb
- 16e560e059aef55c2068f50051bf934b 8991 contrib/shells optional gsh_1.8.5-2_amd64.buildinfo
+ 274d44a4fa783bfea70abe863ade9337 1702 contrib/shells optional gsh_1.8.5-2.dsc
+ b67d86321e3f579ec59e890639443dae 10207 contrib/shells optional gsh_1.8.5-2.diff.gz
+ 904c670a07fcdf1a3e5d074c0080900d 1492808 contrib/shells optional gsh_1.8.5-2_all.deb
+ 4d36788a500572f5044f988c8814e1de 8938 contrib/shells optional gsh_1.8.5-2_amd64.buildinfo
