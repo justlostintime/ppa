@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 28 Nov 2026 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.8.5-3
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.8.5-3) unstable; urgency=low
+ .
+   * new clean version
+Checksums-Sha1:
+ c4b7053ed752029d536f5c5c89d05f419f4db848 1724 gsh_1.8.5-3.dsc
+ 58869daf6af9fcd527bd4544f94b9c2763da9257 11099 gsh_1.8.5-3.diff.gz
+ 896a36c45a21a14389e974fe96c48db9c87c8e9f 1507886 gsh_1.8.5-3_all.deb
+ bb3b6934d815900ac60a1c8a4b39db3c15e479e3 9126 gsh_1.8.5-3_amd64.buildinfo
+Checksums-Sha256:
+ 9407d388f6d0a2b7706e97a490309e6bde931f706b062dd818eed8dfecab42d2 1724 gsh_1.8.5-3.dsc
+ 2938cb743481dec37f59ba42af56406c6daaca6b9b38693f1ba2fb6130b759bb 11099 gsh_1.8.5-3.diff.gz
+ 289f94d9895005f2611d26f9a55df5b22b3bdbaeb13f246d6652d3309cd2895c 1507886 gsh_1.8.5-3_all.deb
+ f9bd5afa88c2c54baaeb7f67706352ebbe5f52adebcc091b56abdf3f5d8b88ce 9126 gsh_1.8.5-3_amd64.buildinfo
+Files:
+ 85cfed066f5c1fbbe8b7f9d3e8419f31 1724 contrib/shells optional gsh_1.8.5-3.dsc
+ 878248850168980fb0a0c6398d167bf0 11099 contrib/shells optional gsh_1.8.5-3.diff.gz
+ 5e9458d18e797ea3fd43f3b26c6a1b47 1507886 contrib/shells optional gsh_1.8.5-3_all.deb
+ a7ddcfe46fcaca830035e4194a38b47f 9126 contrib/shells optional gsh_1.8.5-3_amd64.buildinfo
