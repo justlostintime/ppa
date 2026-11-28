@@ -9,11 +9,11 @@ Build-Depends: debhelper (>= 10), gambas3-dev (>= 3.21), gambas3-dev (<< 3.99.0)
 Package-List:
  gsh deb contrib/shells optional arch=all
 Checksums-Sha1:
- 6d840bfb9f77db0db1803a64b2d7b719eac91522 2249763 gsh_1.8.5.orig.tar.gz
- a85b49a1f0b92efbf358958d3ee03646cde91461 11347 gsh_1.8.5-0ubuntu4.diff.gz
+ f833dd591355fc1f8d8e9b97d0e2421bd406004f 2249286 gsh_1.8.5.orig.tar.gz
+ 6ec14328bc2fe1f1bbde8725c3a767274398af2c 11373 gsh_1.8.5-0ubuntu4.diff.gz
 Checksums-Sha256:
- e30dc66a826ba67745bc8d22250a539945136f4f7387406032344c922e22abca 2249763 gsh_1.8.5.orig.tar.gz
- 5a07feb94e549ca06401415e336f6b0dd74b15dcde77f3dab21cf0ecb15b29a4 11347 gsh_1.8.5-0ubuntu4.diff.gz
+ 752112df0faeac7acd7d56fb12eb5351124afe13173239155f17408e01c01078 2249286 gsh_1.8.5.orig.tar.gz
+ 607297de3fcafc5eae057e20215a08ad5a5d3a6cbddea1bda24c5e2489882c8e 11373 gsh_1.8.5-0ubuntu4.diff.gz
 Files:
- cf5a00ebe8a08f330b350d9abd955cc6 2249763 gsh_1.8.5.orig.tar.gz
- ed3120310e86282dfed1d4163754e861 11347 gsh_1.8.5-0ubuntu4.diff.gz
+ 086806db0501783acc7ef3a22f7c64f9 2249286 gsh_1.8.5.orig.tar.gz
+ 24eac5a0db791a1cbf74f7f28924d341 11373 gsh_1.8.5-0ubuntu4.diff.gz

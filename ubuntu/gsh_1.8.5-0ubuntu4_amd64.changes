@@ -14,19 +14,19 @@ Description:
 Changes:
  gsh (1.8.5-0ubuntu4) unstable; urgency=low
  .
-   * Fix the auto align of end block when end blocks are typed
+   * update document files
 Checksums-Sha1:
- e6b344dfa7dd8c04f579fd3989039da9979d9dfa 1752 gsh_1.8.5-0ubuntu4.dsc
- a85b49a1f0b92efbf358958d3ee03646cde91461 11347 gsh_1.8.5-0ubuntu4.diff.gz
- 7d0faf3aba1141b1149ed4cca6a365e41c2d237e 1509070 gsh_1.8.5-0ubuntu4_all.deb
- 513c3c5061bf2f608a9a32c2faa6354214217638 9175 gsh_1.8.5-0ubuntu4_amd64.buildinfo
+ c28b97d28088693cb9d23c20fb6b26d908db5872 1752 gsh_1.8.5-0ubuntu4.dsc
+ 6ec14328bc2fe1f1bbde8725c3a767274398af2c 11373 gsh_1.8.5-0ubuntu4.diff.gz
+ 250698f0719102790e298cbffd4018f8aba1bf2c 1508724 gsh_1.8.5-0ubuntu4_all.deb
+ 48a45dbd745a854beb49df9b90e832d7b5486888 9175 gsh_1.8.5-0ubuntu4_amd64.buildinfo
 Checksums-Sha256:
- abf68500eafbdd2832e7d788baf221a71635086e4e8f9d8b92792df27893eb69 1752 gsh_1.8.5-0ubuntu4.dsc
- 5a07feb94e549ca06401415e336f6b0dd74b15dcde77f3dab21cf0ecb15b29a4 11347 gsh_1.8.5-0ubuntu4.diff.gz
- c12434b0ecd43a4b2653b4928b85d8a1765f17cf95e4cd5da09fc5af413b15f9 1509070 gsh_1.8.5-0ubuntu4_all.deb
- c90a97edbd47df091ab3b40cbc26811d4b9d407e2529418eada482ec0d545efa 9175 gsh_1.8.5-0ubuntu4_amd64.buildinfo
+ a4a0d7421e498a52941286d51a8af42f327c87379f5a4f5d3e1f33fc25779740 1752 gsh_1.8.5-0ubuntu4.dsc
+ 607297de3fcafc5eae057e20215a08ad5a5d3a6cbddea1bda24c5e2489882c8e 11373 gsh_1.8.5-0ubuntu4.diff.gz
+ ecccd273c53f98449939b8d4df8874f0c06592148c0315bdd7f872b6bd54846b 1508724 gsh_1.8.5-0ubuntu4_all.deb
+ 85381b43f87dc5144dfc2821bdd79c4e6bd0b7407b09034df8ca2e760f478acf 9175 gsh_1.8.5-0ubuntu4_amd64.buildinfo
 Files:
- 04bdd0cba20b1324099f21da95127fa5 1752 contrib/shells optional gsh_1.8.5-0ubuntu4.dsc
- ed3120310e86282dfed1d4163754e861 11347 contrib/shells optional gsh_1.8.5-0ubuntu4.diff.gz
- da67b4db8982a90607b51781c0dfa92b 1509070 contrib/shells optional gsh_1.8.5-0ubuntu4_all.deb
- 46234c0f15eea7bebd0202f725c15d0e 9175 contrib/shells optional gsh_1.8.5-0ubuntu4_amd64.buildinfo
+ 694295de8c6d15dbec8503aa0ee62f64 1752 contrib/shells optional gsh_1.8.5-0ubuntu4.dsc
+ 24eac5a0db791a1cbf74f7f28924d341 11373 contrib/shells optional gsh_1.8.5-0ubuntu4.diff.gz
+ ac081a27b6c0d3f881d6f84e3a8101c9 1508724 contrib/shells optional gsh_1.8.5-0ubuntu4_all.deb
+ c75775476dc3ccdbd791176d528c0e62 9175 contrib/shells optional gsh_1.8.5-0ubuntu4_amd64.buildinfo
