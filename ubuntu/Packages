@@ -527,16 +527,16 @@ Description: SharedMem is a library to enable shared memory between tasks and...
  This is a Gambas component written in Gambas.
 
 Package: gsh
-Version: 1.8.5-0ubuntu3
+Version: 1.8.5-0ubuntu4
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 4583
+Installed-Size: 4584
 Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-xml-html (>= 3.21), gambas3-gb-xml-html (<< 3.99.0), libreadline-dev, less, ca-certificates, gambas3-dev-tools
-Filename: ./gsh_1.8.5-0ubuntu3_all.deb
-Size: 1507956
-MD5sum: c1ca35eb392f1e13918edeb15b65f432
-SHA1: 5f0fec0026ca67f0e87696ac8b0e30d218a5942c
-SHA256: 2a7aa794922206dae6ccafb5f56403efb2ed8dd4ffd31f2ff0625de07b508748
+Filename: ./gsh_1.8.5-0ubuntu4_all.deb
+Size: 1509070
+MD5sum: da67b4db8982a90607b51781c0dfa92b
+SHA1: 7d0faf3aba1141b1149ed4cca6a365e41c2d237e
+SHA256: c12434b0ecd43a4b2653b4928b85d8a1765f17cf95e4cd5da09fc5af413b15f9
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
@@ -544,16 +544,16 @@ Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash
  This program is written in Gambas.
 
 Package: gsh
-Version: 1.8.5-3
+Version: 1.8.5-4
 Architecture: all
 Maintainer: Brian G <justlostintime@gmail.com>
-Installed-Size: 4583
+Installed-Size: 4584
 Depends: gambas3-runtime (>= 3.21), gambas3-runtime (<< 3.99.0), gambas3-gb-args (>= 3.21), gambas3-gb-args (<< 3.99.0), gambas3-gb-compress (>= 3.21), gambas3-gb-compress (<< 3.99.0), gambas3-gb-dbus (>= 3.21), gambas3-gb-dbus (<< 3.99.0), gambas3-gb-image (>= 3.21), gambas3-gb-image (<< 3.99.0), gambas3-gb-net (>= 3.21), gambas3-gb-net (<< 3.99.0), gambas3-gb-pcre (>= 3.21), gambas3-gb-pcre (<< 3.99.0), gambas3-gb-signal (>= 3.21), gambas3-gb-signal (<< 3.99.0), gambas3-gb-term (>= 3.21), gambas3-gb-term (<< 3.99.0), gambas3-gb-util (>= 3.21), gambas3-gb-util (<< 3.99.0), gambas3-gb-util-web (>= 3.21), gambas3-gb-util-web (<< 3.99.0), gambas3-gb-xml (>= 3.21), gambas3-gb-xml (<< 3.99.0), gambas3-gb-highlight (>= 3.21), gambas3-gb-highlight (<< 3.99.0), gambas3-gb-net-curl (>= 3.21), gambas3-gb-net-curl (<< 3.99.0), gambas3-gb-net-smtp (>= 3.21), gambas3-gb-net-smtp (<< 3.99.0), gambas3-gb-xml-html (>= 3.21), gambas3-gb-xml-html (<< 3.99.0), libreadline-dev, less, ca-certificates, gambas3-dev-tools
-Filename: ./gsh_1.8.5-3_all.deb
-Size: 1507886
-MD5sum: 5e9458d18e797ea3fd43f3b26c6a1b47
-SHA1: 896a36c45a21a14389e974fe96c48db9c87c8e9f
-SHA256: 289f94d9895005f2611d26f9a55df5b22b3bdbaeb13f246d6652d3309cd2895c
+Filename: ./gsh_1.8.5-4_all.deb
+Size: 1508792
+MD5sum: 785c1563fe77ff646a7b5157f6425d83
+SHA1: 06ff6d9909b1dfe9fd2c8793d47b6aeb2cb96e0f
+SHA256: 522e5e7c7c7958995d0e4be6685124445aa11eeaea81d3463a08c6790e65773f
 Section: contrib/shells
 Priority: optional
 Description: Gambas interactive shell/scripter Advanced Replacement for sh/bash

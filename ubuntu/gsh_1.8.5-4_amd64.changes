@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Sat, 28 Nov 2026 12:00:00 +0000
+Source: gsh
+Binary: gsh
+Built-For-Profiles: noudeb
+Architecture: source all
+Version: 1.8.5-4
+Distribution: unstable
+Urgency: low
+Maintainer: Brian G <justlostintime@gmail.com>
+Changed-By: Brian G <justlostintime@gmail.com>
+Description:
+ gsh        - Gambas interactive shell/scripter Advanced Replacement for sh/bas
+Changes:
+ gsh (1.8.5-4) unstable; urgency=low
+ .
+   * Fix the auto align of end block when end blocks are typed
+Checksums-Sha1:
+ 3247e3706ca98204b5a26d048f0526baa9498300 1724 gsh_1.8.5-4.dsc
+ 4745c6849a6ba1ea034b219b64e0f709d2abd2c7 11251 gsh_1.8.5-4.diff.gz
+ 06ff6d9909b1dfe9fd2c8793d47b6aeb2cb96e0f 1508792 gsh_1.8.5-4_all.deb
+ e6f3a7846767c4564f6349b200d4f0231c5df3cf 9126 gsh_1.8.5-4_amd64.buildinfo
+Checksums-Sha256:
+ d17d3fbdde2a3b5476a77e4ca1f18e87695991dd015cb6381866665c2f1bec00 1724 gsh_1.8.5-4.dsc
+ eb2626fe29ff6f7532a114158ac189ae5cf557019261a2f6945f6384a2589e5c 11251 gsh_1.8.5-4.diff.gz
+ 522e5e7c7c7958995d0e4be6685124445aa11eeaea81d3463a08c6790e65773f 1508792 gsh_1.8.5-4_all.deb
+ 866901d7ade598fd6b7047c6df436da9b8b1a4e1371728e565c9c814c6856ba4 9126 gsh_1.8.5-4_amd64.buildinfo
+Files:
+ f9ce255de4482984f7d24baa1641fcff 1724 contrib/shells optional gsh_1.8.5-4.dsc
+ aa746d8049678cfef261426e73c9caa4 11251 contrib/shells optional gsh_1.8.5-4.diff.gz
+ 785c1563fe77ff646a7b5157f6425d83 1508792 contrib/shells optional gsh_1.8.5-4_all.deb
+ 506503c2fec77f3eee272bb96d343897 9126 contrib/shells optional gsh_1.8.5-4_amd64.buildinfo

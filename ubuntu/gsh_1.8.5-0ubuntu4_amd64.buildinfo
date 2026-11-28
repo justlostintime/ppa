@@ -2,19 +2,19 @@ Format: 1.0
 Source: gsh
 Binary: gsh
 Architecture: all source
-Version: 1.8.5-3
+Version: 1.8.5-0ubuntu4
 Checksums-Md5:
- 85cfed066f5c1fbbe8b7f9d3e8419f31 1724 gsh_1.8.5-3.dsc
- 5e9458d18e797ea3fd43f3b26c6a1b47 1507886 gsh_1.8.5-3_all.deb
+ 04bdd0cba20b1324099f21da95127fa5 1752 gsh_1.8.5-0ubuntu4.dsc
+ da67b4db8982a90607b51781c0dfa92b 1509070 gsh_1.8.5-0ubuntu4_all.deb
 Checksums-Sha1:
- c4b7053ed752029d536f5c5c89d05f419f4db848 1724 gsh_1.8.5-3.dsc
- 896a36c45a21a14389e974fe96c48db9c87c8e9f 1507886 gsh_1.8.5-3_all.deb
+ e6b344dfa7dd8c04f579fd3989039da9979d9dfa 1752 gsh_1.8.5-0ubuntu4.dsc
+ 7d0faf3aba1141b1149ed4cca6a365e41c2d237e 1509070 gsh_1.8.5-0ubuntu4_all.deb
 Checksums-Sha256:
- 9407d388f6d0a2b7706e97a490309e6bde931f706b062dd818eed8dfecab42d2 1724 gsh_1.8.5-3.dsc
- 289f94d9895005f2611d26f9a55df5b22b3bdbaeb13f246d6652d3309cd2895c 1507886 gsh_1.8.5-3_all.deb
+ abf68500eafbdd2832e7d788baf221a71635086e4e8f9d8b92792df27893eb69 1752 gsh_1.8.5-0ubuntu4.dsc
+ c12434b0ecd43a4b2653b4928b85d8a1765f17cf95e4cd5da09fc5af413b15f9 1509070 gsh_1.8.5-0ubuntu4_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sat, 28 Nov 2026 03:38:30 -0800
+Build-Date: Sat, 28 Nov 2026 09:57:44 -0800
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
